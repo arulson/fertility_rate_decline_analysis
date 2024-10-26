@@ -1,2 +1,3 @@
 # fertility_rate_decline_analysis
-analyse fertility_rate_decline using lasso regression
+
+We use a lasso regression to determine the causal factors of the fertility rate decline in various countries.

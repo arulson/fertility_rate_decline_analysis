@@ -1,0 +1,8907 @@
+year,country,female_years_schooling
+1950,Afghanistan,0.07
+1951,Afghanistan,0.07
+1952,Afghanistan,0.07
+1953,Afghanistan,0.07
+1954,Afghanistan,0.07
+1955,Afghanistan,0.08
+1956,Afghanistan,0.08
+1957,Afghanistan,0.08
+1958,Afghanistan,0.08
+1959,Afghanistan,0.08
+1960,Afghanistan,0.09
+1961,Afghanistan,0.09
+1962,Afghanistan,0.09
+1963,Afghanistan,0.09
+1964,Afghanistan,0.09
+1965,Afghanistan,0.09
+1966,Afghanistan,0.09
+1967,Afghanistan,0.09
+1968,Afghanistan,0.09
+1969,Afghanistan,0.09
+1970,Afghanistan,0.16
+1971,Afghanistan,0.16
+1972,Afghanistan,0.16
+1973,Afghanistan,0.16
+1974,Afghanistan,0.16
+1975,Afghanistan,0.21
+1976,Afghanistan,0.21
+1977,Afghanistan,0.21
+1978,Afghanistan,0.21
+1979,Afghanistan,0.21
+1980,Afghanistan,0.33
+1981,Afghanistan,0.33
+1982,Afghanistan,0.33
+1983,Afghanistan,0.33
+1984,Afghanistan,0.33
+1985,Afghanistan,0.5
+1986,Afghanistan,0.5
+1987,Afghanistan,0.5
+1988,Afghanistan,0.5
+1989,Afghanistan,0.5
+1990,Afghanistan,0.66
+1991,Afghanistan,0.66
+1992,Afghanistan,0.66
+1993,Afghanistan,0.66
+1994,Afghanistan,0.66
+1995,Afghanistan,0.86
+1996,Afghanistan,0.86
+1997,Afghanistan,0.86
+1998,Afghanistan,0.86
+1999,Afghanistan,0.86
+2000,Afghanistan,1.03
+2001,Afghanistan,1.03
+2002,Afghanistan,1.03
+2003,Afghanistan,1.03
+2004,Afghanistan,1.03
+2005,Afghanistan,1.27
+2006,Afghanistan,1.27
+2007,Afghanistan,1.27
+2008,Afghanistan,1.27
+2009,Afghanistan,1.27
+2010,Afghanistan,1.97
+1950,Albania,2.16
+1951,Albania,2.16
+1952,Albania,2.16
+1953,Albania,2.16
+1954,Albania,2.16
+1955,Albania,2.26
+1956,Albania,2.26
+1957,Albania,2.26
+1958,Albania,2.26
+1959,Albania,2.26
+1960,Albania,2.48
+1961,Albania,2.48
+1962,Albania,2.48
+1963,Albania,2.48
+1964,Albania,2.48
+1965,Albania,2.86
+1966,Albania,2.86
+1967,Albania,2.86
+1968,Albania,2.86
+1969,Albania,2.86
+1970,Albania,3.72
+1971,Albania,3.72
+1972,Albania,3.72
+1973,Albania,3.72
+1974,Albania,3.72
+1975,Albania,4.77
+1976,Albania,4.77
+1977,Albania,4.77
+1978,Albania,4.77
+1979,Albania,4.77
+1980,Albania,5.84
+1981,Albania,5.84
+1982,Albania,5.84
+1983,Albania,5.84
+1984,Albania,5.84
+1985,Albania,7.34
+1986,Albania,7.34
+1987,Albania,7.34
+1988,Albania,7.34
+1989,Albania,7.34
+1990,Albania,8.12
+1991,Albania,8.12
+1992,Albania,8.12
+1993,Albania,8.12
+1994,Albania,8.12
+1995,Albania,7.9
+1996,Albania,7.9
+1997,Albania,7.9
+1998,Albania,7.9
+1999,Albania,7.9
+2000,Albania,9.19
+2001,Albania,9.19
+2002,Albania,9.19
+2003,Albania,9.19
+2004,Albania,9.19
+2005,Albania,9.63
+2006,Albania,9.63
+2007,Albania,9.63
+2008,Albania,9.63
+2009,Albania,9.63
+2010,Albania,9.7
+1950,Algeria,0.71
+1951,Algeria,0.71
+1952,Algeria,0.71
+1953,Algeria,0.71
+1954,Algeria,0.71
+1955,Algeria,0.69
+1956,Algeria,0.69
+1957,Algeria,0.69
+1958,Algeria,0.69
+1959,Algeria,0.69
+1960,Algeria,0.61
+1961,Algeria,0.61
+1962,Algeria,0.61
+1963,Algeria,0.61
+1964,Algeria,0.61
+1965,Algeria,0.56
+1966,Algeria,0.56
+1967,Algeria,0.56
+1968,Algeria,0.56
+1969,Algeria,0.56
+1970,Algeria,0.77
+1971,Algeria,0.77
+1972,Algeria,0.77
+1973,Algeria,0.77
+1974,Algeria,0.77
+1975,Algeria,1.22
+1976,Algeria,1.22
+1977,Algeria,1.22
+1978,Algeria,1.22
+1979,Algeria,1.22
+1980,Algeria,1.8
+1981,Algeria,1.8
+1982,Algeria,1.8
+1983,Algeria,1.8
+1984,Algeria,1.8
+1985,Algeria,2.76
+1986,Algeria,2.76
+1987,Algeria,2.76
+1988,Algeria,2.76
+1989,Algeria,2.76
+1990,Algeria,3.51
+1991,Algeria,3.51
+1992,Algeria,3.51
+1993,Algeria,3.51
+1994,Algeria,3.51
+1995,Algeria,4.34
+1996,Algeria,4.34
+1997,Algeria,4.34
+1998,Algeria,4.34
+1999,Algeria,4.34
+2000,Algeria,4.9
+2001,Algeria,4.9
+2002,Algeria,4.9
+2003,Algeria,4.9
+2004,Algeria,4.9
+2005,Algeria,4.98
+2006,Algeria,4.98
+2007,Algeria,4.98
+2008,Algeria,4.98
+2009,Algeria,4.98
+2010,Algeria,6.35
+1950,Argentina,4.72
+1951,Argentina,4.72
+1952,Argentina,4.72
+1953,Argentina,4.72
+1954,Argentina,4.72
+1955,Argentina,5.03
+1956,Argentina,5.03
+1957,Argentina,5.03
+1958,Argentina,5.03
+1959,Argentina,5.03
+1960,Argentina,5.51
+1961,Argentina,5.51
+1962,Argentina,5.51
+1963,Argentina,5.51
+1964,Argentina,5.51
+1965,Argentina,5.8
+1966,Argentina,5.8
+1967,Argentina,5.8
+1968,Argentina,5.8
+1969,Argentina,5.8
+1970,Argentina,6.18
+1971,Argentina,6.18
+1972,Argentina,6.18
+1973,Argentina,6.18
+1974,Argentina,6.18
+1975,Argentina,6.81
+1976,Argentina,6.81
+1977,Argentina,6.81
+1978,Argentina,6.81
+1979,Argentina,6.81
+1980,Argentina,7.25
+1981,Argentina,7.25
+1982,Argentina,7.25
+1983,Argentina,7.25
+1984,Argentina,7.25
+1985,Argentina,7.86
+1986,Argentina,7.86
+1987,Argentina,7.86
+1988,Argentina,7.86
+1989,Argentina,7.86
+1990,Argentina,8.41
+1991,Argentina,8.41
+1992,Argentina,8.41
+1993,Argentina,8.41
+1994,Argentina,8.41
+1995,Argentina,8.73
+1996,Argentina,8.73
+1997,Argentina,8.73
+1998,Argentina,8.73
+1999,Argentina,8.73
+2000,Argentina,8.84
+2001,Argentina,8.84
+2002,Argentina,8.84
+2003,Argentina,8.84
+2004,Argentina,8.84
+2005,Argentina,9.41
+2006,Argentina,9.41
+2007,Argentina,9.41
+2008,Argentina,9.41
+2009,Argentina,9.41
+2010,Argentina,9.57
+1950,Armenia,6.87
+1951,Armenia,6.87
+1952,Armenia,6.87
+1953,Armenia,6.87
+1954,Armenia,6.87
+1955,Armenia,7.01
+1956,Armenia,7.01
+1957,Armenia,7.01
+1958,Armenia,7.01
+1959,Armenia,7.01
+1960,Armenia,7.56
+1961,Armenia,7.56
+1962,Armenia,7.56
+1963,Armenia,7.56
+1964,Armenia,7.56
+1965,Armenia,7.83
+1966,Armenia,7.83
+1967,Armenia,7.83
+1968,Armenia,7.83
+1969,Armenia,7.83
+1970,Armenia,8.22
+1971,Armenia,8.22
+1972,Armenia,8.22
+1973,Armenia,8.22
+1974,Armenia,8.22
+1975,Armenia,8.64
+1976,Armenia,8.64
+1977,Armenia,8.64
+1978,Armenia,8.64
+1979,Armenia,8.64
+1980,Armenia,9.27
+1981,Armenia,9.27
+1982,Armenia,9.27
+1983,Armenia,9.27
+1984,Armenia,9.27
+1985,Armenia,9.82
+1986,Armenia,9.82
+1987,Armenia,9.82
+1988,Armenia,9.82
+1989,Armenia,9.82
+1990,Armenia,10.26
+1991,Armenia,10.26
+1992,Armenia,10.26
+1993,Armenia,10.26
+1994,Armenia,10.26
+1995,Armenia,10.33
+1996,Armenia,10.33
+1997,Armenia,10.33
+1998,Armenia,10.33
+1999,Armenia,10.33
+2000,Armenia,10.4
+2001,Armenia,10.4
+2002,Armenia,10.4
+2003,Armenia,10.4
+2004,Armenia,10.4
+2005,Armenia,10.5
+2006,Armenia,10.5
+2007,Armenia,10.5
+2008,Armenia,10.5
+2009,Armenia,10.5
+2010,Armenia,10.64
+1950,Australia,7.81
+1951,Australia,7.81
+1952,Australia,7.81
+1953,Australia,7.81
+1954,Australia,7.81
+1955,Australia,7.99
+1956,Australia,7.99
+1957,Australia,7.99
+1958,Australia,7.99
+1959,Australia,7.99
+1960,Australia,8.24
+1961,Australia,8.24
+1962,Australia,8.24
+1963,Australia,8.24
+1964,Australia,8.24
+1965,Australia,8.63
+1966,Australia,8.63
+1967,Australia,8.63
+1968,Australia,8.63
+1969,Australia,8.63
+1970,Australia,9.19
+1971,Australia,9.19
+1972,Australia,9.19
+1973,Australia,9.19
+1974,Australia,9.19
+1975,Australia,10.18
+1976,Australia,10.18
+1977,Australia,10.18
+1978,Australia,10.18
+1979,Australia,10.18
+1980,Australia,11.05
+1981,Australia,11.05
+1982,Australia,11.05
+1983,Australia,11.05
+1984,Australia,11.05
+1985,Australia,11.05
+1986,Australia,11.05
+1987,Australia,11.05
+1988,Australia,11.05
+1989,Australia,11.05
+1990,Australia,11.06
+1991,Australia,11.06
+1992,Australia,11.06
+1993,Australia,11.06
+1994,Australia,11.06
+1995,Australia,11.1
+1996,Australia,11.1
+1997,Australia,11.1
+1998,Australia,11.1
+1999,Australia,11.1
+2000,Australia,11.02
+2001,Australia,11.02
+2002,Australia,11.02
+2003,Australia,11.02
+2004,Australia,11.02
+2005,Australia,11.37
+2006,Australia,11.37
+2007,Australia,11.37
+2008,Australia,11.37
+2009,Australia,11.37
+2010,Australia,11.6
+1950,Austria,5.77
+1951,Austria,5.77
+1952,Austria,5.77
+1953,Austria,5.77
+1954,Austria,5.77
+1955,Austria,5.6
+1956,Austria,5.6
+1957,Austria,5.6
+1958,Austria,5.6
+1959,Austria,5.6
+1960,Austria,5.63
+1961,Austria,5.63
+1962,Austria,5.63
+1963,Austria,5.63
+1964,Austria,5.63
+1965,Austria,6.13
+1966,Austria,6.13
+1967,Austria,6.13
+1968,Austria,6.13
+1969,Austria,6.13
+1970,Austria,6.59
+1971,Austria,6.59
+1972,Austria,6.59
+1973,Austria,6.59
+1974,Austria,6.59
+1975,Austria,6.87
+1976,Austria,6.87
+1977,Austria,6.87
+1978,Austria,6.87
+1979,Austria,6.87
+1980,Austria,7.1
+1981,Austria,7.1
+1982,Austria,7.1
+1983,Austria,7.1
+1984,Austria,7.1
+1985,Austria,7.38
+1986,Austria,7.38
+1987,Austria,7.38
+1988,Austria,7.38
+1989,Austria,7.38
+1990,Austria,7.64
+1991,Austria,7.64
+1992,Austria,7.64
+1993,Austria,7.64
+1994,Austria,7.64
+1995,Austria,8.08
+1996,Austria,8.08
+1997,Austria,8.08
+1998,Austria,8.08
+1999,Austria,8.08
+2000,Austria,8.18
+2001,Austria,8.18
+2002,Austria,8.18
+2003,Austria,8.18
+2004,Austria,8.18
+2005,Austria,8.5
+2006,Austria,8.5
+2007,Austria,8.5
+2008,Austria,8.5
+2009,Austria,8.5
+2010,Austria,8.87
+1950,Bahrain,0.46
+1951,Bahrain,0.46
+1952,Bahrain,0.46
+1953,Bahrain,0.46
+1954,Bahrain,0.46
+1955,Bahrain,0.53
+1956,Bahrain,0.53
+1957,Bahrain,0.53
+1958,Bahrain,0.53
+1959,Bahrain,0.53
+1960,Bahrain,0.78
+1961,Bahrain,0.78
+1962,Bahrain,0.78
+1963,Bahrain,0.78
+1964,Bahrain,0.78
+1965,Bahrain,1.43
+1966,Bahrain,1.43
+1967,Bahrain,1.43
+1968,Bahrain,1.43
+1969,Bahrain,1.43
+1970,Bahrain,2.28
+1971,Bahrain,2.28
+1972,Bahrain,2.28
+1973,Bahrain,2.28
+1974,Bahrain,2.28
+1975,Bahrain,3.41
+1976,Bahrain,3.41
+1977,Bahrain,3.41
+1978,Bahrain,3.41
+1979,Bahrain,3.41
+1980,Bahrain,4.45
+1981,Bahrain,4.45
+1982,Bahrain,4.45
+1983,Bahrain,4.45
+1984,Bahrain,4.45
+1985,Bahrain,5.35
+1986,Bahrain,5.35
+1987,Bahrain,5.35
+1988,Bahrain,5.35
+1989,Bahrain,5.35
+1990,Bahrain,6.39
+1991,Bahrain,6.39
+1992,Bahrain,6.39
+1993,Bahrain,6.39
+1994,Bahrain,6.39
+1995,Bahrain,6.98
+1996,Bahrain,6.98
+1997,Bahrain,6.98
+1998,Bahrain,6.98
+1999,Bahrain,6.98
+2000,Bahrain,7.46
+2001,Bahrain,7.46
+2002,Bahrain,7.46
+2003,Bahrain,7.46
+2004,Bahrain,7.46
+2005,Bahrain,7.26
+2006,Bahrain,7.26
+2007,Bahrain,7.26
+2008,Bahrain,7.26
+2009,Bahrain,7.26
+2010,Bahrain,7.25
+1950,Bangladesh,0.26
+1951,Bangladesh,0.26
+1952,Bangladesh,0.26
+1953,Bangladesh,0.26
+1954,Bangladesh,0.26
+1955,Bangladesh,0.28
+1956,Bangladesh,0.28
+1957,Bangladesh,0.28
+1958,Bangladesh,0.28
+1959,Bangladesh,0.28
+1960,Bangladesh,0.32
+1961,Bangladesh,0.32
+1962,Bangladesh,0.32
+1963,Bangladesh,0.32
+1964,Bangladesh,0.32
+1965,Bangladesh,0.45
+1966,Bangladesh,0.45
+1967,Bangladesh,0.45
+1968,Bangladesh,0.45
+1969,Bangladesh,0.45
+1970,Bangladesh,0.54
+1971,Bangladesh,0.54
+1972,Bangladesh,0.54
+1973,Bangladesh,0.54
+1974,Bangladesh,0.54
+1975,Bangladesh,0.67
+1976,Bangladesh,0.67
+1977,Bangladesh,0.67
+1978,Bangladesh,0.67
+1979,Bangladesh,0.67
+1980,Bangladesh,1.26
+1981,Bangladesh,1.26
+1982,Bangladesh,1.26
+1983,Bangladesh,1.26
+1984,Bangladesh,1.26
+1985,Bangladesh,1.88
+1986,Bangladesh,1.88
+1987,Bangladesh,1.88
+1988,Bangladesh,1.88
+1989,Bangladesh,1.88
+1990,Bangladesh,2.37
+1991,Bangladesh,2.37
+1992,Bangladesh,2.37
+1993,Bangladesh,2.37
+1994,Bangladesh,2.37
+1995,Bangladesh,3.04
+1996,Bangladesh,3.04
+1997,Bangladesh,3.04
+1998,Bangladesh,3.04
+1999,Bangladesh,3.04
+2000,Bangladesh,4.03
+2001,Bangladesh,4.03
+2002,Bangladesh,4.03
+2003,Bangladesh,4.03
+2004,Bangladesh,4.03
+2005,Bangladesh,4.89
+2006,Bangladesh,4.89
+2007,Bangladesh,4.89
+2008,Bangladesh,4.89
+2009,Bangladesh,4.89
+2010,Bangladesh,5.69
+1950,Barbados,4.58
+1951,Barbados,4.58
+1952,Barbados,4.58
+1953,Barbados,4.58
+1954,Barbados,4.58
+1955,Barbados,4.74
+1956,Barbados,4.74
+1957,Barbados,4.74
+1958,Barbados,4.74
+1959,Barbados,4.74
+1960,Barbados,4.82
+1961,Barbados,4.82
+1962,Barbados,4.82
+1963,Barbados,4.82
+1964,Barbados,4.82
+1965,Barbados,6.41
+1966,Barbados,6.41
+1967,Barbados,6.41
+1968,Barbados,6.41
+1969,Barbados,6.41
+1970,Barbados,8.13
+1971,Barbados,8.13
+1972,Barbados,8.13
+1973,Barbados,8.13
+1974,Barbados,8.13
+1975,Barbados,7.49
+1976,Barbados,7.49
+1977,Barbados,7.49
+1978,Barbados,7.49
+1979,Barbados,7.49
+1980,Barbados,7.17
+1981,Barbados,7.17
+1982,Barbados,7.17
+1983,Barbados,7.17
+1984,Barbados,7.17
+1985,Barbados,7.83
+1986,Barbados,7.83
+1987,Barbados,7.83
+1988,Barbados,7.83
+1989,Barbados,7.83
+1990,Barbados,8.35
+1991,Barbados,8.35
+1992,Barbados,8.35
+1993,Barbados,8.35
+1994,Barbados,8.35
+1995,Barbados,8.84
+1996,Barbados,8.84
+1997,Barbados,8.84
+1998,Barbados,8.84
+1999,Barbados,8.84
+2000,Barbados,8.88
+2001,Barbados,8.88
+2002,Barbados,8.88
+2003,Barbados,8.88
+2004,Barbados,8.88
+2005,Barbados,9.48
+2006,Barbados,9.48
+2007,Barbados,9.48
+2008,Barbados,9.48
+2009,Barbados,9.48
+2010,Barbados,9.69
+1950,Belgium,6.57
+1951,Belgium,6.57
+1952,Belgium,6.57
+1953,Belgium,6.57
+1954,Belgium,6.57
+1955,Belgium,6.87
+1956,Belgium,6.87
+1957,Belgium,6.87
+1958,Belgium,6.87
+1959,Belgium,6.87
+1960,Belgium,6.99
+1961,Belgium,6.99
+1962,Belgium,6.99
+1963,Belgium,6.99
+1964,Belgium,6.99
+1965,Belgium,7.02
+1966,Belgium,7.02
+1967,Belgium,7.02
+1968,Belgium,7.02
+1969,Belgium,7.02
+1970,Belgium,7.35
+1971,Belgium,7.35
+1972,Belgium,7.35
+1973,Belgium,7.35
+1974,Belgium,7.35
+1975,Belgium,7.69
+1976,Belgium,7.69
+1977,Belgium,7.69
+1978,Belgium,7.69
+1979,Belgium,7.69
+1980,Belgium,8.17
+1981,Belgium,8.17
+1982,Belgium,8.17
+1983,Belgium,8.17
+1984,Belgium,8.17
+1985,Belgium,8.67
+1986,Belgium,8.67
+1987,Belgium,8.67
+1988,Belgium,8.67
+1989,Belgium,8.67
+1990,Belgium,9.14
+1991,Belgium,9.14
+1992,Belgium,9.14
+1993,Belgium,9.14
+1994,Belgium,9.14
+1995,Belgium,9.76
+1996,Belgium,9.76
+1997,Belgium,9.76
+1998,Belgium,9.76
+1999,Belgium,9.76
+2000,Belgium,10.11
+2001,Belgium,10.11
+2002,Belgium,10.11
+2003,Belgium,10.11
+2004,Belgium,10.11
+2005,Belgium,10.44
+2006,Belgium,10.44
+2007,Belgium,10.44
+2008,Belgium,10.44
+2009,Belgium,10.44
+2010,Belgium,10.52
+1950,Belize,7.18
+1951,Belize,7.18
+1952,Belize,7.18
+1953,Belize,7.18
+1954,Belize,7.18
+1955,Belize,7.33
+1956,Belize,7.33
+1957,Belize,7.33
+1958,Belize,7.33
+1959,Belize,7.33
+1960,Belize,7.43
+1961,Belize,7.43
+1962,Belize,7.43
+1963,Belize,7.43
+1964,Belize,7.43
+1965,Belize,7.69
+1966,Belize,7.69
+1967,Belize,7.69
+1968,Belize,7.69
+1969,Belize,7.69
+1970,Belize,7.67
+1971,Belize,7.67
+1972,Belize,7.67
+1973,Belize,7.67
+1974,Belize,7.67
+1975,Belize,7.86
+1976,Belize,7.86
+1977,Belize,7.86
+1978,Belize,7.86
+1979,Belize,7.86
+1980,Belize,7.62
+1981,Belize,7.62
+1982,Belize,7.62
+1983,Belize,7.62
+1984,Belize,7.62
+1985,Belize,7.85
+1986,Belize,7.85
+1987,Belize,7.85
+1988,Belize,7.85
+1989,Belize,7.85
+1990,Belize,8.78
+1991,Belize,8.78
+1992,Belize,8.78
+1993,Belize,8.78
+1994,Belize,8.78
+1995,Belize,9.44
+1996,Belize,9.44
+1997,Belize,9.44
+1998,Belize,9.44
+1999,Belize,9.44
+2000,Belize,10.1
+2001,Belize,10.1
+2002,Belize,10.1
+2003,Belize,10.1
+2004,Belize,10.1
+2005,Belize,10.8
+2006,Belize,10.8
+2007,Belize,10.8
+2008,Belize,10.8
+2009,Belize,10.8
+2010,Belize,11.34
+1950,Benin,0.23
+1951,Benin,0.23
+1952,Benin,0.23
+1953,Benin,0.23
+1954,Benin,0.23
+1955,Benin,0.27
+1956,Benin,0.27
+1957,Benin,0.27
+1958,Benin,0.27
+1959,Benin,0.27
+1960,Benin,0.32
+1961,Benin,0.32
+1962,Benin,0.32
+1963,Benin,0.32
+1964,Benin,0.32
+1965,Benin,0.41
+1966,Benin,0.41
+1967,Benin,0.41
+1968,Benin,0.41
+1969,Benin,0.41
+1970,Benin,0.46
+1971,Benin,0.46
+1972,Benin,0.46
+1973,Benin,0.46
+1974,Benin,0.46
+1975,Benin,0.52
+1976,Benin,0.52
+1977,Benin,0.52
+1978,Benin,0.52
+1979,Benin,0.52
+1980,Benin,0.67
+1981,Benin,0.67
+1982,Benin,0.67
+1983,Benin,0.67
+1984,Benin,0.67
+1985,Benin,0.99
+1986,Benin,0.99
+1987,Benin,0.99
+1988,Benin,0.99
+1989,Benin,0.99
+1990,Benin,1.32
+1991,Benin,1.32
+1992,Benin,1.32
+1993,Benin,1.32
+1994,Benin,1.32
+1995,Benin,1.64
+1996,Benin,1.64
+1997,Benin,1.64
+1998,Benin,1.64
+1999,Benin,1.64
+2000,Benin,2.0
+2001,Benin,2.0
+2002,Benin,2.0
+2003,Benin,2.0
+2004,Benin,2.0
+2005,Benin,2.55
+2006,Benin,2.55
+2007,Benin,2.55
+2008,Benin,2.55
+2009,Benin,2.55
+2010,Benin,3.31
+1950,Bolivia,1.82
+1951,Bolivia,1.82
+1952,Bolivia,1.82
+1953,Bolivia,1.82
+1954,Bolivia,1.82
+1955,Bolivia,2.07
+1956,Bolivia,2.07
+1957,Bolivia,2.07
+1958,Bolivia,2.07
+1959,Bolivia,2.07
+1960,Bolivia,2.33
+1961,Bolivia,2.33
+1962,Bolivia,2.33
+1963,Bolivia,2.33
+1964,Bolivia,2.33
+1965,Bolivia,2.74
+1966,Bolivia,2.74
+1967,Bolivia,2.74
+1968,Bolivia,2.74
+1969,Bolivia,2.74
+1970,Bolivia,3.1
+1971,Bolivia,3.1
+1972,Bolivia,3.1
+1973,Bolivia,3.1
+1974,Bolivia,3.1
+1975,Bolivia,3.64
+1976,Bolivia,3.64
+1977,Bolivia,3.64
+1978,Bolivia,3.64
+1979,Bolivia,3.64
+1980,Bolivia,4.52
+1981,Bolivia,4.52
+1982,Bolivia,4.52
+1983,Bolivia,4.52
+1984,Bolivia,4.52
+1985,Bolivia,5.46
+1986,Bolivia,5.46
+1987,Bolivia,5.46
+1988,Bolivia,5.46
+1989,Bolivia,5.46
+1990,Bolivia,6.41
+1991,Bolivia,6.41
+1992,Bolivia,6.41
+1993,Bolivia,6.41
+1994,Bolivia,6.41
+1995,Bolivia,7.01
+1996,Bolivia,7.01
+1997,Bolivia,7.01
+1998,Bolivia,7.01
+1999,Bolivia,7.01
+2000,Bolivia,7.58
+2001,Bolivia,7.58
+2002,Bolivia,7.58
+2003,Bolivia,7.58
+2004,Bolivia,7.58
+2005,Bolivia,7.79
+2006,Bolivia,7.79
+2007,Bolivia,7.79
+2008,Bolivia,7.79
+2009,Bolivia,7.79
+2010,Bolivia,7.71
+1950,Botswana,1.43
+1951,Botswana,1.43
+1952,Botswana,1.43
+1953,Botswana,1.43
+1954,Botswana,1.43
+1955,Botswana,1.46
+1956,Botswana,1.46
+1957,Botswana,1.46
+1958,Botswana,1.46
+1959,Botswana,1.46
+1960,Botswana,1.49
+1961,Botswana,1.49
+1962,Botswana,1.49
+1963,Botswana,1.49
+1964,Botswana,1.49
+1965,Botswana,1.74
+1966,Botswana,1.74
+1967,Botswana,1.74
+1968,Botswana,1.74
+1969,Botswana,1.74
+1970,Botswana,2.1
+1971,Botswana,2.1
+1972,Botswana,2.1
+1973,Botswana,2.1
+1974,Botswana,2.1
+1975,Botswana,2.76
+1976,Botswana,2.76
+1977,Botswana,2.76
+1978,Botswana,2.76
+1979,Botswana,2.76
+1980,Botswana,3.21
+1981,Botswana,3.21
+1982,Botswana,3.21
+1983,Botswana,3.21
+1984,Botswana,3.21
+1985,Botswana,5.33
+1986,Botswana,5.33
+1987,Botswana,5.33
+1988,Botswana,5.33
+1989,Botswana,5.33
+1990,Botswana,7.03
+1991,Botswana,7.03
+1992,Botswana,7.03
+1993,Botswana,7.03
+1994,Botswana,7.03
+1995,Botswana,8.19
+1996,Botswana,8.19
+1997,Botswana,8.19
+1998,Botswana,8.19
+1999,Botswana,8.19
+2000,Botswana,8.75
+2001,Botswana,8.75
+2002,Botswana,8.75
+2003,Botswana,8.75
+2004,Botswana,8.75
+2005,Botswana,9.11
+2006,Botswana,9.11
+2007,Botswana,9.11
+2008,Botswana,9.11
+2009,Botswana,9.11
+2010,Botswana,9.42
+1950,Brazil,1.89
+1951,Brazil,1.89
+1952,Brazil,1.89
+1953,Brazil,1.89
+1954,Brazil,1.89
+1955,Brazil,2.1
+1956,Brazil,2.1
+1957,Brazil,2.1
+1958,Brazil,2.1
+1959,Brazil,2.1
+1960,Brazil,2.37
+1961,Brazil,2.37
+1962,Brazil,2.37
+1963,Brazil,2.37
+1964,Brazil,2.37
+1965,Brazil,2.7
+1966,Brazil,2.7
+1967,Brazil,2.7
+1968,Brazil,2.7
+1969,Brazil,2.7
+1970,Brazil,3.13
+1971,Brazil,3.13
+1972,Brazil,3.13
+1973,Brazil,3.13
+1974,Brazil,3.13
+1975,Brazil,2.82
+1976,Brazil,2.82
+1977,Brazil,2.82
+1978,Brazil,2.82
+1979,Brazil,2.82
+1980,Brazil,3.0
+1981,Brazil,3.0
+1982,Brazil,3.0
+1983,Brazil,3.0
+1984,Brazil,3.0
+1985,Brazil,4.05
+1986,Brazil,4.05
+1987,Brazil,4.05
+1988,Brazil,4.05
+1989,Brazil,4.05
+1990,Brazil,4.87
+1991,Brazil,4.87
+1992,Brazil,4.87
+1993,Brazil,4.87
+1994,Brazil,4.87
+1995,Brazil,5.74
+1996,Brazil,5.74
+1997,Brazil,5.74
+1998,Brazil,5.74
+1999,Brazil,5.74
+2000,Brazil,6.65
+2001,Brazil,6.65
+2002,Brazil,6.65
+2003,Brazil,6.65
+2004,Brazil,6.65
+2005,Brazil,7.4
+2006,Brazil,7.4
+2007,Brazil,7.4
+2008,Brazil,7.4
+2009,Brazil,7.4
+2010,Brazil,8.07
+1950,Brunei Darussalam,0.83
+1951,Brunei Darussalam,0.83
+1952,Brunei Darussalam,0.83
+1953,Brunei Darussalam,0.83
+1954,Brunei Darussalam,0.83
+1955,Brunei Darussalam,1.02
+1956,Brunei Darussalam,1.02
+1957,Brunei Darussalam,1.02
+1958,Brunei Darussalam,1.02
+1959,Brunei Darussalam,1.02
+1960,Brunei Darussalam,1.37
+1961,Brunei Darussalam,1.37
+1962,Brunei Darussalam,1.37
+1963,Brunei Darussalam,1.37
+1964,Brunei Darussalam,1.37
+1965,Brunei Darussalam,1.94
+1966,Brunei Darussalam,1.94
+1967,Brunei Darussalam,1.94
+1968,Brunei Darussalam,1.94
+1969,Brunei Darussalam,1.94
+1970,Brunei Darussalam,3.45
+1971,Brunei Darussalam,3.45
+1972,Brunei Darussalam,3.45
+1973,Brunei Darussalam,3.45
+1974,Brunei Darussalam,3.45
+1975,Brunei Darussalam,4.43
+1976,Brunei Darussalam,4.43
+1977,Brunei Darussalam,4.43
+1978,Brunei Darussalam,4.43
+1979,Brunei Darussalam,4.43
+1980,Brunei Darussalam,5.78
+1981,Brunei Darussalam,5.78
+1982,Brunei Darussalam,5.78
+1983,Brunei Darussalam,5.78
+1984,Brunei Darussalam,5.78
+1985,Brunei Darussalam,6.46
+1986,Brunei Darussalam,6.46
+1987,Brunei Darussalam,6.46
+1988,Brunei Darussalam,6.46
+1989,Brunei Darussalam,6.46
+1990,Brunei Darussalam,7.12
+1991,Brunei Darussalam,7.12
+1992,Brunei Darussalam,7.12
+1993,Brunei Darussalam,7.12
+1994,Brunei Darussalam,7.12
+1995,Brunei Darussalam,7.64
+1996,Brunei Darussalam,7.64
+1997,Brunei Darussalam,7.64
+1998,Brunei Darussalam,7.64
+1999,Brunei Darussalam,7.64
+2000,Brunei Darussalam,7.97
+2001,Brunei Darussalam,7.97
+2002,Brunei Darussalam,7.97
+2003,Brunei Darussalam,7.97
+2004,Brunei Darussalam,7.97
+2005,Brunei Darussalam,8.22
+2006,Brunei Darussalam,8.22
+2007,Brunei Darussalam,8.22
+2008,Brunei Darussalam,8.22
+2009,Brunei Darussalam,8.22
+2010,Brunei Darussalam,8.58
+1950,Bulgaria,3.3
+1951,Bulgaria,3.3
+1952,Bulgaria,3.3
+1953,Bulgaria,3.3
+1954,Bulgaria,3.3
+1955,Bulgaria,4.08
+1956,Bulgaria,4.08
+1957,Bulgaria,4.08
+1958,Bulgaria,4.08
+1959,Bulgaria,4.08
+1960,Bulgaria,4.52
+1961,Bulgaria,4.52
+1962,Bulgaria,4.52
+1963,Bulgaria,4.52
+1964,Bulgaria,4.52
+1965,Bulgaria,4.16
+1966,Bulgaria,4.16
+1967,Bulgaria,4.16
+1968,Bulgaria,4.16
+1969,Bulgaria,4.16
+1970,Bulgaria,5.76
+1971,Bulgaria,5.76
+1972,Bulgaria,5.76
+1973,Bulgaria,5.76
+1974,Bulgaria,5.76
+1975,Bulgaria,6.68
+1976,Bulgaria,6.68
+1977,Bulgaria,6.68
+1978,Bulgaria,6.68
+1979,Bulgaria,6.68
+1980,Bulgaria,7.48
+1981,Bulgaria,7.48
+1982,Bulgaria,7.48
+1983,Bulgaria,7.48
+1984,Bulgaria,7.48
+1985,Bulgaria,8.23
+1986,Bulgaria,8.23
+1987,Bulgaria,8.23
+1988,Bulgaria,8.23
+1989,Bulgaria,8.23
+1990,Bulgaria,8.26
+1991,Bulgaria,8.26
+1992,Bulgaria,8.26
+1993,Bulgaria,8.26
+1994,Bulgaria,8.26
+1995,Bulgaria,8.76
+1996,Bulgaria,8.76
+1997,Bulgaria,8.76
+1998,Bulgaria,8.76
+1999,Bulgaria,8.76
+2000,Bulgaria,9.22
+2001,Bulgaria,9.22
+2002,Bulgaria,9.22
+2003,Bulgaria,9.22
+2004,Bulgaria,9.22
+2005,Bulgaria,10.44
+2006,Bulgaria,10.44
+2007,Bulgaria,10.44
+2008,Bulgaria,10.44
+2009,Bulgaria,10.44
+2010,Bulgaria,11.24
+1950,Burundi,0.19
+1951,Burundi,0.19
+1952,Burundi,0.19
+1953,Burundi,0.19
+1954,Burundi,0.19
+1955,Burundi,0.22
+1956,Burundi,0.22
+1957,Burundi,0.22
+1958,Burundi,0.22
+1959,Burundi,0.22
+1960,Burundi,0.39
+1961,Burundi,0.39
+1962,Burundi,0.39
+1963,Burundi,0.39
+1964,Burundi,0.39
+1965,Burundi,0.54
+1966,Burundi,0.54
+1967,Burundi,0.54
+1968,Burundi,0.54
+1969,Burundi,0.54
+1970,Burundi,0.64
+1971,Burundi,0.64
+1972,Burundi,0.64
+1973,Burundi,0.64
+1974,Burundi,0.64
+1975,Burundi,0.73
+1976,Burundi,0.73
+1977,Burundi,0.73
+1978,Burundi,0.73
+1979,Burundi,0.73
+1980,Burundi,0.9
+1981,Burundi,0.9
+1982,Burundi,0.9
+1983,Burundi,0.9
+1984,Burundi,0.9
+1985,Burundi,1.03
+1986,Burundi,1.03
+1987,Burundi,1.03
+1988,Burundi,1.03
+1989,Burundi,1.03
+1990,Burundi,1.17
+1991,Burundi,1.17
+1992,Burundi,1.17
+1993,Burundi,1.17
+1994,Burundi,1.17
+1995,Burundi,1.64
+1996,Burundi,1.64
+1997,Burundi,1.64
+1998,Burundi,1.64
+1999,Burundi,1.64
+2000,Burundi,2.05
+2001,Burundi,2.05
+2002,Burundi,2.05
+2003,Burundi,2.05
+2004,Burundi,2.05
+2005,Burundi,2.39
+2006,Burundi,2.39
+2007,Burundi,2.39
+2008,Burundi,2.39
+2009,Burundi,2.39
+2010,Burundi,2.94
+1950,Cambodia,0.11
+1951,Cambodia,0.11
+1952,Cambodia,0.11
+1953,Cambodia,0.11
+1954,Cambodia,0.11
+1955,Cambodia,0.17
+1956,Cambodia,0.17
+1957,Cambodia,0.17
+1958,Cambodia,0.17
+1959,Cambodia,0.17
+1960,Cambodia,0.54
+1961,Cambodia,0.54
+1962,Cambodia,0.54
+1963,Cambodia,0.54
+1964,Cambodia,0.54
+1965,Cambodia,0.71
+1966,Cambodia,0.71
+1967,Cambodia,0.71
+1968,Cambodia,0.71
+1969,Cambodia,0.71
+1970,Cambodia,0.97
+1971,Cambodia,0.97
+1972,Cambodia,0.97
+1973,Cambodia,0.97
+1974,Cambodia,0.97
+1975,Cambodia,1.3
+1976,Cambodia,1.3
+1977,Cambodia,1.3
+1978,Cambodia,1.3
+1979,Cambodia,1.3
+1980,Cambodia,1.64
+1981,Cambodia,1.64
+1982,Cambodia,1.64
+1983,Cambodia,1.64
+1984,Cambodia,1.64
+1985,Cambodia,1.86
+1986,Cambodia,1.86
+1987,Cambodia,1.86
+1988,Cambodia,1.86
+1989,Cambodia,1.86
+1990,Cambodia,2.14
+1991,Cambodia,2.14
+1992,Cambodia,2.14
+1993,Cambodia,2.14
+1994,Cambodia,2.14
+1995,Cambodia,2.33
+1996,Cambodia,2.33
+1997,Cambodia,2.33
+1998,Cambodia,2.33
+1999,Cambodia,2.33
+2000,Cambodia,2.64
+2001,Cambodia,2.64
+2002,Cambodia,2.64
+2003,Cambodia,2.64
+2004,Cambodia,2.64
+2005,Cambodia,3.27
+2006,Cambodia,3.27
+2007,Cambodia,3.27
+2008,Cambodia,3.27
+2009,Cambodia,3.27
+2010,Cambodia,3.96
+1950,Cameroon,0.29
+1951,Cameroon,0.29
+1952,Cameroon,0.29
+1953,Cameroon,0.29
+1954,Cameroon,0.29
+1955,Cameroon,0.38
+1956,Cameroon,0.38
+1957,Cameroon,0.38
+1958,Cameroon,0.38
+1959,Cameroon,0.38
+1960,Cameroon,0.48
+1961,Cameroon,0.48
+1962,Cameroon,0.48
+1963,Cameroon,0.48
+1964,Cameroon,0.48
+1965,Cameroon,0.72
+1966,Cameroon,0.72
+1967,Cameroon,0.72
+1968,Cameroon,0.72
+1969,Cameroon,0.72
+1970,Cameroon,1.02
+1971,Cameroon,1.02
+1972,Cameroon,1.02
+1973,Cameroon,1.02
+1974,Cameroon,1.02
+1975,Cameroon,1.58
+1976,Cameroon,1.58
+1977,Cameroon,1.58
+1978,Cameroon,1.58
+1979,Cameroon,1.58
+1980,Cameroon,2.17
+1981,Cameroon,2.17
+1982,Cameroon,2.17
+1983,Cameroon,2.17
+1984,Cameroon,2.17
+1985,Cameroon,2.83
+1986,Cameroon,2.83
+1987,Cameroon,2.83
+1988,Cameroon,2.83
+1989,Cameroon,2.83
+1990,Cameroon,3.52
+1991,Cameroon,3.52
+1992,Cameroon,3.52
+1993,Cameroon,3.52
+1994,Cameroon,3.52
+1995,Cameroon,4.16
+1996,Cameroon,4.16
+1997,Cameroon,4.16
+1998,Cameroon,4.16
+1999,Cameroon,4.16
+2000,Cameroon,4.68
+2001,Cameroon,4.68
+2002,Cameroon,4.68
+2003,Cameroon,4.68
+2004,Cameroon,4.68
+2005,Cameroon,5.08
+2006,Cameroon,5.08
+2007,Cameroon,5.08
+2008,Cameroon,5.08
+2009,Cameroon,5.08
+2010,Cameroon,5.65
+1950,Canada,7.84
+1951,Canada,7.84
+1952,Canada,7.84
+1953,Canada,7.84
+1954,Canada,7.84
+1955,Canada,8.1
+1956,Canada,8.1
+1957,Canada,8.1
+1958,Canada,8.1
+1959,Canada,8.1
+1960,Canada,8.43
+1961,Canada,8.43
+1962,Canada,8.43
+1963,Canada,8.43
+1964,Canada,8.43
+1965,Canada,8.62
+1966,Canada,8.62
+1967,Canada,8.62
+1968,Canada,8.62
+1969,Canada,8.62
+1970,Canada,9.04
+1971,Canada,9.04
+1972,Canada,9.04
+1973,Canada,9.04
+1974,Canada,9.04
+1975,Canada,9.52
+1976,Canada,9.52
+1977,Canada,9.52
+1978,Canada,9.52
+1979,Canada,9.52
+1980,Canada,9.88
+1981,Canada,9.88
+1982,Canada,9.88
+1983,Canada,9.88
+1984,Canada,9.88
+1985,Canada,9.78
+1986,Canada,9.78
+1987,Canada,9.78
+1988,Canada,9.78
+1989,Canada,9.78
+1990,Canada,10.25
+1991,Canada,10.25
+1992,Canada,10.25
+1993,Canada,10.25
+1994,Canada,10.25
+1995,Canada,10.64
+1996,Canada,10.64
+1997,Canada,10.64
+1998,Canada,10.64
+1999,Canada,10.64
+2000,Canada,10.92
+2001,Canada,10.92
+2002,Canada,10.92
+2003,Canada,10.92
+2004,Canada,10.92
+2005,Canada,12.06
+2006,Canada,12.06
+2007,Canada,12.06
+2008,Canada,12.06
+2009,Canada,12.06
+2010,Canada,12.39
+1950,Central African Republic,0.23
+1951,Central African Republic,0.23
+1952,Central African Republic,0.23
+1953,Central African Republic,0.23
+1954,Central African Republic,0.23
+1955,Central African Republic,0.25
+1956,Central African Republic,0.25
+1957,Central African Republic,0.25
+1958,Central African Republic,0.25
+1959,Central African Republic,0.25
+1960,Central African Republic,0.27
+1961,Central African Republic,0.27
+1962,Central African Republic,0.27
+1963,Central African Republic,0.27
+1964,Central African Republic,0.27
+1965,Central African Republic,0.3
+1966,Central African Republic,0.3
+1967,Central African Republic,0.3
+1968,Central African Republic,0.3
+1969,Central African Republic,0.3
+1970,Central African Republic,0.38
+1971,Central African Republic,0.38
+1972,Central African Republic,0.38
+1973,Central African Republic,0.38
+1974,Central African Republic,0.38
+1975,Central African Republic,0.56
+1976,Central African Republic,0.56
+1977,Central African Republic,0.56
+1978,Central African Republic,0.56
+1979,Central African Republic,0.56
+1980,Central African Republic,0.9
+1981,Central African Republic,0.9
+1982,Central African Republic,0.9
+1983,Central African Republic,0.9
+1984,Central African Republic,0.9
+1985,Central African Republic,1.17
+1986,Central African Republic,1.17
+1987,Central African Republic,1.17
+1988,Central African Republic,1.17
+1989,Central African Republic,1.17
+1990,Central African Republic,1.66
+1991,Central African Republic,1.66
+1992,Central African Republic,1.66
+1993,Central African Republic,1.66
+1994,Central African Republic,1.66
+1995,Central African Republic,1.91
+1996,Central African Republic,1.91
+1997,Central African Republic,1.91
+1998,Central African Republic,1.91
+1999,Central African Republic,1.91
+2000,Central African Republic,2.18
+2001,Central African Republic,2.18
+2002,Central African Republic,2.18
+2003,Central African Republic,2.18
+2004,Central African Republic,2.18
+2005,Central African Republic,2.43
+2006,Central African Republic,2.43
+2007,Central African Republic,2.43
+2008,Central African Republic,2.43
+2009,Central African Republic,2.43
+2010,Central African Republic,2.72
+1950,Chile,4.64
+1951,Chile,4.64
+1952,Chile,4.64
+1953,Chile,4.64
+1954,Chile,4.64
+1955,Chile,4.82
+1956,Chile,4.82
+1957,Chile,4.82
+1958,Chile,4.82
+1959,Chile,4.82
+1960,Chile,5.07
+1961,Chile,5.07
+1962,Chile,5.07
+1963,Chile,5.07
+1964,Chile,5.07
+1965,Chile,5.49
+1966,Chile,5.49
+1967,Chile,5.49
+1968,Chile,5.49
+1969,Chile,5.49
+1970,Chile,5.91
+1971,Chile,5.91
+1972,Chile,5.91
+1973,Chile,5.91
+1974,Chile,5.91
+1975,Chile,6.44
+1976,Chile,6.44
+1977,Chile,6.44
+1978,Chile,6.44
+1979,Chile,6.44
+1980,Chile,6.86
+1981,Chile,6.86
+1982,Chile,6.86
+1983,Chile,6.86
+1984,Chile,6.86
+1985,Chile,7.59
+1986,Chile,7.59
+1987,Chile,7.59
+1988,Chile,7.59
+1989,Chile,7.59
+1990,Chile,8.3
+1991,Chile,8.3
+1992,Chile,8.3
+1993,Chile,8.3
+1994,Chile,8.3
+1995,Chile,8.7
+1996,Chile,8.7
+1997,Chile,8.7
+1998,Chile,8.7
+1999,Chile,8.7
+2000,Chile,8.94
+2001,Chile,8.94
+2002,Chile,8.94
+2003,Chile,8.94
+2004,Chile,8.94
+2005,Chile,9.58
+2006,Chile,9.58
+2007,Chile,9.58
+2008,Chile,9.58
+2009,Chile,9.58
+2010,Chile,9.72
+1950,China,1.11
+1951,China,1.11
+1952,China,1.11
+1953,China,1.11
+1954,China,1.11
+1955,China,1.36
+1956,China,1.36
+1957,China,1.36
+1958,China,1.36
+1959,China,1.36
+1960,China,1.83
+1961,China,1.83
+1962,China,1.83
+1963,China,1.83
+1964,China,1.83
+1965,China,2.38
+1966,China,2.38
+1967,China,2.38
+1968,China,2.38
+1969,China,2.38
+1970,China,3.11
+1971,China,3.11
+1972,China,3.11
+1973,China,3.11
+1974,China,3.11
+1975,China,3.72
+1976,China,3.72
+1977,China,3.72
+1978,China,3.72
+1979,China,3.72
+1980,China,4.5
+1981,China,4.5
+1982,China,4.5
+1983,China,4.5
+1984,China,4.5
+1985,China,5.19
+1986,China,5.19
+1987,China,5.19
+1988,China,5.19
+1989,China,5.19
+1990,China,5.74
+1991,China,5.74
+1992,China,5.74
+1993,China,5.74
+1994,China,5.74
+1995,China,6.23
+1996,China,6.23
+1997,China,6.23
+1998,China,6.23
+1999,China,6.23
+2000,China,6.65
+2001,China,6.65
+2002,China,6.65
+2003,China,6.65
+2004,China,6.65
+2005,China,7.11
+2006,China,7.11
+2007,China,7.11
+2008,China,7.11
+2009,China,7.11
+2010,China,7.54
+1950,"China, Hong Kong Special Administrative Region",2.83
+1951,"China, Hong Kong Special Administrative Region",2.83
+1952,"China, Hong Kong Special Administrative Region",2.83
+1953,"China, Hong Kong Special Administrative Region",2.83
+1954,"China, Hong Kong Special Administrative Region",2.83
+1955,"China, Hong Kong Special Administrative Region",3.09
+1956,"China, Hong Kong Special Administrative Region",3.09
+1957,"China, Hong Kong Special Administrative Region",3.09
+1958,"China, Hong Kong Special Administrative Region",3.09
+1959,"China, Hong Kong Special Administrative Region",3.09
+1960,"China, Hong Kong Special Administrative Region",3.34
+1961,"China, Hong Kong Special Administrative Region",3.34
+1962,"China, Hong Kong Special Administrative Region",3.34
+1963,"China, Hong Kong Special Administrative Region",3.34
+1964,"China, Hong Kong Special Administrative Region",3.34
+1965,"China, Hong Kong Special Administrative Region",4.25
+1966,"China, Hong Kong Special Administrative Region",4.25
+1967,"China, Hong Kong Special Administrative Region",4.25
+1968,"China, Hong Kong Special Administrative Region",4.25
+1969,"China, Hong Kong Special Administrative Region",4.25
+1970,"China, Hong Kong Special Administrative Region",4.91
+1971,"China, Hong Kong Special Administrative Region",4.91
+1972,"China, Hong Kong Special Administrative Region",4.91
+1973,"China, Hong Kong Special Administrative Region",4.91
+1974,"China, Hong Kong Special Administrative Region",4.91
+1975,"China, Hong Kong Special Administrative Region",5.71
+1976,"China, Hong Kong Special Administrative Region",5.71
+1977,"China, Hong Kong Special Administrative Region",5.71
+1978,"China, Hong Kong Special Administrative Region",5.71
+1979,"China, Hong Kong Special Administrative Region",5.71
+1980,"China, Hong Kong Special Administrative Region",6.93
+1981,"China, Hong Kong Special Administrative Region",6.93
+1982,"China, Hong Kong Special Administrative Region",6.93
+1983,"China, Hong Kong Special Administrative Region",6.93
+1984,"China, Hong Kong Special Administrative Region",6.93
+1985,"China, Hong Kong Special Administrative Region",7.85
+1986,"China, Hong Kong Special Administrative Region",7.85
+1987,"China, Hong Kong Special Administrative Region",7.85
+1988,"China, Hong Kong Special Administrative Region",7.85
+1989,"China, Hong Kong Special Administrative Region",7.85
+1990,"China, Hong Kong Special Administrative Region",8.68
+1991,"China, Hong Kong Special Administrative Region",8.68
+1992,"China, Hong Kong Special Administrative Region",8.68
+1993,"China, Hong Kong Special Administrative Region",8.68
+1994,"China, Hong Kong Special Administrative Region",8.68
+1995,"China, Hong Kong Special Administrative Region",8.9
+1996,"China, Hong Kong Special Administrative Region",8.9
+1997,"China, Hong Kong Special Administrative Region",8.9
+1998,"China, Hong Kong Special Administrative Region",8.9
+1999,"China, Hong Kong Special Administrative Region",8.9
+2000,"China, Hong Kong Special Administrative Region",8.93
+2001,"China, Hong Kong Special Administrative Region",8.93
+2002,"China, Hong Kong Special Administrative Region",8.93
+2003,"China, Hong Kong Special Administrative Region",8.93
+2004,"China, Hong Kong Special Administrative Region",8.93
+2005,"China, Hong Kong Special Administrative Region",10.74
+2006,"China, Hong Kong Special Administrative Region",10.74
+2007,"China, Hong Kong Special Administrative Region",10.74
+2008,"China, Hong Kong Special Administrative Region",10.74
+2009,"China, Hong Kong Special Administrative Region",10.74
+2010,"China, Hong Kong Special Administrative Region",11.01
+1950,"China, Macao Special Administrative Region",2.79
+1951,"China, Macao Special Administrative Region",2.79
+1952,"China, Macao Special Administrative Region",2.79
+1953,"China, Macao Special Administrative Region",2.79
+1954,"China, Macao Special Administrative Region",2.79
+1955,"China, Macao Special Administrative Region",2.87
+1956,"China, Macao Special Administrative Region",2.87
+1957,"China, Macao Special Administrative Region",2.87
+1958,"China, Macao Special Administrative Region",2.87
+1959,"China, Macao Special Administrative Region",2.87
+1960,"China, Macao Special Administrative Region",3.0
+1961,"China, Macao Special Administrative Region",3.0
+1962,"China, Macao Special Administrative Region",3.0
+1963,"China, Macao Special Administrative Region",3.0
+1964,"China, Macao Special Administrative Region",3.0
+1965,"China, Macao Special Administrative Region",3.22
+1966,"China, Macao Special Administrative Region",3.22
+1967,"China, Macao Special Administrative Region",3.22
+1968,"China, Macao Special Administrative Region",3.22
+1969,"China, Macao Special Administrative Region",3.22
+1970,"China, Macao Special Administrative Region",3.65
+1971,"China, Macao Special Administrative Region",3.65
+1972,"China, Macao Special Administrative Region",3.65
+1973,"China, Macao Special Administrative Region",3.65
+1974,"China, Macao Special Administrative Region",3.65
+1975,"China, Macao Special Administrative Region",4.09
+1976,"China, Macao Special Administrative Region",4.09
+1977,"China, Macao Special Administrative Region",4.09
+1978,"China, Macao Special Administrative Region",4.09
+1979,"China, Macao Special Administrative Region",4.09
+1980,"China, Macao Special Administrative Region",4.38
+1981,"China, Macao Special Administrative Region",4.38
+1982,"China, Macao Special Administrative Region",4.38
+1983,"China, Macao Special Administrative Region",4.38
+1984,"China, Macao Special Administrative Region",4.38
+1985,"China, Macao Special Administrative Region",4.92
+1986,"China, Macao Special Administrative Region",4.92
+1987,"China, Macao Special Administrative Region",4.92
+1988,"China, Macao Special Administrative Region",4.92
+1989,"China, Macao Special Administrative Region",4.92
+1990,"China, Macao Special Administrative Region",5.29
+1991,"China, Macao Special Administrative Region",5.29
+1992,"China, Macao Special Administrative Region",5.29
+1993,"China, Macao Special Administrative Region",5.29
+1994,"China, Macao Special Administrative Region",5.29
+1995,"China, Macao Special Administrative Region",5.86
+1996,"China, Macao Special Administrative Region",5.86
+1997,"China, Macao Special Administrative Region",5.86
+1998,"China, Macao Special Administrative Region",5.86
+1999,"China, Macao Special Administrative Region",5.86
+2000,"China, Macao Special Administrative Region",6.43
+2001,"China, Macao Special Administrative Region",6.43
+2002,"China, Macao Special Administrative Region",6.43
+2003,"China, Macao Special Administrative Region",6.43
+2004,"China, Macao Special Administrative Region",6.43
+2005,"China, Macao Special Administrative Region",7.3
+2006,"China, Macao Special Administrative Region",7.3
+2007,"China, Macao Special Administrative Region",7.3
+2008,"China, Macao Special Administrative Region",7.3
+2009,"China, Macao Special Administrative Region",7.3
+2010,"China, Macao Special Administrative Region",8.48
+1950,Colombia,2.2
+1951,Colombia,2.2
+1952,Colombia,2.2
+1953,Colombia,2.2
+1954,Colombia,2.2
+1955,Colombia,2.55
+1956,Colombia,2.55
+1957,Colombia,2.55
+1958,Colombia,2.55
+1959,Colombia,2.55
+1960,Colombia,2.92
+1961,Colombia,2.92
+1962,Colombia,2.92
+1963,Colombia,2.92
+1964,Colombia,2.92
+1965,Colombia,3.28
+1966,Colombia,3.28
+1967,Colombia,3.28
+1968,Colombia,3.28
+1969,Colombia,3.28
+1970,Colombia,3.74
+1971,Colombia,3.74
+1972,Colombia,3.74
+1973,Colombia,3.74
+1974,Colombia,3.74
+1975,Colombia,4.19
+1976,Colombia,4.19
+1977,Colombia,4.19
+1978,Colombia,4.19
+1979,Colombia,4.19
+1980,Colombia,4.8
+1981,Colombia,4.8
+1982,Colombia,4.8
+1983,Colombia,4.8
+1984,Colombia,4.8
+1985,Colombia,5.39
+1986,Colombia,5.39
+1987,Colombia,5.39
+1988,Colombia,5.39
+1989,Colombia,5.39
+1990,Colombia,5.9
+1991,Colombia,5.9
+1992,Colombia,5.9
+1993,Colombia,5.9
+1994,Colombia,5.9
+1995,Colombia,6.4
+1996,Colombia,6.4
+1997,Colombia,6.4
+1998,Colombia,6.4
+1999,Colombia,6.4
+2000,Colombia,6.86
+2001,Colombia,6.86
+2002,Colombia,6.86
+2003,Colombia,6.86
+2004,Colombia,6.86
+2005,Colombia,7.06
+2006,Colombia,7.06
+2007,Colombia,7.06
+2008,Colombia,7.06
+2009,Colombia,7.06
+2010,Colombia,8.9
+1950,Congo,0.41
+1951,Congo,0.41
+1952,Congo,0.41
+1953,Congo,0.41
+1954,Congo,0.41
+1955,Congo,0.44
+1956,Congo,0.44
+1957,Congo,0.44
+1958,Congo,0.44
+1959,Congo,0.44
+1960,Congo,0.51
+1961,Congo,0.51
+1962,Congo,0.51
+1963,Congo,0.51
+1964,Congo,0.51
+1965,Congo,0.87
+1966,Congo,0.87
+1967,Congo,0.87
+1968,Congo,0.87
+1969,Congo,0.87
+1970,Congo,1.26
+1971,Congo,1.26
+1972,Congo,1.26
+1973,Congo,1.26
+1974,Congo,1.26
+1975,Congo,2.27
+1976,Congo,2.27
+1977,Congo,2.27
+1978,Congo,2.27
+1979,Congo,2.27
+1980,Congo,3.04
+1981,Congo,3.04
+1982,Congo,3.04
+1983,Congo,3.04
+1984,Congo,3.04
+1985,Congo,3.92
+1986,Congo,3.92
+1987,Congo,3.92
+1988,Congo,3.92
+1989,Congo,3.92
+1990,Congo,4.62
+1991,Congo,4.62
+1992,Congo,4.62
+1993,Congo,4.62
+1994,Congo,4.62
+1995,Congo,5.02
+1996,Congo,5.02
+1997,Congo,5.02
+1998,Congo,5.02
+1999,Congo,5.02
+2000,Congo,5.05
+2001,Congo,5.05
+2002,Congo,5.05
+2003,Congo,5.05
+2004,Congo,5.05
+2005,Congo,5.1
+2006,Congo,5.1
+2007,Congo,5.1
+2008,Congo,5.1
+2009,Congo,5.1
+2010,Congo,5.31
+1950,Costa Rica,3.47
+1951,Costa Rica,3.47
+1952,Costa Rica,3.47
+1953,Costa Rica,3.47
+1954,Costa Rica,3.47
+1955,Costa Rica,3.68
+1956,Costa Rica,3.68
+1957,Costa Rica,3.68
+1958,Costa Rica,3.68
+1959,Costa Rica,3.68
+1960,Costa Rica,3.84
+1961,Costa Rica,3.84
+1962,Costa Rica,3.84
+1963,Costa Rica,3.84
+1964,Costa Rica,3.84
+1965,Costa Rica,4.11
+1966,Costa Rica,4.11
+1967,Costa Rica,4.11
+1968,Costa Rica,4.11
+1969,Costa Rica,4.11
+1970,Costa Rica,3.92
+1971,Costa Rica,3.92
+1972,Costa Rica,3.92
+1973,Costa Rica,3.92
+1974,Costa Rica,3.92
+1975,Costa Rica,5.13
+1976,Costa Rica,5.13
+1977,Costa Rica,5.13
+1978,Costa Rica,5.13
+1979,Costa Rica,5.13
+1980,Costa Rica,6.06
+1981,Costa Rica,6.06
+1982,Costa Rica,6.06
+1983,Costa Rica,6.06
+1984,Costa Rica,6.06
+1985,Costa Rica,6.68
+1986,Costa Rica,6.68
+1987,Costa Rica,6.68
+1988,Costa Rica,6.68
+1989,Costa Rica,6.68
+1990,Costa Rica,7.1
+1991,Costa Rica,7.1
+1992,Costa Rica,7.1
+1993,Costa Rica,7.1
+1994,Costa Rica,7.1
+1995,Costa Rica,7.41
+1996,Costa Rica,7.41
+1997,Costa Rica,7.41
+1998,Costa Rica,7.41
+1999,Costa Rica,7.41
+2000,Costa Rica,7.76
+2001,Costa Rica,7.76
+2002,Costa Rica,7.76
+2003,Costa Rica,7.76
+2004,Costa Rica,7.76
+2005,Costa Rica,8.15
+2006,Costa Rica,8.15
+2007,Costa Rica,8.15
+2008,Costa Rica,8.15
+2009,Costa Rica,8.15
+2010,Costa Rica,8.07
+1950,Cote dIvoire,0.53
+1951,Cote dIvoire,0.53
+1952,Cote dIvoire,0.53
+1953,Cote dIvoire,0.53
+1954,Cote dIvoire,0.53
+1955,Cote dIvoire,0.53
+1956,Cote dIvoire,0.53
+1957,Cote dIvoire,0.53
+1958,Cote dIvoire,0.53
+1959,Cote dIvoire,0.53
+1960,Cote dIvoire,0.53
+1961,Cote dIvoire,0.53
+1962,Cote dIvoire,0.53
+1963,Cote dIvoire,0.53
+1964,Cote dIvoire,0.53
+1965,Cote dIvoire,0.56
+1966,Cote dIvoire,0.56
+1967,Cote dIvoire,0.56
+1968,Cote dIvoire,0.56
+1969,Cote dIvoire,0.56
+1970,Cote dIvoire,0.65
+1971,Cote dIvoire,0.65
+1972,Cote dIvoire,0.65
+1973,Cote dIvoire,0.65
+1974,Cote dIvoire,0.65
+1975,Cote dIvoire,0.8
+1976,Cote dIvoire,0.8
+1977,Cote dIvoire,0.8
+1978,Cote dIvoire,0.8
+1979,Cote dIvoire,0.8
+1980,Cote dIvoire,1.05
+1981,Cote dIvoire,1.05
+1982,Cote dIvoire,1.05
+1983,Cote dIvoire,1.05
+1984,Cote dIvoire,1.05
+1985,Cote dIvoire,1.32
+1986,Cote dIvoire,1.32
+1987,Cote dIvoire,1.32
+1988,Cote dIvoire,1.32
+1989,Cote dIvoire,1.32
+1990,Cote dIvoire,1.64
+1991,Cote dIvoire,1.64
+1992,Cote dIvoire,1.64
+1993,Cote dIvoire,1.64
+1994,Cote dIvoire,1.64
+1995,Cote dIvoire,2.25
+1996,Cote dIvoire,2.25
+1997,Cote dIvoire,2.25
+1998,Cote dIvoire,2.25
+1999,Cote dIvoire,2.25
+2000,Cote dIvoire,2.81
+2001,Cote dIvoire,2.81
+2002,Cote dIvoire,2.81
+2003,Cote dIvoire,2.81
+2004,Cote dIvoire,2.81
+2005,Cote dIvoire,3.22
+2006,Cote dIvoire,3.22
+2007,Cote dIvoire,3.22
+2008,Cote dIvoire,3.22
+2009,Cote dIvoire,3.22
+2010,Cote dIvoire,3.71
+1950,Croatia,4.93
+1951,Croatia,4.93
+1952,Croatia,4.93
+1953,Croatia,4.93
+1954,Croatia,4.93
+1955,Croatia,5.23
+1956,Croatia,5.23
+1957,Croatia,5.23
+1958,Croatia,5.23
+1959,Croatia,5.23
+1960,Croatia,5.61
+1961,Croatia,5.61
+1962,Croatia,5.61
+1963,Croatia,5.61
+1964,Croatia,5.61
+1965,Croatia,5.88
+1966,Croatia,5.88
+1967,Croatia,5.88
+1968,Croatia,5.88
+1969,Croatia,5.88
+1970,Croatia,6.27
+1971,Croatia,6.27
+1972,Croatia,6.27
+1973,Croatia,6.27
+1974,Croatia,6.27
+1975,Croatia,6.88
+1976,Croatia,6.88
+1977,Croatia,6.88
+1978,Croatia,6.88
+1979,Croatia,6.88
+1980,Croatia,7.28
+1981,Croatia,7.28
+1982,Croatia,7.28
+1983,Croatia,7.28
+1984,Croatia,7.28
+1985,Croatia,7.71
+1986,Croatia,7.71
+1987,Croatia,7.71
+1988,Croatia,7.71
+1989,Croatia,7.71
+1990,Croatia,7.88
+1991,Croatia,7.88
+1992,Croatia,7.88
+1993,Croatia,7.88
+1994,Croatia,7.88
+1995,Croatia,8.47
+1996,Croatia,8.47
+1997,Croatia,8.47
+1998,Croatia,8.47
+1999,Croatia,8.47
+2000,Croatia,9.19
+2001,Croatia,9.19
+2002,Croatia,9.19
+2003,Croatia,9.19
+2004,Croatia,9.19
+2005,Croatia,10.15
+2006,Croatia,10.15
+2007,Croatia,10.15
+2008,Croatia,10.15
+2009,Croatia,10.15
+2010,Croatia,10.96
+1950,Cuba,3.51
+1951,Cuba,3.51
+1952,Cuba,3.51
+1953,Cuba,3.51
+1954,Cuba,3.51
+1955,Cuba,3.64
+1956,Cuba,3.64
+1957,Cuba,3.64
+1958,Cuba,3.64
+1959,Cuba,3.64
+1960,Cuba,4.04
+1961,Cuba,4.04
+1962,Cuba,4.04
+1963,Cuba,4.04
+1964,Cuba,4.04
+1965,Cuba,4.55
+1966,Cuba,4.55
+1967,Cuba,4.55
+1968,Cuba,4.55
+1969,Cuba,4.55
+1970,Cuba,5.26
+1971,Cuba,5.26
+1972,Cuba,5.26
+1973,Cuba,5.26
+1974,Cuba,5.26
+1975,Cuba,6.01
+1976,Cuba,6.01
+1977,Cuba,6.01
+1978,Cuba,6.01
+1979,Cuba,6.01
+1980,Cuba,7.79
+1981,Cuba,7.79
+1982,Cuba,7.79
+1983,Cuba,7.79
+1984,Cuba,7.79
+1985,Cuba,7.86
+1986,Cuba,7.86
+1987,Cuba,7.86
+1988,Cuba,7.86
+1989,Cuba,7.86
+1990,Cuba,8.36
+1991,Cuba,8.36
+1992,Cuba,8.36
+1993,Cuba,8.36
+1994,Cuba,8.36
+1995,Cuba,8.65
+1996,Cuba,8.65
+1997,Cuba,8.65
+1998,Cuba,8.65
+1999,Cuba,8.65
+2000,Cuba,8.77
+2001,Cuba,8.77
+2002,Cuba,8.77
+2003,Cuba,8.77
+2004,Cuba,8.77
+2005,Cuba,9.4
+2006,Cuba,9.4
+2007,Cuba,9.4
+2008,Cuba,9.4
+2009,Cuba,9.4
+2010,Cuba,10.04
+1950,Cyprus,2.48
+1951,Cyprus,2.48
+1952,Cyprus,2.48
+1953,Cyprus,2.48
+1954,Cyprus,2.48
+1955,Cyprus,3.17
+1956,Cyprus,3.17
+1957,Cyprus,3.17
+1958,Cyprus,3.17
+1959,Cyprus,3.17
+1960,Cyprus,4.08
+1961,Cyprus,4.08
+1962,Cyprus,4.08
+1963,Cyprus,4.08
+1964,Cyprus,4.08
+1965,Cyprus,4.58
+1966,Cyprus,4.58
+1967,Cyprus,4.58
+1968,Cyprus,4.58
+1969,Cyprus,4.58
+1970,Cyprus,4.92
+1971,Cyprus,4.92
+1972,Cyprus,4.92
+1973,Cyprus,4.92
+1974,Cyprus,4.92
+1975,Cyprus,5.79
+1976,Cyprus,5.79
+1977,Cyprus,5.79
+1978,Cyprus,5.79
+1979,Cyprus,5.79
+1980,Cyprus,6.75
+1981,Cyprus,6.75
+1982,Cyprus,6.75
+1983,Cyprus,6.75
+1984,Cyprus,6.75
+1985,Cyprus,7.73
+1986,Cyprus,7.73
+1987,Cyprus,7.73
+1988,Cyprus,7.73
+1989,Cyprus,7.73
+1990,Cyprus,8.54
+1991,Cyprus,8.54
+1992,Cyprus,8.54
+1993,Cyprus,8.54
+1994,Cyprus,8.54
+1995,Cyprus,9.03
+1996,Cyprus,9.03
+1997,Cyprus,9.03
+1998,Cyprus,9.03
+1999,Cyprus,9.03
+2000,Cyprus,9.5
+2001,Cyprus,9.5
+2002,Cyprus,9.5
+2003,Cyprus,9.5
+2004,Cyprus,9.5
+2005,Cyprus,8.42
+2006,Cyprus,8.42
+2007,Cyprus,8.42
+2008,Cyprus,8.42
+2009,Cyprus,8.42
+2010,Cyprus,10.85
+1950,Czech Republic,7.69
+1951,Czech Republic,7.69
+1952,Czech Republic,7.69
+1953,Czech Republic,7.69
+1954,Czech Republic,7.69
+1955,Czech Republic,7.82
+1956,Czech Republic,7.82
+1957,Czech Republic,7.82
+1958,Czech Republic,7.82
+1959,Czech Republic,7.82
+1960,Czech Republic,7.98
+1961,Czech Republic,7.98
+1962,Czech Republic,7.98
+1963,Czech Republic,7.98
+1964,Czech Republic,7.98
+1965,Czech Republic,8.46
+1966,Czech Republic,8.46
+1967,Czech Republic,8.46
+1968,Czech Republic,8.46
+1969,Czech Republic,8.46
+1970,Czech Republic,8.86
+1971,Czech Republic,8.86
+1972,Czech Republic,8.86
+1973,Czech Republic,8.86
+1974,Czech Republic,8.86
+1975,Czech Republic,9.25
+1976,Czech Republic,9.25
+1977,Czech Republic,9.25
+1978,Czech Republic,9.25
+1979,Czech Republic,9.25
+1980,Czech Republic,9.6
+1981,Czech Republic,9.6
+1982,Czech Republic,9.6
+1983,Czech Republic,9.6
+1984,Czech Republic,9.6
+1985,Czech Republic,10.11
+1986,Czech Republic,10.11
+1987,Czech Republic,10.11
+1988,Czech Republic,10.11
+1989,Czech Republic,10.11
+1990,Czech Republic,10.55
+1991,Czech Republic,10.55
+1992,Czech Republic,10.55
+1993,Czech Republic,10.55
+1994,Czech Republic,10.55
+1995,Czech Republic,11.79
+1996,Czech Republic,11.79
+1997,Czech Republic,11.79
+1998,Czech Republic,11.79
+1999,Czech Republic,11.79
+2000,Czech Republic,12.52
+2001,Czech Republic,12.52
+2002,Czech Republic,12.52
+2003,Czech Republic,12.52
+2004,Czech Republic,12.52
+2005,Czech Republic,12.59
+2006,Czech Republic,12.59
+2007,Czech Republic,12.59
+2008,Czech Republic,12.59
+2009,Czech Republic,12.59
+2010,Czech Republic,12.71
+1950,Democratic Republic of the Congo,0.12
+1951,Democratic Republic of the Congo,0.12
+1952,Democratic Republic of the Congo,0.12
+1953,Democratic Republic of the Congo,0.12
+1954,Democratic Republic of the Congo,0.12
+1955,Democratic Republic of the Congo,0.17
+1956,Democratic Republic of the Congo,0.17
+1957,Democratic Republic of the Congo,0.17
+1958,Democratic Republic of the Congo,0.17
+1959,Democratic Republic of the Congo,0.17
+1960,Democratic Republic of the Congo,0.25
+1961,Democratic Republic of the Congo,0.25
+1962,Democratic Republic of the Congo,0.25
+1963,Democratic Republic of the Congo,0.25
+1964,Democratic Republic of the Congo,0.25
+1965,Democratic Republic of the Congo,0.37
+1966,Democratic Republic of the Congo,0.37
+1967,Democratic Republic of the Congo,0.37
+1968,Democratic Republic of the Congo,0.37
+1969,Democratic Republic of the Congo,0.37
+1970,Democratic Republic of the Congo,0.55
+1971,Democratic Republic of the Congo,0.55
+1972,Democratic Republic of the Congo,0.55
+1973,Democratic Republic of the Congo,0.55
+1974,Democratic Republic of the Congo,0.55
+1975,Democratic Republic of the Congo,0.81
+1976,Democratic Republic of the Congo,0.81
+1977,Democratic Republic of the Congo,0.81
+1978,Democratic Republic of the Congo,0.81
+1979,Democratic Republic of the Congo,0.81
+1980,Democratic Republic of the Congo,1.15
+1981,Democratic Republic of the Congo,1.15
+1982,Democratic Republic of the Congo,1.15
+1983,Democratic Republic of the Congo,1.15
+1984,Democratic Republic of the Congo,1.15
+1985,Democratic Republic of the Congo,1.51
+1986,Democratic Republic of the Congo,1.51
+1987,Democratic Republic of the Congo,1.51
+1988,Democratic Republic of the Congo,1.51
+1989,Democratic Republic of the Congo,1.51
+1990,Democratic Republic of the Congo,1.95
+1991,Democratic Republic of the Congo,1.95
+1992,Democratic Republic of the Congo,1.95
+1993,Democratic Republic of the Congo,1.95
+1994,Democratic Republic of the Congo,1.95
+1995,Democratic Republic of the Congo,2.12
+1996,Democratic Republic of the Congo,2.12
+1997,Democratic Republic of the Congo,2.12
+1998,Democratic Republic of the Congo,2.12
+1999,Democratic Republic of the Congo,2.12
+2000,Democratic Republic of the Congo,2.2
+2001,Democratic Republic of the Congo,2.2
+2002,Democratic Republic of the Congo,2.2
+2003,Democratic Republic of the Congo,2.2
+2004,Democratic Republic of the Congo,2.2
+2005,Democratic Republic of the Congo,2.31
+2006,Democratic Republic of the Congo,2.31
+2007,Democratic Republic of the Congo,2.31
+2008,Democratic Republic of the Congo,2.31
+2009,Democratic Republic of the Congo,2.31
+2010,Democratic Republic of the Congo,2.58
+1950,Denmark,5.25
+1951,Denmark,5.25
+1952,Denmark,5.25
+1953,Denmark,5.25
+1954,Denmark,5.25
+1955,Denmark,4.17
+1956,Denmark,4.17
+1957,Denmark,4.17
+1958,Denmark,4.17
+1959,Denmark,4.17
+1960,Denmark,4.54
+1961,Denmark,4.54
+1962,Denmark,4.54
+1963,Denmark,4.54
+1964,Denmark,4.54
+1965,Denmark,5.27
+1966,Denmark,5.27
+1967,Denmark,5.27
+1968,Denmark,5.27
+1969,Denmark,5.27
+1970,Denmark,6.18
+1971,Denmark,6.18
+1972,Denmark,6.18
+1973,Denmark,6.18
+1974,Denmark,6.18
+1975,Denmark,6.86
+1976,Denmark,6.86
+1977,Denmark,6.86
+1978,Denmark,6.86
+1979,Denmark,6.86
+1980,Denmark,7.53
+1981,Denmark,7.53
+1982,Denmark,7.53
+1983,Denmark,7.53
+1984,Denmark,7.53
+1985,Denmark,8.11
+1986,Denmark,8.11
+1987,Denmark,8.11
+1988,Denmark,8.11
+1989,Denmark,8.11
+1990,Denmark,8.85
+1991,Denmark,8.85
+1992,Denmark,8.85
+1993,Denmark,8.85
+1994,Denmark,8.85
+1995,Denmark,9.59
+1996,Denmark,9.59
+1997,Denmark,9.59
+1998,Denmark,9.59
+1999,Denmark,9.59
+2000,Denmark,10.5
+2001,Denmark,10.5
+2002,Denmark,10.5
+2003,Denmark,10.5
+2004,Denmark,10.5
+2005,Denmark,10.89
+2006,Denmark,10.89
+2007,Denmark,10.89
+2008,Denmark,10.89
+2009,Denmark,10.89
+2010,Denmark,11.15
+1950,Dominican Rep.,2.68
+1951,Dominican Rep.,2.68
+1952,Dominican Rep.,2.68
+1953,Dominican Rep.,2.68
+1954,Dominican Rep.,2.68
+1955,Dominican Rep.,2.67
+1956,Dominican Rep.,2.67
+1957,Dominican Rep.,2.67
+1958,Dominican Rep.,2.67
+1959,Dominican Rep.,2.67
+1960,Dominican Rep.,2.78
+1961,Dominican Rep.,2.78
+1962,Dominican Rep.,2.78
+1963,Dominican Rep.,2.78
+1964,Dominican Rep.,2.78
+1965,Dominican Rep.,2.98
+1966,Dominican Rep.,2.98
+1967,Dominican Rep.,2.98
+1968,Dominican Rep.,2.98
+1969,Dominican Rep.,2.98
+1970,Dominican Rep.,3.5
+1971,Dominican Rep.,3.5
+1972,Dominican Rep.,3.5
+1973,Dominican Rep.,3.5
+1974,Dominican Rep.,3.5
+1975,Dominican Rep.,3.96
+1976,Dominican Rep.,3.96
+1977,Dominican Rep.,3.96
+1978,Dominican Rep.,3.96
+1979,Dominican Rep.,3.96
+1980,Dominican Rep.,4.55
+1981,Dominican Rep.,4.55
+1982,Dominican Rep.,4.55
+1983,Dominican Rep.,4.55
+1984,Dominican Rep.,4.55
+1985,Dominican Rep.,5.17
+1986,Dominican Rep.,5.17
+1987,Dominican Rep.,5.17
+1988,Dominican Rep.,5.17
+1989,Dominican Rep.,5.17
+1990,Dominican Rep.,5.97
+1991,Dominican Rep.,5.97
+1992,Dominican Rep.,5.97
+1993,Dominican Rep.,5.97
+1994,Dominican Rep.,5.97
+1995,Dominican Rep.,6.36
+1996,Dominican Rep.,6.36
+1997,Dominican Rep.,6.36
+1998,Dominican Rep.,6.36
+1999,Dominican Rep.,6.36
+2000,Dominican Rep.,6.83
+2001,Dominican Rep.,6.83
+2002,Dominican Rep.,6.83
+2003,Dominican Rep.,6.83
+2004,Dominican Rep.,6.83
+2005,Dominican Rep.,7.37
+2006,Dominican Rep.,7.37
+2007,Dominican Rep.,7.37
+2008,Dominican Rep.,7.37
+2009,Dominican Rep.,7.37
+2010,Dominican Rep.,8.07
+1950,Ecuador,2.19
+1951,Ecuador,2.19
+1952,Ecuador,2.19
+1953,Ecuador,2.19
+1954,Ecuador,2.19
+1955,Ecuador,2.55
+1956,Ecuador,2.55
+1957,Ecuador,2.55
+1958,Ecuador,2.55
+1959,Ecuador,2.55
+1960,Ecuador,2.93
+1961,Ecuador,2.93
+1962,Ecuador,2.93
+1963,Ecuador,2.93
+1964,Ecuador,2.93
+1965,Ecuador,3.56
+1966,Ecuador,3.56
+1967,Ecuador,3.56
+1968,Ecuador,3.56
+1969,Ecuador,3.56
+1970,Ecuador,4.07
+1971,Ecuador,4.07
+1972,Ecuador,4.07
+1973,Ecuador,4.07
+1974,Ecuador,4.07
+1975,Ecuador,4.6
+1976,Ecuador,4.6
+1977,Ecuador,4.6
+1978,Ecuador,4.6
+1979,Ecuador,4.6
+1980,Ecuador,5.9
+1981,Ecuador,5.9
+1982,Ecuador,5.9
+1983,Ecuador,5.9
+1984,Ecuador,5.9
+1985,Ecuador,6.28
+1986,Ecuador,6.28
+1987,Ecuador,6.28
+1988,Ecuador,6.28
+1989,Ecuador,6.28
+1990,Ecuador,6.76
+1991,Ecuador,6.76
+1992,Ecuador,6.76
+1993,Ecuador,6.76
+1994,Ecuador,6.76
+1995,Ecuador,6.93
+1996,Ecuador,6.93
+1997,Ecuador,6.93
+1998,Ecuador,6.93
+1999,Ecuador,6.93
+2000,Ecuador,7.05
+2001,Ecuador,7.05
+2002,Ecuador,7.05
+2003,Ecuador,7.05
+2004,Ecuador,7.05
+2005,Ecuador,7.3
+2006,Ecuador,7.3
+2007,Ecuador,7.3
+2008,Ecuador,7.3
+2009,Ecuador,7.3
+2010,Ecuador,7.58
+1950,Egypt,0.16
+1951,Egypt,0.16
+1952,Egypt,0.16
+1953,Egypt,0.16
+1954,Egypt,0.16
+1955,Egypt,0.24
+1956,Egypt,0.24
+1957,Egypt,0.24
+1958,Egypt,0.24
+1959,Egypt,0.24
+1960,Egypt,0.33
+1961,Egypt,0.33
+1962,Egypt,0.33
+1963,Egypt,0.33
+1964,Egypt,0.33
+1965,Egypt,0.5
+1966,Egypt,0.5
+1967,Egypt,0.5
+1968,Egypt,0.5
+1969,Egypt,0.5
+1970,Egypt,0.7
+1971,Egypt,0.7
+1972,Egypt,0.7
+1973,Egypt,0.7
+1974,Egypt,0.7
+1975,Egypt,1.02
+1976,Egypt,1.02
+1977,Egypt,1.02
+1978,Egypt,1.02
+1979,Egypt,1.02
+1980,Egypt,1.67
+1981,Egypt,1.67
+1982,Egypt,1.67
+1983,Egypt,1.67
+1984,Egypt,1.67
+1985,Egypt,2.55
+1986,Egypt,2.55
+1987,Egypt,2.55
+1988,Egypt,2.55
+1989,Egypt,2.55
+1990,Egypt,3.24
+1991,Egypt,3.24
+1992,Egypt,3.24
+1993,Egypt,3.24
+1994,Egypt,3.24
+1995,Egypt,4.05
+1996,Egypt,4.05
+1997,Egypt,4.05
+1998,Egypt,4.05
+1999,Egypt,4.05
+2000,Egypt,4.95
+2001,Egypt,4.95
+2002,Egypt,4.95
+2003,Egypt,4.95
+2004,Egypt,4.95
+2005,Egypt,5.72
+2006,Egypt,5.72
+2007,Egypt,5.72
+2008,Egypt,5.72
+2009,Egypt,5.72
+2010,Egypt,6.39
+1950,El Salvador,1.37
+1951,El Salvador,1.37
+1952,El Salvador,1.37
+1953,El Salvador,1.37
+1954,El Salvador,1.37
+1955,El Salvador,1.5
+1956,El Salvador,1.5
+1957,El Salvador,1.5
+1958,El Salvador,1.5
+1959,El Salvador,1.5
+1960,El Salvador,1.77
+1961,El Salvador,1.77
+1962,El Salvador,1.77
+1963,El Salvador,1.77
+1964,El Salvador,1.77
+1965,El Salvador,2.12
+1966,El Salvador,2.12
+1967,El Salvador,2.12
+1968,El Salvador,2.12
+1969,El Salvador,2.12
+1970,El Salvador,2.59
+1971,El Salvador,2.59
+1972,El Salvador,2.59
+1973,El Salvador,2.59
+1974,El Salvador,2.59
+1975,El Salvador,2.96
+1976,El Salvador,2.96
+1977,El Salvador,2.96
+1978,El Salvador,2.96
+1979,El Salvador,2.96
+1980,El Salvador,3.36
+1981,El Salvador,3.36
+1982,El Salvador,3.36
+1983,El Salvador,3.36
+1984,El Salvador,3.36
+1985,El Salvador,4.02
+1986,El Salvador,4.02
+1987,El Salvador,4.02
+1988,El Salvador,4.02
+1989,El Salvador,4.02
+1990,El Salvador,4.53
+1991,El Salvador,4.53
+1992,El Salvador,4.53
+1993,El Salvador,4.53
+1994,El Salvador,4.53
+1995,El Salvador,5.21
+1996,El Salvador,5.21
+1997,El Salvador,5.21
+1998,El Salvador,5.21
+1999,El Salvador,5.21
+2000,El Salvador,6.3
+2001,El Salvador,6.3
+2002,El Salvador,6.3
+2003,El Salvador,6.3
+2004,El Salvador,6.3
+2005,El Salvador,7.04
+2006,El Salvador,7.04
+2007,El Salvador,7.04
+2008,El Salvador,7.04
+2009,El Salvador,7.04
+2010,El Salvador,7.58
+1950,Estonia,6.11
+1951,Estonia,6.11
+1952,Estonia,6.11
+1953,Estonia,6.11
+1954,Estonia,6.11
+1955,Estonia,6.35
+1956,Estonia,6.35
+1957,Estonia,6.35
+1958,Estonia,6.35
+1959,Estonia,6.35
+1960,Estonia,6.69
+1961,Estonia,6.69
+1962,Estonia,6.69
+1963,Estonia,6.69
+1964,Estonia,6.69
+1965,Estonia,7.01
+1966,Estonia,7.01
+1967,Estonia,7.01
+1968,Estonia,7.01
+1969,Estonia,7.01
+1970,Estonia,7.35
+1971,Estonia,7.35
+1972,Estonia,7.35
+1973,Estonia,7.35
+1974,Estonia,7.35
+1975,Estonia,7.86
+1976,Estonia,7.86
+1977,Estonia,7.86
+1978,Estonia,7.86
+1979,Estonia,7.86
+1980,Estonia,8.36
+1981,Estonia,8.36
+1982,Estonia,8.36
+1983,Estonia,8.36
+1984,Estonia,8.36
+1985,Estonia,8.84
+1986,Estonia,8.84
+1987,Estonia,8.84
+1988,Estonia,8.84
+1989,Estonia,8.84
+1990,Estonia,9.2
+1991,Estonia,9.2
+1992,Estonia,9.2
+1993,Estonia,9.2
+1994,Estonia,9.2
+1995,Estonia,10.47
+1996,Estonia,10.47
+1997,Estonia,10.47
+1998,Estonia,10.47
+1999,Estonia,10.47
+2000,Estonia,11.53
+2001,Estonia,11.53
+2002,Estonia,11.53
+2003,Estonia,11.53
+2004,Estonia,11.53
+2005,Estonia,11.98
+2006,Estonia,11.98
+2007,Estonia,11.98
+2008,Estonia,11.98
+2009,Estonia,11.98
+2010,Estonia,12.35
+1950,Fiji,3.15
+1951,Fiji,3.15
+1952,Fiji,3.15
+1953,Fiji,3.15
+1954,Fiji,3.15
+1955,Fiji,3.52
+1956,Fiji,3.52
+1957,Fiji,3.52
+1958,Fiji,3.52
+1959,Fiji,3.52
+1960,Fiji,3.97
+1961,Fiji,3.97
+1962,Fiji,3.97
+1963,Fiji,3.97
+1964,Fiji,3.97
+1965,Fiji,4.69
+1966,Fiji,4.69
+1967,Fiji,4.69
+1968,Fiji,4.69
+1969,Fiji,4.69
+1970,Fiji,4.97
+1971,Fiji,4.97
+1972,Fiji,4.97
+1973,Fiji,4.97
+1974,Fiji,4.97
+1975,Fiji,5.77
+1976,Fiji,5.77
+1977,Fiji,5.77
+1978,Fiji,5.77
+1979,Fiji,5.77
+1980,Fiji,6.65
+1981,Fiji,6.65
+1982,Fiji,6.65
+1983,Fiji,6.65
+1984,Fiji,6.65
+1985,Fiji,7.34
+1986,Fiji,7.34
+1987,Fiji,7.34
+1988,Fiji,7.34
+1989,Fiji,7.34
+1990,Fiji,8.87
+1991,Fiji,8.87
+1992,Fiji,8.87
+1993,Fiji,8.87
+1994,Fiji,8.87
+1995,Fiji,9.92
+1996,Fiji,9.92
+1997,Fiji,9.92
+1998,Fiji,9.92
+1999,Fiji,9.92
+2000,Fiji,9.65
+2001,Fiji,9.65
+2002,Fiji,9.65
+2003,Fiji,9.65
+2004,Fiji,9.65
+2005,Fiji,9.32
+2006,Fiji,9.32
+2007,Fiji,9.32
+2008,Fiji,9.32
+2009,Fiji,9.32
+2010,Fiji,9.95
+1950,Finland,3.88
+1951,Finland,3.88
+1952,Finland,3.88
+1953,Finland,3.88
+1954,Finland,3.88
+1955,Finland,3.97
+1956,Finland,3.97
+1957,Finland,3.97
+1958,Finland,3.97
+1959,Finland,3.97
+1960,Finland,4.1
+1961,Finland,4.1
+1962,Finland,4.1
+1963,Finland,4.1
+1964,Finland,4.1
+1965,Finland,4.77
+1966,Finland,4.77
+1967,Finland,4.77
+1968,Finland,4.77
+1969,Finland,4.77
+1970,Finland,5.65
+1971,Finland,5.65
+1972,Finland,5.65
+1973,Finland,5.65
+1974,Finland,5.65
+1975,Finland,6.55
+1976,Finland,6.55
+1977,Finland,6.55
+1978,Finland,6.55
+1979,Finland,6.55
+1980,Finland,7.32
+1981,Finland,7.32
+1982,Finland,7.32
+1983,Finland,7.32
+1984,Finland,7.32
+1985,Finland,7.18
+1986,Finland,7.18
+1987,Finland,7.18
+1988,Finland,7.18
+1989,Finland,7.18
+1990,Finland,7.29
+1991,Finland,7.29
+1992,Finland,7.29
+1993,Finland,7.29
+1994,Finland,7.29
+1995,Finland,8.46
+1996,Finland,8.46
+1997,Finland,8.46
+1998,Finland,8.46
+1999,Finland,8.46
+2000,Finland,9.04
+2001,Finland,9.04
+2002,Finland,9.04
+2003,Finland,9.04
+2004,Finland,9.04
+2005,Finland,9.51
+2006,Finland,9.51
+2007,Finland,9.51
+2008,Finland,9.51
+2009,Finland,9.51
+2010,Finland,9.87
+1950,France,3.96
+1951,France,3.96
+1952,France,3.96
+1953,France,3.96
+1954,France,3.96
+1955,France,4.08
+1956,France,4.08
+1957,France,4.08
+1958,France,4.08
+1959,France,4.08
+1960,France,4.09
+1961,France,4.09
+1962,France,4.09
+1963,France,4.09
+1964,France,4.09
+1965,France,4.43
+1966,France,4.43
+1967,France,4.43
+1968,France,4.43
+1969,France,4.43
+1970,France,4.58
+1971,France,4.58
+1972,France,4.58
+1973,France,4.58
+1974,France,4.58
+1975,France,5.45
+1976,France,5.45
+1977,France,5.45
+1978,France,5.45
+1979,France,5.45
+1980,France,5.68
+1981,France,5.68
+1982,France,5.68
+1983,France,5.68
+1984,France,5.68
+1985,France,6.63
+1986,France,6.63
+1987,France,6.63
+1988,France,6.63
+1989,France,6.63
+1990,France,7.36
+1991,France,7.36
+1992,France,7.36
+1993,France,7.36
+1994,France,7.36
+1995,France,8.57
+1996,France,8.57
+1997,France,8.57
+1998,France,8.57
+1999,France,8.57
+2000,France,9.52
+2001,France,9.52
+2002,France,9.52
+2003,France,9.52
+2004,France,9.52
+2005,France,9.87
+2006,France,9.87
+2007,France,9.87
+2008,France,9.87
+2009,France,9.87
+2010,France,10.49
+1950,Gabon,0.72
+1951,Gabon,0.72
+1952,Gabon,0.72
+1953,Gabon,0.72
+1954,Gabon,0.72
+1955,Gabon,1.12
+1956,Gabon,1.12
+1957,Gabon,1.12
+1958,Gabon,1.12
+1959,Gabon,1.12
+1960,Gabon,1.38
+1961,Gabon,1.38
+1962,Gabon,1.38
+1963,Gabon,1.38
+1964,Gabon,1.38
+1965,Gabon,1.86
+1966,Gabon,1.86
+1967,Gabon,1.86
+1968,Gabon,1.86
+1969,Gabon,1.86
+1970,Gabon,2.44
+1971,Gabon,2.44
+1972,Gabon,2.44
+1973,Gabon,2.44
+1974,Gabon,2.44
+1975,Gabon,3.42
+1976,Gabon,3.42
+1977,Gabon,3.42
+1978,Gabon,3.42
+1979,Gabon,3.42
+1980,Gabon,4.44
+1981,Gabon,4.44
+1982,Gabon,4.44
+1983,Gabon,4.44
+1984,Gabon,4.44
+1985,Gabon,5.41
+1986,Gabon,5.41
+1987,Gabon,5.41
+1988,Gabon,5.41
+1989,Gabon,5.41
+1990,Gabon,6.17
+1991,Gabon,6.17
+1992,Gabon,6.17
+1993,Gabon,6.17
+1994,Gabon,6.17
+1995,Gabon,6.99
+1996,Gabon,6.99
+1997,Gabon,6.99
+1998,Gabon,6.99
+1999,Gabon,6.99
+2000,Gabon,7.8
+2001,Gabon,7.8
+2002,Gabon,7.8
+2003,Gabon,7.8
+2004,Gabon,7.8
+2005,Gabon,8.41
+2006,Gabon,8.41
+2007,Gabon,8.41
+2008,Gabon,8.41
+2009,Gabon,8.41
+2010,Gabon,8.99
+1950,Gambia,0.29
+1951,Gambia,0.29
+1952,Gambia,0.29
+1953,Gambia,0.29
+1954,Gambia,0.29
+1955,Gambia,0.29
+1956,Gambia,0.29
+1957,Gambia,0.29
+1958,Gambia,0.29
+1959,Gambia,0.29
+1960,Gambia,0.3
+1961,Gambia,0.3
+1962,Gambia,0.3
+1963,Gambia,0.3
+1964,Gambia,0.3
+1965,Gambia,0.32
+1966,Gambia,0.32
+1967,Gambia,0.32
+1968,Gambia,0.32
+1969,Gambia,0.32
+1970,Gambia,0.35
+1971,Gambia,0.35
+1972,Gambia,0.35
+1973,Gambia,0.35
+1974,Gambia,0.35
+1975,Gambia,0.42
+1976,Gambia,0.42
+1977,Gambia,0.42
+1978,Gambia,0.42
+1979,Gambia,0.42
+1980,Gambia,0.57
+1981,Gambia,0.57
+1982,Gambia,0.57
+1983,Gambia,0.57
+1984,Gambia,0.57
+1985,Gambia,0.75
+1986,Gambia,0.75
+1987,Gambia,0.75
+1988,Gambia,0.75
+1989,Gambia,0.75
+1990,Gambia,1.09
+1991,Gambia,1.09
+1992,Gambia,1.09
+1993,Gambia,1.09
+1994,Gambia,1.09
+1995,Gambia,1.72
+1996,Gambia,1.72
+1997,Gambia,1.72
+1998,Gambia,1.72
+1999,Gambia,1.72
+2000,Gambia,1.88
+2001,Gambia,1.88
+2002,Gambia,1.88
+2003,Gambia,1.88
+2004,Gambia,1.88
+2005,Gambia,2.52
+2006,Gambia,2.52
+2007,Gambia,2.52
+2008,Gambia,2.52
+2009,Gambia,2.52
+2010,Gambia,3.12
+1950,Germany,6.66
+1951,Germany,6.66
+1952,Germany,6.66
+1953,Germany,6.66
+1954,Germany,6.66
+1955,Germany,7.23
+1956,Germany,7.23
+1957,Germany,7.23
+1958,Germany,7.23
+1959,Germany,7.23
+1960,Germany,7.34
+1961,Germany,7.34
+1962,Germany,7.34
+1963,Germany,7.34
+1964,Germany,7.34
+1965,Germany,7.3
+1966,Germany,7.3
+1967,Germany,7.3
+1968,Germany,7.3
+1969,Germany,7.3
+1970,Germany,6.94
+1971,Germany,6.94
+1972,Germany,6.94
+1973,Germany,6.94
+1974,Germany,6.94
+1975,Germany,6.82
+1976,Germany,6.82
+1977,Germany,6.82
+1978,Germany,6.82
+1979,Germany,6.82
+1980,Germany,6.89
+1981,Germany,6.89
+1982,Germany,6.89
+1983,Germany,6.89
+1984,Germany,6.89
+1985,Germany,6.98
+1986,Germany,6.98
+1987,Germany,6.98
+1988,Germany,6.98
+1989,Germany,6.98
+1990,Germany,8.21
+1991,Germany,8.21
+1992,Germany,8.21
+1993,Germany,8.21
+1994,Germany,8.21
+1995,Germany,8.87
+1996,Germany,8.87
+1997,Germany,8.87
+1998,Germany,8.87
+1999,Germany,8.87
+2000,Germany,9.35
+2001,Germany,9.35
+2002,Germany,9.35
+2003,Germany,9.35
+2004,Germany,9.35
+2005,Germany,11.32
+2006,Germany,11.32
+2007,Germany,11.32
+2008,Germany,11.32
+2009,Germany,11.32
+2010,Germany,12.06
+1950,Ghana,0.31
+1951,Ghana,0.31
+1952,Ghana,0.31
+1953,Ghana,0.31
+1954,Ghana,0.31
+1955,Ghana,0.35
+1956,Ghana,0.35
+1957,Ghana,0.35
+1958,Ghana,0.35
+1959,Ghana,0.35
+1960,Ghana,0.52
+1961,Ghana,0.52
+1962,Ghana,0.52
+1963,Ghana,0.52
+1964,Ghana,0.52
+1965,Ghana,1.1
+1966,Ghana,1.1
+1967,Ghana,1.1
+1968,Ghana,1.1
+1969,Ghana,1.1
+1970,Ghana,1.96
+1971,Ghana,1.96
+1972,Ghana,1.96
+1973,Ghana,1.96
+1974,Ghana,1.96
+1975,Ghana,2.66
+1976,Ghana,2.66
+1977,Ghana,2.66
+1978,Ghana,2.66
+1979,Ghana,2.66
+1980,Ghana,3.19
+1981,Ghana,3.19
+1982,Ghana,3.19
+1983,Ghana,3.19
+1984,Ghana,3.19
+1985,Ghana,3.66
+1986,Ghana,3.66
+1987,Ghana,3.66
+1988,Ghana,3.66
+1989,Ghana,3.66
+1990,Ghana,4.08
+1991,Ghana,4.08
+1992,Ghana,4.08
+1993,Ghana,4.08
+1994,Ghana,4.08
+1995,Ghana,4.46
+1996,Ghana,4.46
+1997,Ghana,4.46
+1998,Ghana,4.46
+1999,Ghana,4.46
+2000,Ghana,5.2
+2001,Ghana,5.2
+2002,Ghana,5.2
+2003,Ghana,5.2
+2004,Ghana,5.2
+2005,Ghana,5.95
+2006,Ghana,5.95
+2007,Ghana,5.95
+2008,Ghana,5.95
+2009,Ghana,5.95
+2010,Ghana,6.15
+1950,Greece,3.18
+1951,Greece,3.18
+1952,Greece,3.18
+1953,Greece,3.18
+1954,Greece,3.18
+1955,Greece,4.56
+1956,Greece,4.56
+1957,Greece,4.56
+1958,Greece,4.56
+1959,Greece,4.56
+1960,Greece,6.29
+1961,Greece,6.29
+1962,Greece,6.29
+1963,Greece,6.29
+1964,Greece,6.29
+1965,Greece,5.63
+1966,Greece,5.63
+1967,Greece,5.63
+1968,Greece,5.63
+1969,Greece,5.63
+1970,Greece,5.63
+1971,Greece,5.63
+1972,Greece,5.63
+1973,Greece,5.63
+1974,Greece,5.63
+1975,Greece,5.8
+1976,Greece,5.8
+1977,Greece,5.8
+1978,Greece,5.8
+1979,Greece,5.8
+1980,Greece,6.21
+1981,Greece,6.21
+1982,Greece,6.21
+1983,Greece,6.21
+1984,Greece,6.21
+1985,Greece,7.17
+1986,Greece,7.17
+1987,Greece,7.17
+1988,Greece,7.17
+1989,Greece,7.17
+1990,Greece,8.04
+1991,Greece,8.04
+1992,Greece,8.04
+1993,Greece,8.04
+1994,Greece,8.04
+1995,Greece,8.23
+1996,Greece,8.23
+1997,Greece,8.23
+1998,Greece,8.23
+1999,Greece,8.23
+2000,Greece,8.46
+2001,Greece,8.46
+2002,Greece,8.46
+2003,Greece,8.46
+2004,Greece,8.46
+2005,Greece,9.59
+2006,Greece,9.59
+2007,Greece,9.59
+2008,Greece,9.59
+2009,Greece,9.59
+2010,Greece,10.05
+1950,Guatemala,1.07
+1951,Guatemala,1.07
+1952,Guatemala,1.07
+1953,Guatemala,1.07
+1954,Guatemala,1.07
+1955,Guatemala,1.12
+1956,Guatemala,1.12
+1957,Guatemala,1.12
+1958,Guatemala,1.12
+1959,Guatemala,1.12
+1960,Guatemala,1.18
+1961,Guatemala,1.18
+1962,Guatemala,1.18
+1963,Guatemala,1.18
+1964,Guatemala,1.18
+1965,Guatemala,1.26
+1966,Guatemala,1.26
+1967,Guatemala,1.26
+1968,Guatemala,1.26
+1969,Guatemala,1.26
+1970,Guatemala,1.49
+1971,Guatemala,1.49
+1972,Guatemala,1.49
+1973,Guatemala,1.49
+1974,Guatemala,1.49
+1975,Guatemala,1.79
+1976,Guatemala,1.79
+1977,Guatemala,1.79
+1978,Guatemala,1.79
+1979,Guatemala,1.79
+1980,Guatemala,2.52
+1981,Guatemala,2.52
+1982,Guatemala,2.52
+1983,Guatemala,2.52
+1984,Guatemala,2.52
+1985,Guatemala,2.8
+1986,Guatemala,2.8
+1987,Guatemala,2.8
+1988,Guatemala,2.8
+1989,Guatemala,2.8
+1990,Guatemala,3.1
+1991,Guatemala,3.1
+1992,Guatemala,3.1
+1993,Guatemala,3.1
+1994,Guatemala,3.1
+1995,Guatemala,3.42
+1996,Guatemala,3.42
+1997,Guatemala,3.42
+1998,Guatemala,3.42
+1999,Guatemala,3.42
+2000,Guatemala,3.71
+2001,Guatemala,3.71
+2002,Guatemala,3.71
+2003,Guatemala,3.71
+2004,Guatemala,3.71
+2005,Guatemala,3.57
+2006,Guatemala,3.57
+2007,Guatemala,3.57
+2008,Guatemala,3.57
+2009,Guatemala,3.57
+2010,Guatemala,4.32
+1950,Guyana,3.79
+1951,Guyana,3.79
+1952,Guyana,3.79
+1953,Guyana,3.79
+1954,Guyana,3.79
+1955,Guyana,4.23
+1956,Guyana,4.23
+1957,Guyana,4.23
+1958,Guyana,4.23
+1959,Guyana,4.23
+1960,Guyana,4.59
+1961,Guyana,4.59
+1962,Guyana,4.59
+1963,Guyana,4.59
+1964,Guyana,4.59
+1965,Guyana,4.89
+1966,Guyana,4.89
+1967,Guyana,4.89
+1968,Guyana,4.89
+1969,Guyana,4.89
+1970,Guyana,5.37
+1971,Guyana,5.37
+1972,Guyana,5.37
+1973,Guyana,5.37
+1974,Guyana,5.37
+1975,Guyana,5.76
+1976,Guyana,5.76
+1977,Guyana,5.76
+1978,Guyana,5.76
+1979,Guyana,5.76
+1980,Guyana,6.32
+1981,Guyana,6.32
+1982,Guyana,6.32
+1983,Guyana,6.32
+1984,Guyana,6.32
+1985,Guyana,6.8
+1986,Guyana,6.8
+1987,Guyana,6.8
+1988,Guyana,6.8
+1989,Guyana,6.8
+1990,Guyana,7.15
+1991,Guyana,7.15
+1992,Guyana,7.15
+1993,Guyana,7.15
+1994,Guyana,7.15
+1995,Guyana,7.92
+1996,Guyana,7.92
+1997,Guyana,7.92
+1998,Guyana,7.92
+1999,Guyana,7.92
+2000,Guyana,8.6
+2001,Guyana,8.6
+2002,Guyana,8.6
+2003,Guyana,8.6
+2004,Guyana,8.6
+2005,Guyana,8.97
+2006,Guyana,8.97
+2007,Guyana,8.97
+2008,Guyana,8.97
+2009,Guyana,8.97
+2010,Guyana,9.23
+1950,Haiti,0.46
+1951,Haiti,0.46
+1952,Haiti,0.46
+1953,Haiti,0.46
+1954,Haiti,0.46
+1955,Haiti,0.5
+1956,Haiti,0.5
+1957,Haiti,0.5
+1958,Haiti,0.5
+1959,Haiti,0.5
+1960,Haiti,0.57
+1961,Haiti,0.57
+1962,Haiti,0.57
+1963,Haiti,0.57
+1964,Haiti,0.57
+1965,Haiti,0.69
+1966,Haiti,0.69
+1967,Haiti,0.69
+1968,Haiti,0.69
+1969,Haiti,0.69
+1970,Haiti,0.9
+1971,Haiti,0.9
+1972,Haiti,0.9
+1973,Haiti,0.9
+1974,Haiti,0.9
+1975,Haiti,1.21
+1976,Haiti,1.21
+1977,Haiti,1.21
+1978,Haiti,1.21
+1979,Haiti,1.21
+1980,Haiti,1.65
+1981,Haiti,1.65
+1982,Haiti,1.65
+1983,Haiti,1.65
+1984,Haiti,1.65
+1985,Haiti,2.0
+1986,Haiti,2.0
+1987,Haiti,2.0
+1988,Haiti,2.0
+1989,Haiti,2.0
+1990,Haiti,2.43
+1991,Haiti,2.43
+1992,Haiti,2.43
+1993,Haiti,2.43
+1994,Haiti,2.43
+1995,Haiti,2.81
+1996,Haiti,2.81
+1997,Haiti,2.81
+1998,Haiti,2.81
+1999,Haiti,2.81
+2000,Haiti,3.01
+2001,Haiti,3.01
+2002,Haiti,3.01
+2003,Haiti,3.01
+2004,Haiti,3.01
+2005,Haiti,3.4
+2006,Haiti,3.4
+2007,Haiti,3.4
+2008,Haiti,3.4
+2009,Haiti,3.4
+2010,Haiti,3.66
+1950,Honduras,1.47
+1951,Honduras,1.47
+1952,Honduras,1.47
+1953,Honduras,1.47
+1954,Honduras,1.47
+1955,Honduras,1.58
+1956,Honduras,1.58
+1957,Honduras,1.58
+1958,Honduras,1.58
+1959,Honduras,1.58
+1960,Honduras,1.76
+1961,Honduras,1.76
+1962,Honduras,1.76
+1963,Honduras,1.76
+1964,Honduras,1.76
+1965,Honduras,1.92
+1966,Honduras,1.92
+1967,Honduras,1.92
+1968,Honduras,1.92
+1969,Honduras,1.92
+1970,Honduras,2.16
+1971,Honduras,2.16
+1972,Honduras,2.16
+1973,Honduras,2.16
+1974,Honduras,2.16
+1975,Honduras,2.52
+1976,Honduras,2.52
+1977,Honduras,2.52
+1978,Honduras,2.52
+1979,Honduras,2.52
+1980,Honduras,3.58
+1981,Honduras,3.58
+1982,Honduras,3.58
+1983,Honduras,3.58
+1984,Honduras,3.58
+1985,Honduras,4.49
+1986,Honduras,4.49
+1987,Honduras,4.49
+1988,Honduras,4.49
+1989,Honduras,4.49
+1990,Honduras,4.9
+1991,Honduras,4.9
+1992,Honduras,4.9
+1993,Honduras,4.9
+1994,Honduras,4.9
+1995,Honduras,5.17
+1996,Honduras,5.17
+1997,Honduras,5.17
+1998,Honduras,5.17
+1999,Honduras,5.17
+2000,Honduras,5.58
+2001,Honduras,5.58
+2002,Honduras,5.58
+2003,Honduras,5.58
+2004,Honduras,5.58
+2005,Honduras,6.05
+2006,Honduras,6.05
+2007,Honduras,6.05
+2008,Honduras,6.05
+2009,Honduras,6.05
+2010,Honduras,6.29
+1950,Hungary,6.9
+1951,Hungary,6.9
+1952,Hungary,6.9
+1953,Hungary,6.9
+1954,Hungary,6.9
+1955,Hungary,7.03
+1956,Hungary,7.03
+1957,Hungary,7.03
+1958,Hungary,7.03
+1959,Hungary,7.03
+1960,Hungary,7.2
+1961,Hungary,7.2
+1962,Hungary,7.2
+1963,Hungary,7.2
+1964,Hungary,7.2
+1965,Hungary,7.4
+1966,Hungary,7.4
+1967,Hungary,7.4
+1968,Hungary,7.4
+1969,Hungary,7.4
+1970,Hungary,7.9
+1971,Hungary,7.9
+1972,Hungary,7.9
+1973,Hungary,7.9
+1974,Hungary,7.9
+1975,Hungary,8.31
+1976,Hungary,8.31
+1977,Hungary,8.31
+1978,Hungary,8.31
+1979,Hungary,8.31
+1980,Hungary,8.66
+1981,Hungary,8.66
+1982,Hungary,8.66
+1983,Hungary,8.66
+1984,Hungary,8.66
+1985,Hungary,8.62
+1986,Hungary,8.62
+1987,Hungary,8.62
+1988,Hungary,8.62
+1989,Hungary,8.62
+1990,Hungary,8.38
+1991,Hungary,8.38
+1992,Hungary,8.38
+1993,Hungary,8.38
+1994,Hungary,8.38
+1995,Hungary,10.19
+1996,Hungary,10.19
+1997,Hungary,10.19
+1998,Hungary,10.19
+1999,Hungary,10.19
+2000,Hungary,11.01
+2001,Hungary,11.01
+2002,Hungary,11.01
+2003,Hungary,11.01
+2004,Hungary,11.01
+2005,Hungary,11.57
+2006,Hungary,11.57
+2007,Hungary,11.57
+2008,Hungary,11.57
+2009,Hungary,11.57
+2010,Hungary,11.82
+1950,Iceland,5.57
+1951,Iceland,5.57
+1952,Iceland,5.57
+1953,Iceland,5.57
+1954,Iceland,5.57
+1955,Iceland,5.78
+1956,Iceland,5.78
+1957,Iceland,5.78
+1958,Iceland,5.78
+1959,Iceland,5.78
+1960,Iceland,6.08
+1961,Iceland,6.08
+1962,Iceland,6.08
+1963,Iceland,6.08
+1964,Iceland,6.08
+1965,Iceland,6.47
+1966,Iceland,6.47
+1967,Iceland,6.47
+1968,Iceland,6.47
+1969,Iceland,6.47
+1970,Iceland,6.95
+1971,Iceland,6.95
+1972,Iceland,6.95
+1973,Iceland,6.95
+1974,Iceland,6.95
+1975,Iceland,7.39
+1976,Iceland,7.39
+1977,Iceland,7.39
+1978,Iceland,7.39
+1979,Iceland,7.39
+1980,Iceland,7.87
+1981,Iceland,7.87
+1982,Iceland,7.87
+1983,Iceland,7.87
+1984,Iceland,7.87
+1985,Iceland,8.37
+1986,Iceland,8.37
+1987,Iceland,8.37
+1988,Iceland,8.37
+1989,Iceland,8.37
+1990,Iceland,8.86
+1991,Iceland,8.86
+1992,Iceland,8.86
+1993,Iceland,8.86
+1994,Iceland,8.86
+1995,Iceland,9.4
+1996,Iceland,9.4
+1997,Iceland,9.4
+1998,Iceland,9.4
+1999,Iceland,9.4
+2000,Iceland,9.82
+2001,Iceland,9.82
+2002,Iceland,9.82
+2003,Iceland,9.82
+2004,Iceland,9.82
+2005,Iceland,10.52
+2006,Iceland,10.52
+2007,Iceland,10.52
+2008,Iceland,10.52
+2009,Iceland,10.52
+2010,Iceland,11.19
+1950,India,0.39
+1951,India,0.39
+1952,India,0.39
+1953,India,0.39
+1954,India,0.39
+1955,India,0.44
+1956,India,0.44
+1957,India,0.44
+1958,India,0.44
+1959,India,0.44
+1960,India,0.51
+1961,India,0.51
+1962,India,0.51
+1963,India,0.51
+1964,India,0.51
+1965,India,0.65
+1966,India,0.65
+1967,India,0.65
+1968,India,0.65
+1969,India,0.65
+1970,India,0.84
+1971,India,0.84
+1972,India,0.84
+1973,India,0.84
+1974,India,0.84
+1975,India,1.09
+1976,India,1.09
+1977,India,1.09
+1978,India,1.09
+1979,India,1.09
+1980,India,1.37
+1981,India,1.37
+1982,India,1.37
+1983,India,1.37
+1984,India,1.37
+1985,India,1.78
+1986,India,1.78
+1987,India,1.78
+1988,India,1.78
+1989,India,1.78
+1990,India,2.25
+1991,India,2.25
+1992,India,2.25
+1993,India,2.25
+1994,India,2.25
+1995,India,2.64
+1996,India,2.64
+1997,India,2.64
+1998,India,2.64
+1999,India,2.64
+2000,India,4.04
+2001,India,4.04
+2002,India,4.04
+2003,India,4.04
+2004,India,4.04
+2005,India,4.05
+2006,India,4.05
+2007,India,4.05
+2008,India,4.05
+2009,India,4.05
+2010,India,4.81
+1950,Indonesia,0.63
+1951,Indonesia,0.63
+1952,Indonesia,0.63
+1953,Indonesia,0.63
+1954,Indonesia,0.63
+1955,Indonesia,0.75
+1956,Indonesia,0.75
+1957,Indonesia,0.75
+1958,Indonesia,0.75
+1959,Indonesia,0.75
+1960,Indonesia,0.98
+1961,Indonesia,0.98
+1962,Indonesia,0.98
+1963,Indonesia,0.98
+1964,Indonesia,0.98
+1965,Indonesia,1.47
+1966,Indonesia,1.47
+1967,Indonesia,1.47
+1968,Indonesia,1.47
+1969,Indonesia,1.47
+1970,Indonesia,2.1
+1971,Indonesia,2.1
+1972,Indonesia,2.1
+1973,Indonesia,2.1
+1974,Indonesia,2.1
+1975,Indonesia,2.48
+1976,Indonesia,2.48
+1977,Indonesia,2.48
+1978,Indonesia,2.48
+1979,Indonesia,2.48
+1980,Indonesia,2.91
+1981,Indonesia,2.91
+1982,Indonesia,2.91
+1983,Indonesia,2.91
+1984,Indonesia,2.91
+1985,Indonesia,3.12
+1986,Indonesia,3.12
+1987,Indonesia,3.12
+1988,Indonesia,3.12
+1989,Indonesia,3.12
+1990,Indonesia,3.55
+1991,Indonesia,3.55
+1992,Indonesia,3.55
+1993,Indonesia,3.55
+1994,Indonesia,3.55
+1995,Indonesia,4.04
+1996,Indonesia,4.04
+1997,Indonesia,4.04
+1998,Indonesia,4.04
+1999,Indonesia,4.04
+2000,Indonesia,4.74
+2001,Indonesia,4.74
+2002,Indonesia,4.74
+2003,Indonesia,4.74
+2004,Indonesia,4.74
+2005,Indonesia,5.98
+2006,Indonesia,5.98
+2007,Indonesia,5.98
+2008,Indonesia,5.98
+2009,Indonesia,5.98
+2010,Indonesia,7.2
+1950,Iran (Islamic Republic of),0.26
+1951,Iran (Islamic Republic of),0.26
+1952,Iran (Islamic Republic of),0.26
+1953,Iran (Islamic Republic of),0.26
+1954,Iran (Islamic Republic of),0.26
+1955,Iran (Islamic Republic of),0.33
+1956,Iran (Islamic Republic of),0.33
+1957,Iran (Islamic Republic of),0.33
+1958,Iran (Islamic Republic of),0.33
+1959,Iran (Islamic Republic of),0.33
+1960,Iran (Islamic Republic of),0.51
+1961,Iran (Islamic Republic of),0.51
+1962,Iran (Islamic Republic of),0.51
+1963,Iran (Islamic Republic of),0.51
+1964,Iran (Islamic Republic of),0.51
+1965,Iran (Islamic Republic of),0.84
+1966,Iran (Islamic Republic of),0.84
+1967,Iran (Islamic Republic of),0.84
+1968,Iran (Islamic Republic of),0.84
+1969,Iran (Islamic Republic of),0.84
+1970,Iran (Islamic Republic of),1.27
+1971,Iran (Islamic Republic of),1.27
+1972,Iran (Islamic Republic of),1.27
+1973,Iran (Islamic Republic of),1.27
+1974,Iran (Islamic Republic of),1.27
+1975,Iran (Islamic Republic of),1.88
+1976,Iran (Islamic Republic of),1.88
+1977,Iran (Islamic Republic of),1.88
+1978,Iran (Islamic Republic of),1.88
+1979,Iran (Islamic Republic of),1.88
+1980,Iran (Islamic Republic of),2.65
+1981,Iran (Islamic Republic of),2.65
+1982,Iran (Islamic Republic of),2.65
+1983,Iran (Islamic Republic of),2.65
+1984,Iran (Islamic Republic of),2.65
+1985,Iran (Islamic Republic of),3.46
+1986,Iran (Islamic Republic of),3.46
+1987,Iran (Islamic Republic of),3.46
+1988,Iran (Islamic Republic of),3.46
+1989,Iran (Islamic Republic of),3.46
+1990,Iran (Islamic Republic of),4.29
+1991,Iran (Islamic Republic of),4.29
+1992,Iran (Islamic Republic of),4.29
+1993,Iran (Islamic Republic of),4.29
+1994,Iran (Islamic Republic of),4.29
+1995,Iran (Islamic Republic of),5.52
+1996,Iran (Islamic Republic of),5.52
+1997,Iran (Islamic Republic of),5.52
+1998,Iran (Islamic Republic of),5.52
+1999,Iran (Islamic Republic of),5.52
+2000,Iran (Islamic Republic of),6.78
+2001,Iran (Islamic Republic of),6.78
+2002,Iran (Islamic Republic of),6.78
+2003,Iran (Islamic Republic of),6.78
+2004,Iran (Islamic Republic of),6.78
+2005,Iran (Islamic Republic of),7.51
+2006,Iran (Islamic Republic of),7.51
+2007,Iran (Islamic Republic of),7.51
+2008,Iran (Islamic Republic of),7.51
+2009,Iran (Islamic Republic of),7.51
+2010,Iran (Islamic Republic of),8.68
+1950,Iraq,0.09
+1951,Iraq,0.09
+1952,Iraq,0.09
+1953,Iraq,0.09
+1954,Iraq,0.09
+1955,Iraq,0.13
+1956,Iraq,0.13
+1957,Iraq,0.13
+1958,Iraq,0.13
+1959,Iraq,0.13
+1960,Iraq,0.21
+1961,Iraq,0.21
+1962,Iraq,0.21
+1963,Iraq,0.21
+1964,Iraq,0.21
+1965,Iraq,0.39
+1966,Iraq,0.39
+1967,Iraq,0.39
+1968,Iraq,0.39
+1969,Iraq,0.39
+1970,Iraq,0.73
+1971,Iraq,0.73
+1972,Iraq,0.73
+1973,Iraq,0.73
+1974,Iraq,0.73
+1975,Iraq,1.08
+1976,Iraq,1.08
+1977,Iraq,1.08
+1978,Iraq,1.08
+1979,Iraq,1.08
+1980,Iraq,1.6
+1981,Iraq,1.6
+1982,Iraq,1.6
+1983,Iraq,1.6
+1984,Iraq,1.6
+1985,Iraq,2.4
+1986,Iraq,2.4
+1987,Iraq,2.4
+1988,Iraq,2.4
+1989,Iraq,2.4
+1990,Iraq,3.34
+1991,Iraq,3.34
+1992,Iraq,3.34
+1993,Iraq,3.34
+1994,Iraq,3.34
+1995,Iraq,3.9
+1996,Iraq,3.9
+1997,Iraq,3.9
+1998,Iraq,3.9
+1999,Iraq,3.9
+2000,Iraq,4.64
+2001,Iraq,4.64
+2002,Iraq,4.64
+2003,Iraq,4.64
+2004,Iraq,4.64
+2005,Iraq,5.12
+2006,Iraq,5.12
+2007,Iraq,5.12
+2008,Iraq,5.12
+2009,Iraq,5.12
+2010,Iraq,6.17
+1950,Ireland,6.41
+1951,Ireland,6.41
+1952,Ireland,6.41
+1953,Ireland,6.41
+1954,Ireland,6.41
+1955,Ireland,6.64
+1956,Ireland,6.64
+1957,Ireland,6.64
+1958,Ireland,6.64
+1959,Ireland,6.64
+1960,Ireland,6.87
+1961,Ireland,6.87
+1962,Ireland,6.87
+1963,Ireland,6.87
+1964,Ireland,6.87
+1965,Ireland,7.26
+1966,Ireland,7.26
+1967,Ireland,7.26
+1968,Ireland,7.26
+1969,Ireland,7.26
+1970,Ireland,7.72
+1971,Ireland,7.72
+1972,Ireland,7.72
+1973,Ireland,7.72
+1974,Ireland,7.72
+1975,Ireland,8.47
+1976,Ireland,8.47
+1977,Ireland,8.47
+1978,Ireland,8.47
+1979,Ireland,8.47
+1980,Ireland,9.31
+1981,Ireland,9.31
+1982,Ireland,9.31
+1983,Ireland,9.31
+1984,Ireland,9.31
+1985,Ireland,10.0
+1986,Ireland,10.0
+1987,Ireland,10.0
+1988,Ireland,10.0
+1989,Ireland,10.0
+1990,Ireland,10.16
+1991,Ireland,10.16
+1992,Ireland,10.16
+1993,Ireland,10.16
+1994,Ireland,10.16
+1995,Ireland,10.51
+1996,Ireland,10.51
+1997,Ireland,10.51
+1998,Ireland,10.51
+1999,Ireland,10.51
+2000,Ireland,10.76
+2001,Ireland,10.76
+2002,Ireland,10.76
+2003,Ireland,10.76
+2004,Ireland,10.76
+2005,Ireland,11.72
+2006,Ireland,11.72
+2007,Ireland,11.72
+2008,Ireland,11.72
+2009,Ireland,11.72
+2010,Ireland,12.16
+1950,Israel,6.51
+1951,Israel,6.51
+1952,Israel,6.51
+1953,Israel,6.51
+1954,Israel,6.51
+1955,Israel,6.63
+1956,Israel,6.63
+1957,Israel,6.63
+1958,Israel,6.63
+1959,Israel,6.63
+1960,Israel,6.93
+1961,Israel,6.93
+1962,Israel,6.93
+1963,Israel,6.93
+1964,Israel,6.93
+1965,Israel,7.49
+1966,Israel,7.49
+1967,Israel,7.49
+1968,Israel,7.49
+1969,Israel,7.49
+1970,Israel,8.16
+1971,Israel,8.16
+1972,Israel,8.16
+1973,Israel,8.16
+1974,Israel,8.16
+1975,Israel,9.09
+1976,Israel,9.09
+1977,Israel,9.09
+1978,Israel,9.09
+1979,Israel,9.09
+1980,Israel,9.82
+1981,Israel,9.82
+1982,Israel,9.82
+1983,Israel,9.82
+1984,Israel,9.82
+1985,Israel,10.19
+1986,Israel,10.19
+1987,Israel,10.19
+1988,Israel,10.19
+1989,Israel,10.19
+1990,Israel,10.72
+1991,Israel,10.72
+1992,Israel,10.72
+1993,Israel,10.72
+1994,Israel,10.72
+1995,Israel,11.06
+1996,Israel,11.06
+1997,Israel,11.06
+1998,Israel,11.06
+1999,Israel,11.06
+2000,Israel,11.38
+2001,Israel,11.38
+2002,Israel,11.38
+2003,Israel,11.38
+2004,Israel,11.38
+2005,Israel,11.51
+2006,Israel,11.51
+2007,Israel,11.51
+2008,Israel,11.51
+2009,Israel,11.51
+2010,Israel,12.32
+1950,Italy,3.86
+1951,Italy,3.86
+1952,Italy,3.86
+1953,Italy,3.86
+1954,Italy,3.86
+1955,Italy,4.15
+1956,Italy,4.15
+1957,Italy,4.15
+1958,Italy,4.15
+1959,Italy,4.15
+1960,Italy,4.46
+1961,Italy,4.46
+1962,Italy,4.46
+1963,Italy,4.46
+1964,Italy,4.46
+1965,Italy,4.84
+1966,Italy,4.84
+1967,Italy,4.84
+1968,Italy,4.84
+1969,Italy,4.84
+1970,Italy,5.24
+1971,Italy,5.24
+1972,Italy,5.24
+1973,Italy,5.24
+1974,Italy,5.24
+1975,Italy,5.76
+1976,Italy,5.76
+1977,Italy,5.76
+1978,Italy,5.76
+1979,Italy,5.76
+1980,Italy,6.32
+1981,Italy,6.32
+1982,Italy,6.32
+1983,Italy,6.32
+1984,Italy,6.32
+1985,Italy,6.79
+1986,Italy,6.79
+1987,Italy,6.79
+1988,Italy,6.79
+1989,Italy,6.79
+1990,Italy,7.35
+1991,Italy,7.35
+1992,Italy,7.35
+1993,Italy,7.35
+1994,Italy,7.35
+1995,Italy,7.93
+1996,Italy,7.93
+1997,Italy,7.93
+1998,Italy,7.93
+1999,Italy,7.93
+2000,Italy,8.46
+2001,Italy,8.46
+2002,Italy,8.46
+2003,Italy,8.46
+2004,Italy,8.46
+2005,Italy,8.81
+2006,Italy,8.81
+2007,Italy,8.81
+2008,Italy,8.81
+2009,Italy,8.81
+2010,Italy,9.35
+1950,Jamaica,3.63
+1951,Jamaica,3.63
+1952,Jamaica,3.63
+1953,Jamaica,3.63
+1954,Jamaica,3.63
+1955,Jamaica,3.71
+1956,Jamaica,3.71
+1957,Jamaica,3.71
+1958,Jamaica,3.71
+1959,Jamaica,3.71
+1960,Jamaica,3.94
+1961,Jamaica,3.94
+1962,Jamaica,3.94
+1963,Jamaica,3.94
+1964,Jamaica,3.94
+1965,Jamaica,4.45
+1966,Jamaica,4.45
+1967,Jamaica,4.45
+1968,Jamaica,4.45
+1969,Jamaica,4.45
+1970,Jamaica,4.88
+1971,Jamaica,4.88
+1972,Jamaica,4.88
+1973,Jamaica,4.88
+1974,Jamaica,4.88
+1975,Jamaica,5.48
+1976,Jamaica,5.48
+1977,Jamaica,5.48
+1978,Jamaica,5.48
+1979,Jamaica,5.48
+1980,Jamaica,6.16
+1981,Jamaica,6.16
+1982,Jamaica,6.16
+1983,Jamaica,6.16
+1984,Jamaica,6.16
+1985,Jamaica,6.73
+1986,Jamaica,6.73
+1987,Jamaica,6.73
+1988,Jamaica,6.73
+1989,Jamaica,6.73
+1990,Jamaica,7.3
+1991,Jamaica,7.3
+1992,Jamaica,7.3
+1993,Jamaica,7.3
+1994,Jamaica,7.3
+1995,Jamaica,8.41
+1996,Jamaica,8.41
+1997,Jamaica,8.41
+1998,Jamaica,8.41
+1999,Jamaica,8.41
+2000,Jamaica,9.41
+2001,Jamaica,9.41
+2002,Jamaica,9.41
+2003,Jamaica,9.41
+2004,Jamaica,9.41
+2005,Jamaica,9.9
+2006,Jamaica,9.9
+2007,Jamaica,9.9
+2008,Jamaica,9.9
+2009,Jamaica,9.9
+2010,Jamaica,10.11
+1950,Japan,5.95
+1951,Japan,5.95
+1952,Japan,5.95
+1953,Japan,5.95
+1954,Japan,5.95
+1955,Japan,6.41
+1956,Japan,6.41
+1957,Japan,6.41
+1958,Japan,6.41
+1959,Japan,6.41
+1960,Japan,6.79
+1961,Japan,6.79
+1962,Japan,6.79
+1963,Japan,6.79
+1964,Japan,6.79
+1965,Japan,7.03
+1966,Japan,7.03
+1967,Japan,7.03
+1968,Japan,7.03
+1969,Japan,7.03
+1970,Japan,7.46
+1971,Japan,7.46
+1972,Japan,7.46
+1973,Japan,7.46
+1974,Japan,7.46
+1975,Japan,7.99
+1976,Japan,7.99
+1977,Japan,7.99
+1978,Japan,7.99
+1979,Japan,7.99
+1980,Japan,8.62
+1981,Japan,8.62
+1982,Japan,8.62
+1983,Japan,8.62
+1984,Japan,8.62
+1985,Japan,9.18
+1986,Japan,9.18
+1987,Japan,9.18
+1988,Japan,9.18
+1989,Japan,9.18
+1990,Japan,9.53
+1991,Japan,9.53
+1992,Japan,9.53
+1993,Japan,9.53
+1994,Japan,9.53
+1995,Japan,10.27
+1996,Japan,10.27
+1997,Japan,10.27
+1998,Japan,10.27
+1999,Japan,10.27
+2000,Japan,10.76
+2001,Japan,10.76
+2002,Japan,10.76
+2003,Japan,10.76
+2004,Japan,10.76
+2005,Japan,11.15
+2006,Japan,11.15
+2007,Japan,11.15
+2008,Japan,11.15
+2009,Japan,11.15
+2010,Japan,11.45
+1950,Jordan,0.64
+1951,Jordan,0.64
+1952,Jordan,0.64
+1953,Jordan,0.64
+1954,Jordan,0.64
+1955,Jordan,0.82
+1956,Jordan,0.82
+1957,Jordan,0.82
+1958,Jordan,0.82
+1959,Jordan,0.82
+1960,Jordan,1.2
+1961,Jordan,1.2
+1962,Jordan,1.2
+1963,Jordan,1.2
+1964,Jordan,1.2
+1965,Jordan,1.62
+1966,Jordan,1.62
+1967,Jordan,1.62
+1968,Jordan,1.62
+1969,Jordan,1.62
+1970,Jordan,2.08
+1971,Jordan,2.08
+1972,Jordan,2.08
+1973,Jordan,2.08
+1974,Jordan,2.08
+1975,Jordan,2.64
+1976,Jordan,2.64
+1977,Jordan,2.64
+1978,Jordan,2.64
+1979,Jordan,2.64
+1980,Jordan,3.46
+1981,Jordan,3.46
+1982,Jordan,3.46
+1983,Jordan,3.46
+1984,Jordan,3.46
+1985,Jordan,4.68
+1986,Jordan,4.68
+1987,Jordan,4.68
+1988,Jordan,4.68
+1989,Jordan,4.68
+1990,Jordan,5.63
+1991,Jordan,5.63
+1992,Jordan,5.63
+1993,Jordan,5.63
+1994,Jordan,5.63
+1995,Jordan,6.64
+1996,Jordan,6.64
+1997,Jordan,6.64
+1998,Jordan,6.64
+1999,Jordan,6.64
+2000,Jordan,7.6
+2001,Jordan,7.6
+2002,Jordan,7.6
+2003,Jordan,7.6
+2004,Jordan,7.6
+2005,Jordan,8.5
+2006,Jordan,8.5
+2007,Jordan,8.5
+2008,Jordan,8.5
+2009,Jordan,8.5
+2010,Jordan,9.25
+1950,Kazakhstan,2.16
+1951,Kazakhstan,2.16
+1952,Kazakhstan,2.16
+1953,Kazakhstan,2.16
+1954,Kazakhstan,2.16
+1955,Kazakhstan,2.4
+1956,Kazakhstan,2.4
+1957,Kazakhstan,2.4
+1958,Kazakhstan,2.4
+1959,Kazakhstan,2.4
+1960,Kazakhstan,3.15
+1961,Kazakhstan,3.15
+1962,Kazakhstan,3.15
+1963,Kazakhstan,3.15
+1964,Kazakhstan,3.15
+1965,Kazakhstan,3.64
+1966,Kazakhstan,3.64
+1967,Kazakhstan,3.64
+1968,Kazakhstan,3.64
+1969,Kazakhstan,3.64
+1970,Kazakhstan,4.43
+1971,Kazakhstan,4.43
+1972,Kazakhstan,4.43
+1973,Kazakhstan,4.43
+1974,Kazakhstan,4.43
+1975,Kazakhstan,5.45
+1976,Kazakhstan,5.45
+1977,Kazakhstan,5.45
+1978,Kazakhstan,5.45
+1979,Kazakhstan,5.45
+1980,Kazakhstan,6.44
+1981,Kazakhstan,6.44
+1982,Kazakhstan,6.44
+1983,Kazakhstan,6.44
+1984,Kazakhstan,6.44
+1985,Kazakhstan,7.21
+1986,Kazakhstan,7.21
+1987,Kazakhstan,7.21
+1988,Kazakhstan,7.21
+1989,Kazakhstan,7.21
+1990,Kazakhstan,7.82
+1991,Kazakhstan,7.82
+1992,Kazakhstan,7.82
+1993,Kazakhstan,7.82
+1994,Kazakhstan,7.82
+1995,Kazakhstan,9.07
+1996,Kazakhstan,9.07
+1997,Kazakhstan,9.07
+1998,Kazakhstan,9.07
+1999,Kazakhstan,9.07
+2000,Kazakhstan,10.34
+2001,Kazakhstan,10.34
+2002,Kazakhstan,10.34
+2003,Kazakhstan,10.34
+2004,Kazakhstan,10.34
+2005,Kazakhstan,11.7
+2006,Kazakhstan,11.7
+2007,Kazakhstan,11.7
+2008,Kazakhstan,11.7
+2009,Kazakhstan,11.7
+2010,Kazakhstan,11.25
+1950,Kenya,0.63
+1951,Kenya,0.63
+1952,Kenya,0.63
+1953,Kenya,0.63
+1954,Kenya,0.63
+1955,Kenya,0.7
+1956,Kenya,0.7
+1957,Kenya,0.7
+1958,Kenya,0.7
+1959,Kenya,0.7
+1960,Kenya,0.84
+1961,Kenya,0.84
+1962,Kenya,0.84
+1963,Kenya,0.84
+1964,Kenya,0.84
+1965,Kenya,0.96
+1966,Kenya,0.96
+1967,Kenya,0.96
+1968,Kenya,0.96
+1969,Kenya,0.96
+1970,Kenya,1.37
+1971,Kenya,1.37
+1972,Kenya,1.37
+1973,Kenya,1.37
+1974,Kenya,1.37
+1975,Kenya,1.71
+1976,Kenya,1.71
+1977,Kenya,1.71
+1978,Kenya,1.71
+1979,Kenya,1.71
+1980,Kenya,2.36
+1981,Kenya,2.36
+1982,Kenya,2.36
+1983,Kenya,2.36
+1984,Kenya,2.36
+1985,Kenya,3.15
+1986,Kenya,3.15
+1987,Kenya,3.15
+1988,Kenya,3.15
+1989,Kenya,3.15
+1990,Kenya,3.82
+1991,Kenya,3.82
+1992,Kenya,3.82
+1993,Kenya,3.82
+1994,Kenya,3.82
+1995,Kenya,4.38
+1996,Kenya,4.38
+1997,Kenya,4.38
+1998,Kenya,4.38
+1999,Kenya,4.38
+2000,Kenya,4.86
+2001,Kenya,4.86
+2002,Kenya,4.86
+2003,Kenya,4.86
+2004,Kenya,4.86
+2005,Kenya,5.51
+2006,Kenya,5.51
+2007,Kenya,5.51
+2008,Kenya,5.51
+2009,Kenya,5.51
+2010,Kenya,5.91
+1950,Kuwait,0.61
+1951,Kuwait,0.61
+1952,Kuwait,0.61
+1953,Kuwait,0.61
+1954,Kuwait,0.61
+1955,Kuwait,0.88
+1956,Kuwait,0.88
+1957,Kuwait,0.88
+1958,Kuwait,0.88
+1959,Kuwait,0.88
+1960,Kuwait,1.44
+1961,Kuwait,1.44
+1962,Kuwait,1.44
+1963,Kuwait,1.44
+1964,Kuwait,1.44
+1965,Kuwait,2.03
+1966,Kuwait,2.03
+1967,Kuwait,2.03
+1968,Kuwait,2.03
+1969,Kuwait,2.03
+1970,Kuwait,2.7
+1971,Kuwait,2.7
+1972,Kuwait,2.7
+1973,Kuwait,2.7
+1974,Kuwait,2.7
+1975,Kuwait,3.13
+1976,Kuwait,3.13
+1977,Kuwait,3.13
+1978,Kuwait,3.13
+1979,Kuwait,3.13
+1980,Kuwait,4.47
+1981,Kuwait,4.47
+1982,Kuwait,4.47
+1983,Kuwait,4.47
+1984,Kuwait,4.47
+1985,Kuwait,5.73
+1986,Kuwait,5.73
+1987,Kuwait,5.73
+1988,Kuwait,5.73
+1989,Kuwait,5.73
+1990,Kuwait,6.0
+1991,Kuwait,6.0
+1992,Kuwait,6.0
+1993,Kuwait,6.0
+1994,Kuwait,6.0
+1995,Kuwait,6.02
+1996,Kuwait,6.02
+1997,Kuwait,6.02
+1998,Kuwait,6.02
+1999,Kuwait,6.02
+2000,Kuwait,6.28
+2001,Kuwait,6.28
+2002,Kuwait,6.28
+2003,Kuwait,6.28
+2004,Kuwait,6.28
+2005,Kuwait,6.57
+2006,Kuwait,6.57
+2007,Kuwait,6.57
+2008,Kuwait,6.57
+2009,Kuwait,6.57
+2010,Kuwait,6.85
+1950,Kyrgyzstan,3.54
+1951,Kyrgyzstan,3.54
+1952,Kyrgyzstan,3.54
+1953,Kyrgyzstan,3.54
+1954,Kyrgyzstan,3.54
+1955,Kyrgyzstan,3.9
+1956,Kyrgyzstan,3.9
+1957,Kyrgyzstan,3.9
+1958,Kyrgyzstan,3.9
+1959,Kyrgyzstan,3.9
+1960,Kyrgyzstan,4.15
+1961,Kyrgyzstan,4.15
+1962,Kyrgyzstan,4.15
+1963,Kyrgyzstan,4.15
+1964,Kyrgyzstan,4.15
+1965,Kyrgyzstan,4.66
+1966,Kyrgyzstan,4.66
+1967,Kyrgyzstan,4.66
+1968,Kyrgyzstan,4.66
+1969,Kyrgyzstan,4.66
+1970,Kyrgyzstan,5.27
+1971,Kyrgyzstan,5.27
+1972,Kyrgyzstan,5.27
+1973,Kyrgyzstan,5.27
+1974,Kyrgyzstan,5.27
+1975,Kyrgyzstan,6.29
+1976,Kyrgyzstan,6.29
+1977,Kyrgyzstan,6.29
+1978,Kyrgyzstan,6.29
+1979,Kyrgyzstan,6.29
+1980,Kyrgyzstan,7.08
+1981,Kyrgyzstan,7.08
+1982,Kyrgyzstan,7.08
+1983,Kyrgyzstan,7.08
+1984,Kyrgyzstan,7.08
+1985,Kyrgyzstan,7.78
+1986,Kyrgyzstan,7.78
+1987,Kyrgyzstan,7.78
+1988,Kyrgyzstan,7.78
+1989,Kyrgyzstan,7.78
+1990,Kyrgyzstan,8.31
+1991,Kyrgyzstan,8.31
+1992,Kyrgyzstan,8.31
+1993,Kyrgyzstan,8.31
+1994,Kyrgyzstan,8.31
+1995,Kyrgyzstan,8.76
+1996,Kyrgyzstan,8.76
+1997,Kyrgyzstan,8.76
+1998,Kyrgyzstan,8.76
+1999,Kyrgyzstan,8.76
+2000,Kyrgyzstan,9.32
+2001,Kyrgyzstan,9.32
+2002,Kyrgyzstan,9.32
+2003,Kyrgyzstan,9.32
+2004,Kyrgyzstan,9.32
+2005,Kyrgyzstan,9.84
+2006,Kyrgyzstan,9.84
+2007,Kyrgyzstan,9.84
+2008,Kyrgyzstan,9.84
+2009,Kyrgyzstan,9.84
+2010,Kyrgyzstan,10.7
+1950,Lao People's Democratic Republic,0.56
+1951,Lao People's Democratic Republic,0.56
+1952,Lao People's Democratic Republic,0.56
+1953,Lao People's Democratic Republic,0.56
+1954,Lao People's Democratic Republic,0.56
+1955,Lao People's Democratic Republic,0.66
+1956,Lao People's Democratic Republic,0.66
+1957,Lao People's Democratic Republic,0.66
+1958,Lao People's Democratic Republic,0.66
+1959,Lao People's Democratic Republic,0.66
+1960,Lao People's Democratic Republic,0.75
+1961,Lao People's Democratic Republic,0.75
+1962,Lao People's Democratic Republic,0.75
+1963,Lao People's Democratic Republic,0.75
+1964,Lao People's Democratic Republic,0.75
+1965,Lao People's Democratic Republic,0.88
+1966,Lao People's Democratic Republic,0.88
+1967,Lao People's Democratic Republic,0.88
+1968,Lao People's Democratic Republic,0.88
+1969,Lao People's Democratic Republic,0.88
+1970,Lao People's Democratic Republic,1.1
+1971,Lao People's Democratic Republic,1.1
+1972,Lao People's Democratic Republic,1.1
+1973,Lao People's Democratic Republic,1.1
+1974,Lao People's Democratic Republic,1.1
+1975,Lao People's Democratic Republic,1.39
+1976,Lao People's Democratic Republic,1.39
+1977,Lao People's Democratic Republic,1.39
+1978,Lao People's Democratic Republic,1.39
+1979,Lao People's Democratic Republic,1.39
+1980,Lao People's Democratic Republic,1.76
+1981,Lao People's Democratic Republic,1.76
+1982,Lao People's Democratic Republic,1.76
+1983,Lao People's Democratic Republic,1.76
+1984,Lao People's Democratic Republic,1.76
+1985,Lao People's Democratic Republic,2.19
+1986,Lao People's Democratic Republic,2.19
+1987,Lao People's Democratic Republic,2.19
+1988,Lao People's Democratic Republic,2.19
+1989,Lao People's Democratic Republic,2.19
+1990,Lao People's Democratic Republic,2.61
+1991,Lao People's Democratic Republic,2.61
+1992,Lao People's Democratic Republic,2.61
+1993,Lao People's Democratic Republic,2.61
+1994,Lao People's Democratic Republic,2.61
+1995,Lao People's Democratic Republic,3.03
+1996,Lao People's Democratic Republic,3.03
+1997,Lao People's Democratic Republic,3.03
+1998,Lao People's Democratic Republic,3.03
+1999,Lao People's Democratic Republic,3.03
+2000,Lao People's Democratic Republic,3.44
+2001,Lao People's Democratic Republic,3.44
+2002,Lao People's Democratic Republic,3.44
+2003,Lao People's Democratic Republic,3.44
+2004,Lao People's Democratic Republic,3.44
+2005,Lao People's Democratic Republic,3.94
+2006,Lao People's Democratic Republic,3.94
+2007,Lao People's Democratic Republic,3.94
+2008,Lao People's Democratic Republic,3.94
+2009,Lao People's Democratic Republic,3.94
+2010,Lao People's Democratic Republic,4.54
+1950,Latvia,3.6
+1951,Latvia,3.6
+1952,Latvia,3.6
+1953,Latvia,3.6
+1954,Latvia,3.6
+1955,Latvia,3.85
+1956,Latvia,3.85
+1957,Latvia,3.85
+1958,Latvia,3.85
+1959,Latvia,3.85
+1960,Latvia,4.34
+1961,Latvia,4.34
+1962,Latvia,4.34
+1963,Latvia,4.34
+1964,Latvia,4.34
+1965,Latvia,4.7
+1966,Latvia,4.7
+1967,Latvia,4.7
+1968,Latvia,4.7
+1969,Latvia,4.7
+1970,Latvia,5.19
+1971,Latvia,5.19
+1972,Latvia,5.19
+1973,Latvia,5.19
+1974,Latvia,5.19
+1975,Latvia,5.76
+1976,Latvia,5.76
+1977,Latvia,5.76
+1978,Latvia,5.76
+1979,Latvia,5.76
+1980,Latvia,6.5
+1981,Latvia,6.5
+1982,Latvia,6.5
+1983,Latvia,6.5
+1984,Latvia,6.5
+1985,Latvia,7.23
+1986,Latvia,7.23
+1987,Latvia,7.23
+1988,Latvia,7.23
+1989,Latvia,7.23
+1990,Latvia,7.82
+1991,Latvia,7.82
+1992,Latvia,7.82
+1993,Latvia,7.82
+1994,Latvia,7.82
+1995,Latvia,8.89
+1996,Latvia,8.89
+1997,Latvia,8.89
+1998,Latvia,8.89
+1999,Latvia,8.89
+2000,Latvia,9.35
+2001,Latvia,9.35
+2002,Latvia,9.35
+2003,Latvia,9.35
+2004,Latvia,9.35
+2005,Latvia,10.26
+2006,Latvia,10.26
+2007,Latvia,10.26
+2008,Latvia,10.26
+2009,Latvia,10.26
+2010,Latvia,10.61
+1950,Lesotho,2.63
+1951,Lesotho,2.63
+1952,Lesotho,2.63
+1953,Lesotho,2.63
+1954,Lesotho,2.63
+1955,Lesotho,2.94
+1956,Lesotho,2.94
+1957,Lesotho,2.94
+1958,Lesotho,2.94
+1959,Lesotho,2.94
+1960,Lesotho,3.19
+1961,Lesotho,3.19
+1962,Lesotho,3.19
+1963,Lesotho,3.19
+1964,Lesotho,3.19
+1965,Lesotho,3.53
+1966,Lesotho,3.53
+1967,Lesotho,3.53
+1968,Lesotho,3.53
+1969,Lesotho,3.53
+1970,Lesotho,3.91
+1971,Lesotho,3.91
+1972,Lesotho,3.91
+1973,Lesotho,3.91
+1974,Lesotho,3.91
+1975,Lesotho,4.4
+1976,Lesotho,4.4
+1977,Lesotho,4.4
+1978,Lesotho,4.4
+1979,Lesotho,4.4
+1980,Lesotho,4.85
+1981,Lesotho,4.85
+1982,Lesotho,4.85
+1983,Lesotho,4.85
+1984,Lesotho,4.85
+1985,Lesotho,5.27
+1986,Lesotho,5.27
+1987,Lesotho,5.27
+1988,Lesotho,5.27
+1989,Lesotho,5.27
+1990,Lesotho,5.83
+1991,Lesotho,5.83
+1992,Lesotho,5.83
+1993,Lesotho,5.83
+1994,Lesotho,5.83
+1995,Lesotho,6.41
+1996,Lesotho,6.41
+1997,Lesotho,6.41
+1998,Lesotho,6.41
+1999,Lesotho,6.41
+2000,Lesotho,7.01
+2001,Lesotho,7.01
+2002,Lesotho,7.01
+2003,Lesotho,7.01
+2004,Lesotho,7.01
+2005,Lesotho,7.67
+2006,Lesotho,7.67
+2007,Lesotho,7.67
+2008,Lesotho,7.67
+2009,Lesotho,7.67
+2010,Lesotho,6.56
+1950,Liberia,0.28
+1951,Liberia,0.28
+1952,Liberia,0.28
+1953,Liberia,0.28
+1954,Liberia,0.28
+1955,Liberia,0.3
+1956,Liberia,0.3
+1957,Liberia,0.3
+1958,Liberia,0.3
+1959,Liberia,0.3
+1960,Liberia,0.34
+1961,Liberia,0.34
+1962,Liberia,0.34
+1963,Liberia,0.34
+1964,Liberia,0.34
+1965,Liberia,0.46
+1966,Liberia,0.46
+1967,Liberia,0.46
+1968,Liberia,0.46
+1969,Liberia,0.46
+1970,Liberia,0.59
+1971,Liberia,0.59
+1972,Liberia,0.59
+1973,Liberia,0.59
+1974,Liberia,0.59
+1975,Liberia,0.84
+1976,Liberia,0.84
+1977,Liberia,0.84
+1978,Liberia,0.84
+1979,Liberia,0.84
+1980,Liberia,1.11
+1981,Liberia,1.11
+1982,Liberia,1.11
+1983,Liberia,1.11
+1984,Liberia,1.11
+1985,Liberia,1.42
+1986,Liberia,1.42
+1987,Liberia,1.42
+1988,Liberia,1.42
+1989,Liberia,1.42
+1990,Liberia,1.68
+1991,Liberia,1.68
+1992,Liberia,1.68
+1993,Liberia,1.68
+1994,Liberia,1.68
+1995,Liberia,1.75
+1996,Liberia,1.75
+1997,Liberia,1.75
+1998,Liberia,1.75
+1999,Liberia,1.75
+2000,Liberia,2.07
+2001,Liberia,2.07
+2002,Liberia,2.07
+2003,Liberia,2.07
+2004,Liberia,2.07
+2005,Liberia,2.49
+2006,Liberia,2.49
+2007,Liberia,2.49
+2008,Liberia,2.49
+2009,Liberia,2.49
+2010,Liberia,3.05
+1950,Libyan Arab Jamahiriya,0.03
+1951,Libyan Arab Jamahiriya,0.03
+1952,Libyan Arab Jamahiriya,0.03
+1953,Libyan Arab Jamahiriya,0.03
+1954,Libyan Arab Jamahiriya,0.03
+1955,Libyan Arab Jamahiriya,0.05
+1956,Libyan Arab Jamahiriya,0.05
+1957,Libyan Arab Jamahiriya,0.05
+1958,Libyan Arab Jamahiriya,0.05
+1959,Libyan Arab Jamahiriya,0.05
+1960,Libyan Arab Jamahiriya,0.08
+1961,Libyan Arab Jamahiriya,0.08
+1962,Libyan Arab Jamahiriya,0.08
+1963,Libyan Arab Jamahiriya,0.08
+1964,Libyan Arab Jamahiriya,0.08
+1965,Libyan Arab Jamahiriya,0.19
+1966,Libyan Arab Jamahiriya,0.19
+1967,Libyan Arab Jamahiriya,0.19
+1968,Libyan Arab Jamahiriya,0.19
+1969,Libyan Arab Jamahiriya,0.19
+1970,Libyan Arab Jamahiriya,0.39
+1971,Libyan Arab Jamahiriya,0.39
+1972,Libyan Arab Jamahiriya,0.39
+1973,Libyan Arab Jamahiriya,0.39
+1974,Libyan Arab Jamahiriya,0.39
+1975,Libyan Arab Jamahiriya,0.83
+1976,Libyan Arab Jamahiriya,0.83
+1977,Libyan Arab Jamahiriya,0.83
+1978,Libyan Arab Jamahiriya,0.83
+1979,Libyan Arab Jamahiriya,0.83
+1980,Libyan Arab Jamahiriya,2.14
+1981,Libyan Arab Jamahiriya,2.14
+1982,Libyan Arab Jamahiriya,2.14
+1983,Libyan Arab Jamahiriya,2.14
+1984,Libyan Arab Jamahiriya,2.14
+1985,Libyan Arab Jamahiriya,3.43
+1986,Libyan Arab Jamahiriya,3.43
+1987,Libyan Arab Jamahiriya,3.43
+1988,Libyan Arab Jamahiriya,3.43
+1989,Libyan Arab Jamahiriya,3.43
+1990,Libyan Arab Jamahiriya,4.49
+1991,Libyan Arab Jamahiriya,4.49
+1992,Libyan Arab Jamahiriya,4.49
+1993,Libyan Arab Jamahiriya,4.49
+1994,Libyan Arab Jamahiriya,4.49
+1995,Libyan Arab Jamahiriya,5.53
+1996,Libyan Arab Jamahiriya,5.53
+1997,Libyan Arab Jamahiriya,5.53
+1998,Libyan Arab Jamahiriya,5.53
+1999,Libyan Arab Jamahiriya,5.53
+2000,Libyan Arab Jamahiriya,6.94
+2001,Libyan Arab Jamahiriya,6.94
+2002,Libyan Arab Jamahiriya,6.94
+2003,Libyan Arab Jamahiriya,6.94
+2004,Libyan Arab Jamahiriya,6.94
+2005,Libyan Arab Jamahiriya,8.0
+2006,Libyan Arab Jamahiriya,8.0
+2007,Libyan Arab Jamahiriya,8.0
+2008,Libyan Arab Jamahiriya,8.0
+2009,Libyan Arab Jamahiriya,8.0
+2010,Libyan Arab Jamahiriya,8.86
+1950,Lithuania,3.31
+1951,Lithuania,3.31
+1952,Lithuania,3.31
+1953,Lithuania,3.31
+1954,Lithuania,3.31
+1955,Lithuania,3.74
+1956,Lithuania,3.74
+1957,Lithuania,3.74
+1958,Lithuania,3.74
+1959,Lithuania,3.74
+1960,Lithuania,4.34
+1961,Lithuania,4.34
+1962,Lithuania,4.34
+1963,Lithuania,4.34
+1964,Lithuania,4.34
+1965,Lithuania,4.81
+1966,Lithuania,4.81
+1967,Lithuania,4.81
+1968,Lithuania,4.81
+1969,Lithuania,4.81
+1970,Lithuania,5.44
+1971,Lithuania,5.44
+1972,Lithuania,5.44
+1973,Lithuania,5.44
+1974,Lithuania,5.44
+1975,Lithuania,6.17
+1976,Lithuania,6.17
+1977,Lithuania,6.17
+1978,Lithuania,6.17
+1979,Lithuania,6.17
+1980,Lithuania,6.98
+1981,Lithuania,6.98
+1982,Lithuania,6.98
+1983,Lithuania,6.98
+1984,Lithuania,6.98
+1985,Lithuania,7.82
+1986,Lithuania,7.82
+1987,Lithuania,7.82
+1988,Lithuania,7.82
+1989,Lithuania,7.82
+1990,Lithuania,8.45
+1991,Lithuania,8.45
+1992,Lithuania,8.45
+1993,Lithuania,8.45
+1994,Lithuania,8.45
+1995,Lithuania,8.92
+1996,Lithuania,8.92
+1997,Lithuania,8.92
+1998,Lithuania,8.92
+1999,Lithuania,8.92
+2000,Lithuania,9.37
+2001,Lithuania,9.37
+2002,Lithuania,9.37
+2003,Lithuania,9.37
+2004,Lithuania,9.37
+2005,Lithuania,10.31
+2006,Lithuania,10.31
+2007,Lithuania,10.31
+2008,Lithuania,10.31
+2009,Lithuania,10.31
+2010,Lithuania,10.85
+1950,Luxembourg,3.07
+1951,Luxembourg,3.07
+1952,Luxembourg,3.07
+1953,Luxembourg,3.07
+1954,Luxembourg,3.07
+1955,Luxembourg,3.6
+1956,Luxembourg,3.6
+1957,Luxembourg,3.6
+1958,Luxembourg,3.6
+1959,Luxembourg,3.6
+1960,Luxembourg,4.03
+1961,Luxembourg,4.03
+1962,Luxembourg,4.03
+1963,Luxembourg,4.03
+1964,Luxembourg,4.03
+1965,Luxembourg,4.77
+1966,Luxembourg,4.77
+1967,Luxembourg,4.77
+1968,Luxembourg,4.77
+1969,Luxembourg,4.77
+1970,Luxembourg,5.61
+1971,Luxembourg,5.61
+1972,Luxembourg,5.61
+1973,Luxembourg,5.61
+1974,Luxembourg,5.61
+1975,Luxembourg,7.29
+1976,Luxembourg,7.29
+1977,Luxembourg,7.29
+1978,Luxembourg,7.29
+1979,Luxembourg,7.29
+1980,Luxembourg,7.64
+1981,Luxembourg,7.64
+1982,Luxembourg,7.64
+1983,Luxembourg,7.64
+1984,Luxembourg,7.64
+1985,Luxembourg,7.94
+1986,Luxembourg,7.94
+1987,Luxembourg,7.94
+1988,Luxembourg,7.94
+1989,Luxembourg,7.94
+1990,Luxembourg,8.42
+1991,Luxembourg,8.42
+1992,Luxembourg,8.42
+1993,Luxembourg,8.42
+1994,Luxembourg,8.42
+1995,Luxembourg,8.73
+1996,Luxembourg,8.73
+1997,Luxembourg,8.73
+1998,Luxembourg,8.73
+1999,Luxembourg,8.73
+2000,Luxembourg,9.13
+2001,Luxembourg,9.13
+2002,Luxembourg,9.13
+2003,Luxembourg,9.13
+2004,Luxembourg,9.13
+2005,Luxembourg,9.77
+2006,Luxembourg,9.77
+2007,Luxembourg,9.77
+2008,Luxembourg,9.77
+2009,Luxembourg,9.77
+2010,Luxembourg,10.46
+1950,Malawi,0.62
+1951,Malawi,0.62
+1952,Malawi,0.62
+1953,Malawi,0.62
+1954,Malawi,0.62
+1955,Malawi,0.67
+1956,Malawi,0.67
+1957,Malawi,0.67
+1958,Malawi,0.67
+1959,Malawi,0.67
+1960,Malawi,0.7
+1961,Malawi,0.7
+1962,Malawi,0.7
+1963,Malawi,0.7
+1964,Malawi,0.7
+1965,Malawi,0.79
+1966,Malawi,0.79
+1967,Malawi,0.79
+1968,Malawi,0.79
+1969,Malawi,0.79
+1970,Malawi,1.02
+1971,Malawi,1.02
+1972,Malawi,1.02
+1973,Malawi,1.02
+1974,Malawi,1.02
+1975,Malawi,1.26
+1976,Malawi,1.26
+1977,Malawi,1.26
+1978,Malawi,1.26
+1979,Malawi,1.26
+1980,Malawi,1.7
+1981,Malawi,1.7
+1982,Malawi,1.7
+1983,Malawi,1.7
+1984,Malawi,1.7
+1985,Malawi,1.8
+1986,Malawi,1.8
+1987,Malawi,1.8
+1988,Malawi,1.8
+1989,Malawi,1.8
+1990,Malawi,2.24
+1991,Malawi,2.24
+1992,Malawi,2.24
+1993,Malawi,2.24
+1994,Malawi,2.24
+1995,Malawi,2.34
+1996,Malawi,2.34
+1997,Malawi,2.34
+1998,Malawi,2.34
+1999,Malawi,2.34
+2000,Malawi,2.75
+2001,Malawi,2.75
+2002,Malawi,2.75
+2003,Malawi,2.75
+2004,Malawi,2.75
+2005,Malawi,3.76
+2006,Malawi,3.76
+2007,Malawi,3.76
+2008,Malawi,3.76
+2009,Malawi,3.76
+2010,Malawi,4.36
+1950,Malaysia,0.82
+1951,Malaysia,0.82
+1952,Malaysia,0.82
+1953,Malaysia,0.82
+1954,Malaysia,0.82
+1955,Malaysia,1.08
+1956,Malaysia,1.08
+1957,Malaysia,1.08
+1958,Malaysia,1.08
+1959,Malaysia,1.08
+1960,Malaysia,1.51
+1961,Malaysia,1.51
+1962,Malaysia,1.51
+1963,Malaysia,1.51
+1964,Malaysia,1.51
+1965,Malaysia,2.14
+1966,Malaysia,2.14
+1967,Malaysia,2.14
+1968,Malaysia,2.14
+1969,Malaysia,2.14
+1970,Malaysia,3.03
+1971,Malaysia,3.03
+1972,Malaysia,3.03
+1973,Malaysia,3.03
+1974,Malaysia,3.03
+1975,Malaysia,3.9
+1976,Malaysia,3.9
+1977,Malaysia,3.9
+1978,Malaysia,3.9
+1979,Malaysia,3.9
+1980,Malaysia,5.01
+1981,Malaysia,5.01
+1982,Malaysia,5.01
+1983,Malaysia,5.01
+1984,Malaysia,5.01
+1985,Malaysia,5.95
+1986,Malaysia,5.95
+1987,Malaysia,5.95
+1988,Malaysia,5.95
+1989,Malaysia,5.95
+1990,Malaysia,6.55
+1991,Malaysia,6.55
+1992,Malaysia,6.55
+1993,Malaysia,6.55
+1994,Malaysia,6.55
+1995,Malaysia,7.91
+1996,Malaysia,7.91
+1997,Malaysia,7.91
+1998,Malaysia,7.91
+1999,Malaysia,7.91
+2000,Malaysia,8.72
+2001,Malaysia,8.72
+2002,Malaysia,8.72
+2003,Malaysia,8.72
+2004,Malaysia,8.72
+2005,Malaysia,9.38
+2006,Malaysia,9.38
+2007,Malaysia,9.38
+2008,Malaysia,9.38
+2009,Malaysia,9.38
+2010,Malaysia,10.21
+1950,Maldives,2.68
+1951,Maldives,2.68
+1952,Maldives,2.68
+1953,Maldives,2.68
+1954,Maldives,2.68
+1955,Maldives,2.79
+1956,Maldives,2.79
+1957,Maldives,2.79
+1958,Maldives,2.79
+1959,Maldives,2.79
+1960,Maldives,3.03
+1961,Maldives,3.03
+1962,Maldives,3.03
+1963,Maldives,3.03
+1964,Maldives,3.03
+1965,Maldives,3.26
+1966,Maldives,3.26
+1967,Maldives,3.26
+1968,Maldives,3.26
+1969,Maldives,3.26
+1970,Maldives,3.62
+1971,Maldives,3.62
+1972,Maldives,3.62
+1973,Maldives,3.62
+1974,Maldives,3.62
+1975,Maldives,3.89
+1976,Maldives,3.89
+1977,Maldives,3.89
+1978,Maldives,3.89
+1979,Maldives,3.89
+1980,Maldives,4.15
+1981,Maldives,4.15
+1982,Maldives,4.15
+1983,Maldives,4.15
+1984,Maldives,4.15
+1985,Maldives,4.52
+1986,Maldives,4.52
+1987,Maldives,4.52
+1988,Maldives,4.52
+1989,Maldives,4.52
+1990,Maldives,4.12
+1991,Maldives,4.12
+1992,Maldives,4.12
+1993,Maldives,4.12
+1994,Maldives,4.12
+1995,Maldives,3.85
+1996,Maldives,3.85
+1997,Maldives,3.85
+1998,Maldives,3.85
+1999,Maldives,3.85
+2000,Maldives,4.11
+2001,Maldives,4.11
+2002,Maldives,4.11
+2003,Maldives,4.11
+2004,Maldives,4.11
+2005,Maldives,4.42
+2006,Maldives,4.42
+2007,Maldives,4.42
+2008,Maldives,4.42
+2009,Maldives,4.42
+2010,Maldives,5.87
+1950,Mali,0.08
+1951,Mali,0.08
+1952,Mali,0.08
+1953,Mali,0.08
+1954,Mali,0.08
+1955,Mali,0.09
+1956,Mali,0.09
+1957,Mali,0.09
+1958,Mali,0.09
+1959,Mali,0.09
+1960,Mali,0.1
+1961,Mali,0.1
+1962,Mali,0.1
+1963,Mali,0.1
+1964,Mali,0.1
+1965,Mali,0.13
+1966,Mali,0.13
+1967,Mali,0.13
+1968,Mali,0.13
+1969,Mali,0.13
+1970,Mali,0.14
+1971,Mali,0.14
+1972,Mali,0.14
+1973,Mali,0.14
+1974,Mali,0.14
+1975,Mali,0.23
+1976,Mali,0.23
+1977,Mali,0.23
+1978,Mali,0.23
+1979,Mali,0.23
+1980,Mali,0.36
+1981,Mali,0.36
+1982,Mali,0.36
+1983,Mali,0.36
+1984,Mali,0.36
+1985,Mali,0.48
+1986,Mali,0.48
+1987,Mali,0.48
+1988,Mali,0.48
+1989,Mali,0.48
+1990,Mali,0.59
+1991,Mali,0.59
+1992,Mali,0.59
+1993,Mali,0.59
+1994,Mali,0.59
+1995,Mali,0.7
+1996,Mali,0.7
+1997,Mali,0.7
+1998,Mali,0.7
+1999,Mali,0.7
+2000,Mali,0.89
+2001,Mali,0.89
+2002,Mali,0.89
+2003,Mali,0.89
+2004,Mali,0.89
+2005,Mali,1.36
+2006,Mali,1.36
+2007,Mali,1.36
+2008,Mali,1.36
+2009,Mali,1.36
+2010,Mali,2.09
+1950,Malta,2.74
+1951,Malta,2.74
+1952,Malta,2.74
+1953,Malta,2.74
+1954,Malta,2.74
+1955,Malta,3.27
+1956,Malta,3.27
+1957,Malta,3.27
+1958,Malta,3.27
+1959,Malta,3.27
+1960,Malta,3.77
+1961,Malta,3.77
+1962,Malta,3.77
+1963,Malta,3.77
+1964,Malta,3.77
+1965,Malta,4.37
+1966,Malta,4.37
+1967,Malta,4.37
+1968,Malta,4.37
+1969,Malta,4.37
+1970,Malta,5.28
+1971,Malta,5.28
+1972,Malta,5.28
+1973,Malta,5.28
+1974,Malta,5.28
+1975,Malta,6.01
+1976,Malta,6.01
+1977,Malta,6.01
+1978,Malta,6.01
+1979,Malta,6.01
+1980,Malta,6.59
+1981,Malta,6.59
+1982,Malta,6.59
+1983,Malta,6.59
+1984,Malta,6.59
+1985,Malta,7.49
+1986,Malta,7.49
+1987,Malta,7.49
+1988,Malta,7.49
+1989,Malta,7.49
+1990,Malta,8.2
+1991,Malta,8.2
+1992,Malta,8.2
+1993,Malta,8.2
+1994,Malta,8.2
+1995,Malta,8.92
+1996,Malta,8.92
+1997,Malta,8.92
+1998,Malta,8.92
+1999,Malta,8.92
+2000,Malta,9.33
+2001,Malta,9.33
+2002,Malta,9.33
+2003,Malta,9.33
+2004,Malta,9.33
+2005,Malta,9.77
+2006,Malta,9.77
+2007,Malta,9.77
+2008,Malta,9.77
+2009,Malta,9.77
+2010,Malta,10.17
+1950,Mauritania,1.13
+1951,Mauritania,1.13
+1952,Mauritania,1.13
+1953,Mauritania,1.13
+1954,Mauritania,1.13
+1955,Mauritania,1.2
+1956,Mauritania,1.2
+1957,Mauritania,1.2
+1958,Mauritania,1.2
+1959,Mauritania,1.2
+1960,Mauritania,1.26
+1961,Mauritania,1.26
+1962,Mauritania,1.26
+1963,Mauritania,1.26
+1964,Mauritania,1.26
+1965,Mauritania,1.32
+1966,Mauritania,1.32
+1967,Mauritania,1.32
+1968,Mauritania,1.32
+1969,Mauritania,1.32
+1970,Mauritania,1.38
+1971,Mauritania,1.38
+1972,Mauritania,1.38
+1973,Mauritania,1.38
+1974,Mauritania,1.38
+1975,Mauritania,1.5
+1976,Mauritania,1.5
+1977,Mauritania,1.5
+1978,Mauritania,1.5
+1979,Mauritania,1.5
+1980,Mauritania,1.68
+1981,Mauritania,1.68
+1982,Mauritania,1.68
+1983,Mauritania,1.68
+1984,Mauritania,1.68
+1985,Mauritania,1.85
+1986,Mauritania,1.85
+1987,Mauritania,1.85
+1988,Mauritania,1.85
+1989,Mauritania,1.85
+1990,Mauritania,2.09
+1991,Mauritania,2.09
+1992,Mauritania,2.09
+1993,Mauritania,2.09
+1994,Mauritania,2.09
+1995,Mauritania,2.29
+1996,Mauritania,2.29
+1997,Mauritania,2.29
+1998,Mauritania,2.29
+1999,Mauritania,2.29
+2000,Mauritania,2.57
+2001,Mauritania,2.57
+2002,Mauritania,2.57
+2003,Mauritania,2.57
+2004,Mauritania,2.57
+2005,Mauritania,3.08
+2006,Mauritania,3.08
+2007,Mauritania,3.08
+2008,Mauritania,3.08
+2009,Mauritania,3.08
+2010,Mauritania,3.81
+1950,Mauritius,1.96
+1951,Mauritius,1.96
+1952,Mauritius,1.96
+1953,Mauritius,1.96
+1954,Mauritius,1.96
+1955,Mauritius,2.3
+1956,Mauritius,2.3
+1957,Mauritius,2.3
+1958,Mauritius,2.3
+1959,Mauritius,2.3
+1960,Mauritius,2.79
+1961,Mauritius,2.79
+1962,Mauritius,2.79
+1963,Mauritius,2.79
+1964,Mauritius,2.79
+1965,Mauritius,3.33
+1966,Mauritius,3.33
+1967,Mauritius,3.33
+1968,Mauritius,3.33
+1969,Mauritius,3.33
+1970,Mauritius,3.92
+1971,Mauritius,3.92
+1972,Mauritius,3.92
+1973,Mauritius,3.92
+1974,Mauritius,3.92
+1975,Mauritius,4.21
+1976,Mauritius,4.21
+1977,Mauritius,4.21
+1978,Mauritius,4.21
+1979,Mauritius,4.21
+1980,Mauritius,4.65
+1981,Mauritius,4.65
+1982,Mauritius,4.65
+1983,Mauritius,4.65
+1984,Mauritius,4.65
+1985,Mauritius,5.2
+1986,Mauritius,5.2
+1987,Mauritius,5.2
+1988,Mauritius,5.2
+1989,Mauritius,5.2
+1990,Mauritius,5.8
+1991,Mauritius,5.8
+1992,Mauritius,5.8
+1993,Mauritius,5.8
+1994,Mauritius,5.8
+1995,Mauritius,6.27
+1996,Mauritius,6.27
+1997,Mauritius,6.27
+1998,Mauritius,6.27
+1999,Mauritius,6.27
+2000,Mauritius,6.2
+2001,Mauritius,6.2
+2002,Mauritius,6.2
+2003,Mauritius,6.2
+2004,Mauritius,6.2
+2005,Mauritius,7.43
+2006,Mauritius,7.43
+2007,Mauritius,7.43
+2008,Mauritius,7.43
+2009,Mauritius,7.43
+2010,Mauritius,8.47
+1950,Mexico,1.95
+1951,Mexico,1.95
+1952,Mexico,1.95
+1953,Mexico,1.95
+1954,Mexico,1.95
+1955,Mexico,2.12
+1956,Mexico,2.12
+1957,Mexico,2.12
+1958,Mexico,2.12
+1959,Mexico,2.12
+1960,Mexico,2.28
+1961,Mexico,2.28
+1962,Mexico,2.28
+1963,Mexico,2.28
+1964,Mexico,2.28
+1965,Mexico,2.63
+1966,Mexico,2.63
+1967,Mexico,2.63
+1968,Mexico,2.63
+1969,Mexico,2.63
+1970,Mexico,3.16
+1971,Mexico,3.16
+1972,Mexico,3.16
+1973,Mexico,3.16
+1974,Mexico,3.16
+1975,Mexico,3.68
+1976,Mexico,3.68
+1977,Mexico,3.68
+1978,Mexico,3.68
+1979,Mexico,3.68
+1980,Mexico,4.46
+1981,Mexico,4.46
+1982,Mexico,4.46
+1983,Mexico,4.46
+1984,Mexico,4.46
+1985,Mexico,5.37
+1986,Mexico,5.37
+1987,Mexico,5.37
+1988,Mexico,5.37
+1989,Mexico,5.37
+1990,Mexico,6.18
+1991,Mexico,6.18
+1992,Mexico,6.18
+1993,Mexico,6.18
+1994,Mexico,6.18
+1995,Mexico,6.86
+1996,Mexico,6.86
+1997,Mexico,6.86
+1998,Mexico,6.86
+1999,Mexico,6.86
+2000,Mexico,7.4
+2001,Mexico,7.4
+2002,Mexico,7.4
+2003,Mexico,7.4
+2004,Mexico,7.4
+2005,Mexico,8.18
+2006,Mexico,8.18
+2007,Mexico,8.18
+2008,Mexico,8.18
+2009,Mexico,8.18
+2010,Mexico,8.64
+1950,Mongolia,1.37
+1951,Mongolia,1.37
+1952,Mongolia,1.37
+1953,Mongolia,1.37
+1954,Mongolia,1.37
+1955,Mongolia,1.65
+1956,Mongolia,1.65
+1957,Mongolia,1.65
+1958,Mongolia,1.65
+1959,Mongolia,1.65
+1960,Mongolia,2.15
+1961,Mongolia,2.15
+1962,Mongolia,2.15
+1963,Mongolia,2.15
+1964,Mongolia,2.15
+1965,Mongolia,2.76
+1966,Mongolia,2.76
+1967,Mongolia,2.76
+1968,Mongolia,2.76
+1969,Mongolia,2.76
+1970,Mongolia,3.18
+1971,Mongolia,3.18
+1972,Mongolia,3.18
+1973,Mongolia,3.18
+1974,Mongolia,3.18
+1975,Mongolia,5.06
+1976,Mongolia,5.06
+1977,Mongolia,5.06
+1978,Mongolia,5.06
+1979,Mongolia,5.06
+1980,Mongolia,5.88
+1981,Mongolia,5.88
+1982,Mongolia,5.88
+1983,Mongolia,5.88
+1984,Mongolia,5.88
+1985,Mongolia,6.65
+1986,Mongolia,6.65
+1987,Mongolia,6.65
+1988,Mongolia,6.65
+1989,Mongolia,6.65
+1990,Mongolia,7.62
+1991,Mongolia,7.62
+1992,Mongolia,7.62
+1993,Mongolia,7.62
+1994,Mongolia,7.62
+1995,Mongolia,7.76
+1996,Mongolia,7.76
+1997,Mongolia,7.76
+1998,Mongolia,7.76
+1999,Mongolia,7.76
+2000,Mongolia,7.98
+2001,Mongolia,7.98
+2002,Mongolia,7.98
+2003,Mongolia,7.98
+2004,Mongolia,7.98
+2005,Mongolia,8.75
+2006,Mongolia,8.75
+2007,Mongolia,8.75
+2008,Mongolia,8.75
+2009,Mongolia,8.75
+2010,Mongolia,9.49
+1950,Morocco,0.22
+1951,Morocco,0.22
+1952,Morocco,0.22
+1953,Morocco,0.22
+1954,Morocco,0.22
+1955,Morocco,0.26
+1956,Morocco,0.26
+1957,Morocco,0.26
+1958,Morocco,0.26
+1959,Morocco,0.26
+1960,Morocco,0.34
+1961,Morocco,0.34
+1962,Morocco,0.34
+1963,Morocco,0.34
+1964,Morocco,0.34
+1965,Morocco,0.44
+1966,Morocco,0.44
+1967,Morocco,0.44
+1968,Morocco,0.44
+1969,Morocco,0.44
+1970,Morocco,0.59
+1971,Morocco,0.59
+1972,Morocco,0.59
+1973,Morocco,0.59
+1974,Morocco,0.59
+1975,Morocco,0.83
+1976,Morocco,0.83
+1977,Morocco,0.83
+1978,Morocco,0.83
+1979,Morocco,0.83
+1980,Morocco,1.16
+1981,Morocco,1.16
+1982,Morocco,1.16
+1983,Morocco,1.16
+1984,Morocco,1.16
+1985,Morocco,1.58
+1986,Morocco,1.58
+1987,Morocco,1.58
+1988,Morocco,1.58
+1989,Morocco,1.58
+1990,Morocco,2.06
+1991,Morocco,2.06
+1992,Morocco,2.06
+1993,Morocco,2.06
+1994,Morocco,2.06
+1995,Morocco,2.52
+1996,Morocco,2.52
+1997,Morocco,2.52
+1998,Morocco,2.52
+1999,Morocco,2.52
+2000,Morocco,2.92
+2001,Morocco,2.92
+2002,Morocco,2.92
+2003,Morocco,2.92
+2004,Morocco,2.92
+2005,Morocco,3.46
+2006,Morocco,3.46
+2007,Morocco,3.46
+2008,Morocco,3.46
+2009,Morocco,3.46
+2010,Morocco,4.13
+1950,Mozambique,0.3
+1951,Mozambique,0.3
+1952,Mozambique,0.3
+1953,Mozambique,0.3
+1954,Mozambique,0.3
+1955,Mozambique,0.34
+1956,Mozambique,0.34
+1957,Mozambique,0.34
+1958,Mozambique,0.34
+1959,Mozambique,0.34
+1960,Mozambique,0.38
+1961,Mozambique,0.38
+1962,Mozambique,0.38
+1963,Mozambique,0.38
+1964,Mozambique,0.38
+1965,Mozambique,0.44
+1966,Mozambique,0.44
+1967,Mozambique,0.44
+1968,Mozambique,0.44
+1969,Mozambique,0.44
+1970,Mozambique,0.45
+1971,Mozambique,0.45
+1972,Mozambique,0.45
+1973,Mozambique,0.45
+1974,Mozambique,0.45
+1975,Mozambique,0.42
+1976,Mozambique,0.42
+1977,Mozambique,0.42
+1978,Mozambique,0.42
+1979,Mozambique,0.42
+1980,Mozambique,0.53
+1981,Mozambique,0.53
+1982,Mozambique,0.53
+1983,Mozambique,0.53
+1984,Mozambique,0.53
+1985,Mozambique,0.63
+1986,Mozambique,0.63
+1987,Mozambique,0.63
+1988,Mozambique,0.63
+1989,Mozambique,0.63
+1990,Mozambique,0.58
+1991,Mozambique,0.58
+1992,Mozambique,0.58
+1993,Mozambique,0.58
+1994,Mozambique,0.58
+1995,Mozambique,0.59
+1996,Mozambique,0.59
+1997,Mozambique,0.59
+1998,Mozambique,0.59
+1999,Mozambique,0.59
+2000,Mozambique,0.68
+2001,Mozambique,0.68
+2002,Mozambique,0.68
+2003,Mozambique,0.68
+2004,Mozambique,0.68
+2005,Mozambique,0.82
+2006,Mozambique,0.82
+2007,Mozambique,0.82
+2008,Mozambique,0.82
+2009,Mozambique,0.82
+2010,Mozambique,1.43
+1950,Myanmar,0.77
+1951,Myanmar,0.77
+1952,Myanmar,0.77
+1953,Myanmar,0.77
+1954,Myanmar,0.77
+1955,Myanmar,0.84
+1956,Myanmar,0.84
+1957,Myanmar,0.84
+1958,Myanmar,0.84
+1959,Myanmar,0.84
+1960,Myanmar,0.86
+1961,Myanmar,0.86
+1962,Myanmar,0.86
+1963,Myanmar,0.86
+1964,Myanmar,0.86
+1965,Myanmar,0.96
+1966,Myanmar,0.96
+1967,Myanmar,0.96
+1968,Myanmar,0.96
+1969,Myanmar,0.96
+1970,Myanmar,1.08
+1971,Myanmar,1.08
+1972,Myanmar,1.08
+1973,Myanmar,1.08
+1974,Myanmar,1.08
+1975,Myanmar,1.24
+1976,Myanmar,1.24
+1977,Myanmar,1.24
+1978,Myanmar,1.24
+1979,Myanmar,1.24
+1980,Myanmar,1.85
+1981,Myanmar,1.85
+1982,Myanmar,1.85
+1983,Myanmar,1.85
+1984,Myanmar,1.85
+1985,Myanmar,2.39
+1986,Myanmar,2.39
+1987,Myanmar,2.39
+1988,Myanmar,2.39
+1989,Myanmar,2.39
+1990,Myanmar,2.79
+1991,Myanmar,2.79
+1992,Myanmar,2.79
+1993,Myanmar,2.79
+1994,Myanmar,2.79
+1995,Myanmar,3.27
+1996,Myanmar,3.27
+1997,Myanmar,3.27
+1998,Myanmar,3.27
+1999,Myanmar,3.27
+2000,Myanmar,3.8
+2001,Myanmar,3.8
+2002,Myanmar,3.8
+2003,Myanmar,3.8
+2004,Myanmar,3.8
+2005,Myanmar,4.34
+2006,Myanmar,4.34
+2007,Myanmar,4.34
+2008,Myanmar,4.34
+2009,Myanmar,4.34
+2010,Myanmar,5.04
+1950,Namibia,2.03
+1951,Namibia,2.03
+1952,Namibia,2.03
+1953,Namibia,2.03
+1954,Namibia,2.03
+1955,Namibia,2.36
+1956,Namibia,2.36
+1957,Namibia,2.36
+1958,Namibia,2.36
+1959,Namibia,2.36
+1960,Namibia,2.7
+1961,Namibia,2.7
+1962,Namibia,2.7
+1963,Namibia,2.7
+1964,Namibia,2.7
+1965,Namibia,3.09
+1966,Namibia,3.09
+1967,Namibia,3.09
+1968,Namibia,3.09
+1969,Namibia,3.09
+1970,Namibia,3.6
+1971,Namibia,3.6
+1972,Namibia,3.6
+1973,Namibia,3.6
+1974,Namibia,3.6
+1975,Namibia,4.15
+1976,Namibia,4.15
+1977,Namibia,4.15
+1978,Namibia,4.15
+1979,Namibia,4.15
+1980,Namibia,4.75
+1981,Namibia,4.75
+1982,Namibia,4.75
+1983,Namibia,4.75
+1984,Namibia,4.75
+1985,Namibia,5.41
+1986,Namibia,5.41
+1987,Namibia,5.41
+1988,Namibia,5.41
+1989,Namibia,5.41
+1990,Namibia,6.02
+1991,Namibia,6.02
+1992,Namibia,6.02
+1993,Namibia,6.02
+1994,Namibia,6.02
+1995,Namibia,6.05
+1996,Namibia,6.05
+1997,Namibia,6.05
+1998,Namibia,6.05
+1999,Namibia,6.05
+2000,Namibia,5.75
+2001,Namibia,5.75
+2002,Namibia,5.75
+2003,Namibia,5.75
+2004,Namibia,5.75
+2005,Namibia,6.18
+2006,Namibia,6.18
+2007,Namibia,6.18
+2008,Namibia,6.18
+2009,Namibia,6.18
+2010,Namibia,6.44
+1950,Nepal,0.02
+1951,Nepal,0.02
+1952,Nepal,0.02
+1953,Nepal,0.02
+1954,Nepal,0.02
+1955,Nepal,0.02
+1956,Nepal,0.02
+1957,Nepal,0.02
+1958,Nepal,0.02
+1959,Nepal,0.02
+1960,Nepal,0.03
+1961,Nepal,0.03
+1962,Nepal,0.03
+1963,Nepal,0.03
+1964,Nepal,0.03
+1965,Nepal,0.07
+1966,Nepal,0.07
+1967,Nepal,0.07
+1968,Nepal,0.07
+1969,Nepal,0.07
+1970,Nepal,0.12
+1971,Nepal,0.12
+1972,Nepal,0.12
+1973,Nepal,0.12
+1974,Nepal,0.12
+1975,Nepal,0.17
+1976,Nepal,0.17
+1977,Nepal,0.17
+1978,Nepal,0.17
+1979,Nepal,0.17
+1980,Nepal,0.26
+1981,Nepal,0.26
+1982,Nepal,0.26
+1983,Nepal,0.26
+1984,Nepal,0.26
+1985,Nepal,0.74
+1986,Nepal,0.74
+1987,Nepal,0.74
+1988,Nepal,0.74
+1989,Nepal,0.74
+1990,Nepal,1.28
+1991,Nepal,1.28
+1992,Nepal,1.28
+1993,Nepal,1.28
+1994,Nepal,1.28
+1995,Nepal,1.49
+1996,Nepal,1.49
+1997,Nepal,1.49
+1998,Nepal,1.49
+1999,Nepal,1.49
+2000,Nepal,1.95
+2001,Nepal,1.95
+2002,Nepal,1.95
+2003,Nepal,1.95
+2004,Nepal,1.95
+2005,Nepal,2.61
+2006,Nepal,2.61
+2007,Nepal,2.61
+2008,Nepal,2.61
+2009,Nepal,2.61
+2010,Nepal,3.5
+1950,Netherlands,6.0
+1951,Netherlands,6.0
+1952,Netherlands,6.0
+1953,Netherlands,6.0
+1954,Netherlands,6.0
+1955,Netherlands,6.06
+1956,Netherlands,6.06
+1957,Netherlands,6.06
+1958,Netherlands,6.06
+1959,Netherlands,6.06
+1960,Netherlands,6.17
+1961,Netherlands,6.17
+1962,Netherlands,6.17
+1963,Netherlands,6.17
+1964,Netherlands,6.17
+1965,Netherlands,7.14
+1966,Netherlands,7.14
+1967,Netherlands,7.14
+1968,Netherlands,7.14
+1969,Netherlands,7.14
+1970,Netherlands,7.99
+1971,Netherlands,7.99
+1972,Netherlands,7.99
+1973,Netherlands,7.99
+1974,Netherlands,7.99
+1975,Netherlands,8.55
+1976,Netherlands,8.55
+1977,Netherlands,8.55
+1978,Netherlands,8.55
+1979,Netherlands,8.55
+1980,Netherlands,9.03
+1981,Netherlands,9.03
+1982,Netherlands,9.03
+1983,Netherlands,9.03
+1984,Netherlands,9.03
+1985,Netherlands,9.51
+1986,Netherlands,9.51
+1987,Netherlands,9.51
+1988,Netherlands,9.51
+1989,Netherlands,9.51
+1990,Netherlands,9.91
+1991,Netherlands,9.91
+1992,Netherlands,9.91
+1993,Netherlands,9.91
+1994,Netherlands,9.91
+1995,Netherlands,10.23
+1996,Netherlands,10.23
+1997,Netherlands,10.23
+1998,Netherlands,10.23
+1999,Netherlands,10.23
+2000,Netherlands,10.52
+2001,Netherlands,10.52
+2002,Netherlands,10.52
+2003,Netherlands,10.52
+2004,Netherlands,10.52
+2005,Netherlands,10.55
+2006,Netherlands,10.55
+2007,Netherlands,10.55
+2008,Netherlands,10.55
+2009,Netherlands,10.55
+2010,Netherlands,11.16
+1950,New Zealand,9.11
+1951,New Zealand,9.11
+1952,New Zealand,9.11
+1953,New Zealand,9.11
+1954,New Zealand,9.11
+1955,New Zealand,9.38
+1956,New Zealand,9.38
+1957,New Zealand,9.38
+1958,New Zealand,9.38
+1959,New Zealand,9.38
+1960,New Zealand,9.81
+1961,New Zealand,9.81
+1962,New Zealand,9.81
+1963,New Zealand,9.81
+1964,New Zealand,9.81
+1965,New Zealand,9.86
+1966,New Zealand,9.86
+1967,New Zealand,9.86
+1968,New Zealand,9.86
+1969,New Zealand,9.86
+1970,New Zealand,10.68
+1971,New Zealand,10.68
+1972,New Zealand,10.68
+1973,New Zealand,10.68
+1974,New Zealand,10.68
+1975,New Zealand,11.41
+1976,New Zealand,11.41
+1977,New Zealand,11.41
+1978,New Zealand,11.41
+1979,New Zealand,11.41
+1980,New Zealand,11.28
+1981,New Zealand,11.28
+1982,New Zealand,11.28
+1983,New Zealand,11.28
+1984,New Zealand,11.28
+1985,New Zealand,11.43
+1986,New Zealand,11.43
+1987,New Zealand,11.43
+1988,New Zealand,11.43
+1989,New Zealand,11.43
+1990,New Zealand,11.37
+1991,New Zealand,11.37
+1992,New Zealand,11.37
+1993,New Zealand,11.37
+1994,New Zealand,11.37
+1995,New Zealand,11.6
+1996,New Zealand,11.6
+1997,New Zealand,11.6
+1998,New Zealand,11.6
+1999,New Zealand,11.6
+2000,New Zealand,11.78
+2001,New Zealand,11.78
+2002,New Zealand,11.78
+2003,New Zealand,11.78
+2004,New Zealand,11.78
+2005,New Zealand,11.85
+2006,New Zealand,11.85
+2007,New Zealand,11.85
+2008,New Zealand,11.85
+2009,New Zealand,11.85
+2010,New Zealand,11.37
+1950,Nicaragua,1.51
+1951,Nicaragua,1.51
+1952,Nicaragua,1.51
+1953,Nicaragua,1.51
+1954,Nicaragua,1.51
+1955,Nicaragua,1.57
+1956,Nicaragua,1.57
+1957,Nicaragua,1.57
+1958,Nicaragua,1.57
+1959,Nicaragua,1.57
+1960,Nicaragua,1.64
+1961,Nicaragua,1.64
+1962,Nicaragua,1.64
+1963,Nicaragua,1.64
+1964,Nicaragua,1.64
+1965,Nicaragua,1.74
+1966,Nicaragua,1.74
+1967,Nicaragua,1.74
+1968,Nicaragua,1.74
+1969,Nicaragua,1.74
+1970,Nicaragua,1.84
+1971,Nicaragua,1.84
+1972,Nicaragua,1.84
+1973,Nicaragua,1.84
+1974,Nicaragua,1.84
+1975,Nicaragua,2.09
+1976,Nicaragua,2.09
+1977,Nicaragua,2.09
+1978,Nicaragua,2.09
+1979,Nicaragua,2.09
+1980,Nicaragua,2.53
+1981,Nicaragua,2.53
+1982,Nicaragua,2.53
+1983,Nicaragua,2.53
+1984,Nicaragua,2.53
+1985,Nicaragua,2.97
+1986,Nicaragua,2.97
+1987,Nicaragua,2.97
+1988,Nicaragua,2.97
+1989,Nicaragua,2.97
+1990,Nicaragua,3.97
+1991,Nicaragua,3.97
+1992,Nicaragua,3.97
+1993,Nicaragua,3.97
+1994,Nicaragua,3.97
+1995,Nicaragua,4.75
+1996,Nicaragua,4.75
+1997,Nicaragua,4.75
+1998,Nicaragua,4.75
+1999,Nicaragua,4.75
+2000,Nicaragua,5.53
+2001,Nicaragua,5.53
+2002,Nicaragua,5.53
+2003,Nicaragua,5.53
+2004,Nicaragua,5.53
+2005,Nicaragua,6.21
+2006,Nicaragua,6.21
+2007,Nicaragua,6.21
+2008,Nicaragua,6.21
+2009,Nicaragua,6.21
+2010,Nicaragua,6.85
+1950,Niger,0.06
+1951,Niger,0.06
+1952,Niger,0.06
+1953,Niger,0.06
+1954,Niger,0.06
+1955,Niger,0.07
+1956,Niger,0.07
+1957,Niger,0.07
+1958,Niger,0.07
+1959,Niger,0.07
+1960,Niger,0.08
+1961,Niger,0.08
+1962,Niger,0.08
+1963,Niger,0.08
+1964,Niger,0.08
+1965,Niger,0.09
+1966,Niger,0.09
+1967,Niger,0.09
+1968,Niger,0.09
+1969,Niger,0.09
+1970,Niger,0.12
+1971,Niger,0.12
+1972,Niger,0.12
+1973,Niger,0.12
+1974,Niger,0.12
+1975,Niger,0.17
+1976,Niger,0.17
+1977,Niger,0.17
+1978,Niger,0.17
+1979,Niger,0.17
+1980,Niger,0.25
+1981,Niger,0.25
+1982,Niger,0.25
+1983,Niger,0.25
+1984,Niger,0.25
+1985,Niger,0.37
+1986,Niger,0.37
+1987,Niger,0.37
+1988,Niger,0.37
+1989,Niger,0.37
+1990,Niger,0.51
+1991,Niger,0.51
+1992,Niger,0.51
+1993,Niger,0.51
+1994,Niger,0.51
+1995,Niger,0.65
+1996,Niger,0.65
+1997,Niger,0.65
+1998,Niger,0.65
+1999,Niger,0.65
+2000,Niger,0.77
+2001,Niger,0.77
+2002,Niger,0.77
+2003,Niger,0.77
+2004,Niger,0.77
+2005,Niger,0.96
+2006,Niger,0.96
+2007,Niger,0.96
+2008,Niger,0.96
+2009,Niger,0.96
+2010,Niger,1.3
+1950,Norway,7.4
+1951,Norway,7.4
+1952,Norway,7.4
+1953,Norway,7.4
+1954,Norway,7.4
+1955,Norway,7.34
+1956,Norway,7.34
+1957,Norway,7.34
+1958,Norway,7.34
+1959,Norway,7.34
+1960,Norway,7.33
+1961,Norway,7.33
+1962,Norway,7.33
+1963,Norway,7.33
+1964,Norway,7.33
+1965,Norway,7.68
+1966,Norway,7.68
+1967,Norway,7.68
+1968,Norway,7.68
+1969,Norway,7.68
+1970,Norway,8.03
+1971,Norway,8.03
+1972,Norway,8.03
+1973,Norway,8.03
+1974,Norway,8.03
+1975,Norway,8.26
+1976,Norway,8.26
+1977,Norway,8.26
+1978,Norway,8.26
+1979,Norway,8.26
+1980,Norway,8.68
+1981,Norway,8.68
+1982,Norway,8.68
+1983,Norway,8.68
+1984,Norway,8.68
+1985,Norway,9.42
+1986,Norway,9.42
+1987,Norway,9.42
+1988,Norway,9.42
+1989,Norway,9.42
+1990,Norway,10.05
+1991,Norway,10.05
+1992,Norway,10.05
+1993,Norway,10.05
+1994,Norway,10.05
+1995,Norway,10.51
+1996,Norway,10.51
+1997,Norway,10.51
+1998,Norway,10.51
+1999,Norway,10.51
+2000,Norway,10.87
+2001,Norway,10.87
+2002,Norway,10.87
+2003,Norway,10.87
+2004,Norway,10.87
+2005,Norway,11.82
+2006,Norway,11.82
+2007,Norway,11.82
+2008,Norway,11.82
+2009,Norway,11.82
+2010,Norway,11.68
+1950,Pakistan,0.35
+1951,Pakistan,0.35
+1952,Pakistan,0.35
+1953,Pakistan,0.35
+1954,Pakistan,0.35
+1955,Pakistan,0.36
+1956,Pakistan,0.36
+1957,Pakistan,0.36
+1958,Pakistan,0.36
+1959,Pakistan,0.36
+1960,Pakistan,0.44
+1961,Pakistan,0.44
+1962,Pakistan,0.44
+1963,Pakistan,0.44
+1964,Pakistan,0.44
+1965,Pakistan,0.57
+1966,Pakistan,0.57
+1967,Pakistan,0.57
+1968,Pakistan,0.57
+1969,Pakistan,0.57
+1970,Pakistan,0.74
+1971,Pakistan,0.74
+1972,Pakistan,0.74
+1973,Pakistan,0.74
+1974,Pakistan,0.74
+1975,Pakistan,0.91
+1976,Pakistan,0.91
+1977,Pakistan,0.91
+1978,Pakistan,0.91
+1979,Pakistan,0.91
+1980,Pakistan,0.85
+1981,Pakistan,0.85
+1982,Pakistan,0.85
+1983,Pakistan,0.85
+1984,Pakistan,0.85
+1985,Pakistan,1.3
+1986,Pakistan,1.3
+1987,Pakistan,1.3
+1988,Pakistan,1.3
+1989,Pakistan,1.3
+1990,Pakistan,1.6
+1991,Pakistan,1.6
+1992,Pakistan,1.6
+1993,Pakistan,1.6
+1994,Pakistan,1.6
+1995,Pakistan,2.03
+1996,Pakistan,2.03
+1997,Pakistan,2.03
+1998,Pakistan,2.03
+1999,Pakistan,2.03
+2000,Pakistan,2.54
+2001,Pakistan,2.54
+2002,Pakistan,2.54
+2003,Pakistan,2.54
+2004,Pakistan,2.54
+2005,Pakistan,3.59
+2006,Pakistan,3.59
+2007,Pakistan,3.59
+2008,Pakistan,3.59
+2009,Pakistan,3.59
+2010,Pakistan,3.76
+1950,Panama,3.69
+1951,Panama,3.69
+1952,Panama,3.69
+1953,Panama,3.69
+1954,Panama,3.69
+1955,Panama,4.09
+1956,Panama,4.09
+1957,Panama,4.09
+1958,Panama,4.09
+1959,Panama,4.09
+1960,Panama,4.57
+1961,Panama,4.57
+1962,Panama,4.57
+1963,Panama,4.57
+1964,Panama,4.57
+1965,Panama,4.92
+1966,Panama,4.92
+1967,Panama,4.92
+1968,Panama,4.92
+1969,Panama,4.92
+1970,Panama,5.42
+1971,Panama,5.42
+1972,Panama,5.42
+1973,Panama,5.42
+1974,Panama,5.42
+1975,Panama,5.96
+1976,Panama,5.96
+1977,Panama,5.96
+1978,Panama,5.96
+1979,Panama,5.96
+1980,Panama,6.69
+1981,Panama,6.69
+1982,Panama,6.69
+1983,Panama,6.69
+1984,Panama,6.69
+1985,Panama,7.41
+1986,Panama,7.41
+1987,Panama,7.41
+1988,Panama,7.41
+1989,Panama,7.41
+1990,Panama,7.78
+1991,Panama,7.78
+1992,Panama,7.78
+1993,Panama,7.78
+1994,Panama,7.78
+1995,Panama,8.51
+1996,Panama,8.51
+1997,Panama,8.51
+1998,Panama,8.51
+1999,Panama,8.51
+2000,Panama,8.89
+2001,Panama,8.89
+2002,Panama,8.89
+2003,Panama,8.89
+2004,Panama,8.89
+2005,Panama,9.36
+2006,Panama,9.36
+2007,Panama,9.36
+2008,Panama,9.36
+2009,Panama,9.36
+2010,Panama,9.51
+1950,Papua New Guinea,0.31
+1951,Papua New Guinea,0.31
+1952,Papua New Guinea,0.31
+1953,Papua New Guinea,0.31
+1954,Papua New Guinea,0.31
+1955,Papua New Guinea,0.36
+1956,Papua New Guinea,0.36
+1957,Papua New Guinea,0.36
+1958,Papua New Guinea,0.36
+1959,Papua New Guinea,0.36
+1960,Papua New Guinea,0.52
+1961,Papua New Guinea,0.52
+1962,Papua New Guinea,0.52
+1963,Papua New Guinea,0.52
+1964,Papua New Guinea,0.52
+1965,Papua New Guinea,0.74
+1966,Papua New Guinea,0.74
+1967,Papua New Guinea,0.74
+1968,Papua New Guinea,0.74
+1969,Papua New Guinea,0.74
+1970,Papua New Guinea,0.96
+1971,Papua New Guinea,0.96
+1972,Papua New Guinea,0.96
+1973,Papua New Guinea,0.96
+1974,Papua New Guinea,0.96
+1975,Papua New Guinea,1.18
+1976,Papua New Guinea,1.18
+1977,Papua New Guinea,1.18
+1978,Papua New Guinea,1.18
+1979,Papua New Guinea,1.18
+1980,Papua New Guinea,1.51
+1981,Papua New Guinea,1.51
+1982,Papua New Guinea,1.51
+1983,Papua New Guinea,1.51
+1984,Papua New Guinea,1.51
+1985,Papua New Guinea,1.83
+1986,Papua New Guinea,1.83
+1987,Papua New Guinea,1.83
+1988,Papua New Guinea,1.83
+1989,Papua New Guinea,1.83
+1990,Papua New Guinea,2.28
+1991,Papua New Guinea,2.28
+1992,Papua New Guinea,2.28
+1993,Papua New Guinea,2.28
+1994,Papua New Guinea,2.28
+1995,Papua New Guinea,2.57
+1996,Papua New Guinea,2.57
+1997,Papua New Guinea,2.57
+1998,Papua New Guinea,2.57
+1999,Papua New Guinea,2.57
+2000,Papua New Guinea,2.8
+2001,Papua New Guinea,2.8
+2002,Papua New Guinea,2.8
+2003,Papua New Guinea,2.8
+2004,Papua New Guinea,2.8
+2005,Papua New Guinea,3.31
+2006,Papua New Guinea,3.31
+2007,Papua New Guinea,3.31
+2008,Papua New Guinea,3.31
+2009,Papua New Guinea,3.31
+2010,Papua New Guinea,3.63
+1950,Paraguay,2.24
+1951,Paraguay,2.24
+1952,Paraguay,2.24
+1953,Paraguay,2.24
+1954,Paraguay,2.24
+1955,Paraguay,2.58
+1956,Paraguay,2.58
+1957,Paraguay,2.58
+1958,Paraguay,2.58
+1959,Paraguay,2.58
+1960,Paraguay,3.06
+1961,Paraguay,3.06
+1962,Paraguay,3.06
+1963,Paraguay,3.06
+1964,Paraguay,3.06
+1965,Paraguay,3.33
+1966,Paraguay,3.33
+1967,Paraguay,3.33
+1968,Paraguay,3.33
+1969,Paraguay,3.33
+1970,Paraguay,3.81
+1971,Paraguay,3.81
+1972,Paraguay,3.81
+1973,Paraguay,3.81
+1974,Paraguay,3.81
+1975,Paraguay,4.35
+1976,Paraguay,4.35
+1977,Paraguay,4.35
+1978,Paraguay,4.35
+1979,Paraguay,4.35
+1980,Paraguay,4.93
+1981,Paraguay,4.93
+1982,Paraguay,4.93
+1983,Paraguay,4.93
+1984,Paraguay,4.93
+1985,Paraguay,5.56
+1986,Paraguay,5.56
+1987,Paraguay,5.56
+1988,Paraguay,5.56
+1989,Paraguay,5.56
+1990,Paraguay,5.97
+1991,Paraguay,5.97
+1992,Paraguay,5.97
+1993,Paraguay,5.97
+1994,Paraguay,5.97
+1995,Paraguay,6.14
+1996,Paraguay,6.14
+1997,Paraguay,6.14
+1998,Paraguay,6.14
+1999,Paraguay,6.14
+2000,Paraguay,6.07
+2001,Paraguay,6.07
+2002,Paraguay,6.07
+2003,Paraguay,6.07
+2004,Paraguay,6.07
+2005,Paraguay,7.46
+2006,Paraguay,7.46
+2007,Paraguay,7.46
+2008,Paraguay,7.46
+2009,Paraguay,7.46
+2010,Paraguay,7.53
+1950,Peru,2.21
+1951,Peru,2.21
+1952,Peru,2.21
+1953,Peru,2.21
+1954,Peru,2.21
+1955,Peru,2.36
+1956,Peru,2.36
+1957,Peru,2.36
+1958,Peru,2.36
+1959,Peru,2.36
+1960,Peru,2.58
+1961,Peru,2.58
+1962,Peru,2.58
+1963,Peru,2.58
+1964,Peru,2.58
+1965,Peru,3.02
+1966,Peru,3.02
+1967,Peru,3.02
+1968,Peru,3.02
+1969,Peru,3.02
+1970,Peru,3.65
+1971,Peru,3.65
+1972,Peru,3.65
+1973,Peru,3.65
+1974,Peru,3.65
+1975,Peru,4.55
+1976,Peru,4.55
+1977,Peru,4.55
+1978,Peru,4.55
+1979,Peru,4.55
+1980,Peru,5.35
+1981,Peru,5.35
+1982,Peru,5.35
+1983,Peru,5.35
+1984,Peru,5.35
+1985,Peru,6.04
+1986,Peru,6.04
+1987,Peru,6.04
+1988,Peru,6.04
+1989,Peru,6.04
+1990,Peru,6.68
+1991,Peru,6.68
+1992,Peru,6.68
+1993,Peru,6.68
+1994,Peru,6.68
+1995,Peru,7.41
+1996,Peru,7.41
+1997,Peru,7.41
+1998,Peru,7.41
+1999,Peru,7.41
+2000,Peru,8.28
+2001,Peru,8.28
+2002,Peru,8.28
+2003,Peru,8.28
+2004,Peru,8.28
+2005,Peru,9.04
+2006,Peru,9.04
+2007,Peru,9.04
+2008,Peru,9.04
+2009,Peru,9.04
+2010,Peru,8.41
+1950,Philippines,1.9
+1951,Philippines,1.9
+1952,Philippines,1.9
+1953,Philippines,1.9
+1954,Philippines,1.9
+1955,Philippines,2.8
+1956,Philippines,2.8
+1957,Philippines,2.8
+1958,Philippines,2.8
+1959,Philippines,2.8
+1960,Philippines,3.19
+1961,Philippines,3.19
+1962,Philippines,3.19
+1963,Philippines,3.19
+1964,Philippines,3.19
+1965,Philippines,3.65
+1966,Philippines,3.65
+1967,Philippines,3.65
+1968,Philippines,3.65
+1969,Philippines,3.65
+1970,Philippines,4.46
+1971,Philippines,4.46
+1972,Philippines,4.46
+1973,Philippines,4.46
+1974,Philippines,4.46
+1975,Philippines,5.36
+1976,Philippines,5.36
+1977,Philippines,5.36
+1978,Philippines,5.36
+1979,Philippines,5.36
+1980,Philippines,6.12
+1981,Philippines,6.12
+1982,Philippines,6.12
+1983,Philippines,6.12
+1984,Philippines,6.12
+1985,Philippines,6.59
+1986,Philippines,6.59
+1987,Philippines,6.59
+1988,Philippines,6.59
+1989,Philippines,6.59
+1990,Philippines,7.19
+1991,Philippines,7.19
+1992,Philippines,7.19
+1993,Philippines,7.19
+1994,Philippines,7.19
+1995,Philippines,7.62
+1996,Philippines,7.62
+1997,Philippines,7.62
+1998,Philippines,7.62
+1999,Philippines,7.62
+2000,Philippines,8.03
+2001,Philippines,8.03
+2002,Philippines,8.03
+2003,Philippines,8.03
+2004,Philippines,8.03
+2005,Philippines,8.4
+2006,Philippines,8.4
+2007,Philippines,8.4
+2008,Philippines,8.4
+2009,Philippines,8.4
+2010,Philippines,8.72
+1950,Poland,5.09
+1951,Poland,5.09
+1952,Poland,5.09
+1953,Poland,5.09
+1954,Poland,5.09
+1955,Poland,5.33
+1956,Poland,5.33
+1957,Poland,5.33
+1958,Poland,5.33
+1959,Poland,5.33
+1960,Poland,5.74
+1961,Poland,5.74
+1962,Poland,5.74
+1963,Poland,5.74
+1964,Poland,5.74
+1965,Poland,6.41
+1966,Poland,6.41
+1967,Poland,6.41
+1968,Poland,6.41
+1969,Poland,6.41
+1970,Poland,7.03
+1971,Poland,7.03
+1972,Poland,7.03
+1973,Poland,7.03
+1974,Poland,7.03
+1975,Poland,7.59
+1976,Poland,7.59
+1977,Poland,7.59
+1978,Poland,7.59
+1979,Poland,7.59
+1980,Poland,7.85
+1981,Poland,7.85
+1982,Poland,7.85
+1983,Poland,7.85
+1984,Poland,7.85
+1985,Poland,8.31
+1986,Poland,8.31
+1987,Poland,8.31
+1988,Poland,8.31
+1989,Poland,8.31
+1990,Poland,9.3
+1991,Poland,9.3
+1992,Poland,9.3
+1993,Poland,9.3
+1994,Poland,9.3
+1995,Poland,9.64
+1996,Poland,9.64
+1997,Poland,9.64
+1998,Poland,9.64
+1999,Poland,9.64
+2000,Poland,10.12
+2001,Poland,10.12
+2002,Poland,10.12
+2003,Poland,10.12
+2004,Poland,10.12
+2005,Poland,10.84
+2006,Poland,10.84
+2007,Poland,10.84
+2008,Poland,10.84
+2009,Poland,10.84
+2010,Poland,11.24
+1950,Portugal,1.66
+1951,Portugal,1.66
+1952,Portugal,1.66
+1953,Portugal,1.66
+1954,Portugal,1.66
+1955,Portugal,1.81
+1956,Portugal,1.81
+1957,Portugal,1.81
+1958,Portugal,1.81
+1959,Portugal,1.81
+1960,Portugal,2.02
+1961,Portugal,2.02
+1962,Portugal,2.02
+1963,Portugal,2.02
+1964,Portugal,2.02
+1965,Portugal,2.03
+1966,Portugal,2.03
+1967,Portugal,2.03
+1968,Portugal,2.03
+1969,Portugal,2.03
+1970,Portugal,2.44
+1971,Portugal,2.44
+1972,Portugal,2.44
+1973,Portugal,2.44
+1974,Portugal,2.44
+1975,Portugal,3.29
+1976,Portugal,3.29
+1977,Portugal,3.29
+1978,Portugal,3.29
+1979,Portugal,3.29
+1980,Portugal,4.27
+1981,Portugal,4.27
+1982,Portugal,4.27
+1983,Portugal,4.27
+1984,Portugal,4.27
+1985,Portugal,4.95
+1986,Portugal,4.95
+1987,Portugal,4.95
+1988,Portugal,4.95
+1989,Portugal,4.95
+1990,Portugal,5.63
+1991,Portugal,5.63
+1992,Portugal,5.63
+1993,Portugal,5.63
+1994,Portugal,5.63
+1995,Portugal,6.4
+1996,Portugal,6.4
+1997,Portugal,6.4
+1998,Portugal,6.4
+1999,Portugal,6.4
+2000,Portugal,7.16
+2001,Portugal,7.16
+2002,Portugal,7.16
+2003,Portugal,7.16
+2004,Portugal,7.16
+2005,Portugal,6.85
+2006,Portugal,6.85
+2007,Portugal,6.85
+2008,Portugal,6.85
+2009,Portugal,6.85
+2010,Portugal,7.42
+1950,Qatar,1.1
+1951,Qatar,1.1
+1952,Qatar,1.1
+1953,Qatar,1.1
+1954,Qatar,1.1
+1955,Qatar,1.6
+1956,Qatar,1.6
+1957,Qatar,1.6
+1958,Qatar,1.6
+1959,Qatar,1.6
+1960,Qatar,1.9
+1961,Qatar,1.9
+1962,Qatar,1.9
+1963,Qatar,1.9
+1964,Qatar,1.9
+1965,Qatar,2.25
+1966,Qatar,2.25
+1967,Qatar,2.25
+1968,Qatar,2.25
+1969,Qatar,2.25
+1970,Qatar,3.0
+1971,Qatar,3.0
+1972,Qatar,3.0
+1973,Qatar,3.0
+1974,Qatar,3.0
+1975,Qatar,3.79
+1976,Qatar,3.79
+1977,Qatar,3.79
+1978,Qatar,3.79
+1979,Qatar,3.79
+1980,Qatar,4.85
+1981,Qatar,4.85
+1982,Qatar,4.85
+1983,Qatar,4.85
+1984,Qatar,4.85
+1985,Qatar,5.64
+1986,Qatar,5.64
+1987,Qatar,5.64
+1988,Qatar,5.64
+1989,Qatar,5.64
+1990,Qatar,6.21
+1991,Qatar,6.21
+1992,Qatar,6.21
+1993,Qatar,6.21
+1994,Qatar,6.21
+1995,Qatar,6.83
+1996,Qatar,6.83
+1997,Qatar,6.83
+1998,Qatar,6.83
+1999,Qatar,6.83
+2000,Qatar,7.41
+2001,Qatar,7.41
+2002,Qatar,7.41
+2003,Qatar,7.41
+2004,Qatar,7.41
+2005,Qatar,8.08
+2006,Qatar,8.08
+2007,Qatar,8.08
+2008,Qatar,8.08
+2009,Qatar,8.08
+2010,Qatar,9.55
+1950,Republic of Korea,3.56
+1951,Republic of Korea,3.56
+1952,Republic of Korea,3.56
+1953,Republic of Korea,3.56
+1954,Republic of Korea,3.56
+1955,Republic of Korea,3.98
+1956,Republic of Korea,3.98
+1957,Republic of Korea,3.98
+1958,Republic of Korea,3.98
+1959,Republic of Korea,3.98
+1960,Republic of Korea,2.96
+1961,Republic of Korea,2.96
+1962,Republic of Korea,2.96
+1963,Republic of Korea,2.96
+1964,Republic of Korea,2.96
+1965,Republic of Korea,4.18
+1966,Republic of Korea,4.18
+1967,Republic of Korea,4.18
+1968,Republic of Korea,4.18
+1969,Republic of Korea,4.18
+1970,Republic of Korea,5.08
+1971,Republic of Korea,5.08
+1972,Republic of Korea,5.08
+1973,Republic of Korea,5.08
+1974,Republic of Korea,5.08
+1975,Republic of Korea,6.1
+1976,Republic of Korea,6.1
+1977,Republic of Korea,6.1
+1978,Republic of Korea,6.1
+1979,Republic of Korea,6.1
+1980,Republic of Korea,7.13
+1981,Republic of Korea,7.13
+1982,Republic of Korea,7.13
+1983,Republic of Korea,7.13
+1984,Republic of Korea,7.13
+1985,Republic of Korea,8.0
+1986,Republic of Korea,8.0
+1987,Republic of Korea,8.0
+1988,Republic of Korea,8.0
+1989,Republic of Korea,8.0
+1990,Republic of Korea,8.92
+1991,Republic of Korea,8.92
+1992,Republic of Korea,8.92
+1993,Republic of Korea,8.92
+1994,Republic of Korea,8.92
+1995,Republic of Korea,9.64
+1996,Republic of Korea,9.64
+1997,Republic of Korea,9.64
+1998,Republic of Korea,9.64
+1999,Republic of Korea,9.64
+2000,Republic of Korea,10.23
+2001,Republic of Korea,10.23
+2002,Republic of Korea,10.23
+2003,Republic of Korea,10.23
+2004,Republic of Korea,10.23
+2005,Republic of Korea,10.81
+2006,Republic of Korea,10.81
+2007,Republic of Korea,10.81
+2008,Republic of Korea,10.81
+2009,Republic of Korea,10.81
+2010,Republic of Korea,11.45
+1950,Republic of Moldova,2.82
+1951,Republic of Moldova,2.82
+1952,Republic of Moldova,2.82
+1953,Republic of Moldova,2.82
+1954,Republic of Moldova,2.82
+1955,Republic of Moldova,3.25
+1956,Republic of Moldova,3.25
+1957,Republic of Moldova,3.25
+1958,Republic of Moldova,3.25
+1959,Republic of Moldova,3.25
+1960,Republic of Moldova,3.8
+1961,Republic of Moldova,3.8
+1962,Republic of Moldova,3.8
+1963,Republic of Moldova,3.8
+1964,Republic of Moldova,3.8
+1965,Republic of Moldova,4.31
+1966,Republic of Moldova,4.31
+1967,Republic of Moldova,4.31
+1968,Republic of Moldova,4.31
+1969,Republic of Moldova,4.31
+1970,Republic of Moldova,5.17
+1971,Republic of Moldova,5.17
+1972,Republic of Moldova,5.17
+1973,Republic of Moldova,5.17
+1974,Republic of Moldova,5.17
+1975,Republic of Moldova,6.01
+1976,Republic of Moldova,6.01
+1977,Republic of Moldova,6.01
+1978,Republic of Moldova,6.01
+1979,Republic of Moldova,6.01
+1980,Republic of Moldova,6.78
+1981,Republic of Moldova,6.78
+1982,Republic of Moldova,6.78
+1983,Republic of Moldova,6.78
+1984,Republic of Moldova,6.78
+1985,Republic of Moldova,7.48
+1986,Republic of Moldova,7.48
+1987,Republic of Moldova,7.48
+1988,Republic of Moldova,7.48
+1989,Republic of Moldova,7.48
+1990,Republic of Moldova,8.08
+1991,Republic of Moldova,8.08
+1992,Republic of Moldova,8.08
+1993,Republic of Moldova,8.08
+1994,Republic of Moldova,8.08
+1995,Republic of Moldova,8.59
+1996,Republic of Moldova,8.59
+1997,Republic of Moldova,8.59
+1998,Republic of Moldova,8.59
+1999,Republic of Moldova,8.59
+2000,Republic of Moldova,8.97
+2001,Republic of Moldova,8.97
+2002,Republic of Moldova,8.97
+2003,Republic of Moldova,8.97
+2004,Republic of Moldova,8.97
+2005,Republic of Moldova,9.42
+2006,Republic of Moldova,9.42
+2007,Republic of Moldova,9.42
+2008,Republic of Moldova,9.42
+2009,Republic of Moldova,9.42
+2010,Republic of Moldova,10.36
+1950,Reunion,2.91
+1951,Reunion,2.91
+1952,Reunion,2.91
+1953,Reunion,2.91
+1954,Reunion,2.91
+1955,Reunion,2.85
+1956,Reunion,2.85
+1957,Reunion,2.85
+1958,Reunion,2.85
+1959,Reunion,2.85
+1960,Reunion,2.86
+1961,Reunion,2.86
+1962,Reunion,2.86
+1963,Reunion,2.86
+1964,Reunion,2.86
+1965,Reunion,2.99
+1966,Reunion,2.99
+1967,Reunion,2.99
+1968,Reunion,2.99
+1969,Reunion,2.99
+1970,Reunion,3.58
+1971,Reunion,3.58
+1972,Reunion,3.58
+1973,Reunion,3.58
+1974,Reunion,3.58
+1975,Reunion,4.44
+1976,Reunion,4.44
+1977,Reunion,4.44
+1978,Reunion,4.44
+1979,Reunion,4.44
+1980,Reunion,5.27
+1981,Reunion,5.27
+1982,Reunion,5.27
+1983,Reunion,5.27
+1984,Reunion,5.27
+1985,Reunion,5.96
+1986,Reunion,5.96
+1987,Reunion,5.96
+1988,Reunion,5.96
+1989,Reunion,5.96
+1990,Reunion,6.64
+1991,Reunion,6.64
+1992,Reunion,6.64
+1993,Reunion,6.64
+1994,Reunion,6.64
+1995,Reunion,7.11
+1996,Reunion,7.11
+1997,Reunion,7.11
+1998,Reunion,7.11
+1999,Reunion,7.11
+2000,Reunion,7.48
+2001,Reunion,7.48
+2002,Reunion,7.48
+2003,Reunion,7.48
+2004,Reunion,7.48
+2005,Reunion,7.79
+2006,Reunion,7.79
+2007,Reunion,7.79
+2008,Reunion,7.79
+2009,Reunion,7.79
+2010,Reunion,8.28
+1950,Romania,3.93
+1951,Romania,3.93
+1952,Romania,3.93
+1953,Romania,3.93
+1954,Romania,3.93
+1955,Romania,4.21
+1956,Romania,4.21
+1957,Romania,4.21
+1958,Romania,4.21
+1959,Romania,4.21
+1960,Romania,4.66
+1961,Romania,4.66
+1962,Romania,4.66
+1963,Romania,4.66
+1964,Romania,4.66
+1965,Romania,5.09
+1966,Romania,5.09
+1967,Romania,5.09
+1968,Romania,5.09
+1969,Romania,5.09
+1970,Romania,5.86
+1971,Romania,5.86
+1972,Romania,5.86
+1973,Romania,5.86
+1974,Romania,5.86
+1975,Romania,6.76
+1976,Romania,6.76
+1977,Romania,6.76
+1978,Romania,6.76
+1979,Romania,6.76
+1980,Romania,7.44
+1981,Romania,7.44
+1982,Romania,7.44
+1983,Romania,7.44
+1984,Romania,7.44
+1985,Romania,8.16
+1986,Romania,8.16
+1987,Romania,8.16
+1988,Romania,8.16
+1989,Romania,8.16
+1990,Romania,8.77
+1991,Romania,8.77
+1992,Romania,8.77
+1993,Romania,8.77
+1994,Romania,8.77
+1995,Romania,9.23
+1996,Romania,9.23
+1997,Romania,9.23
+1998,Romania,9.23
+1999,Romania,9.23
+2000,Romania,9.66
+2001,Romania,9.66
+2002,Romania,9.66
+2003,Romania,9.66
+2004,Romania,9.66
+2005,Romania,9.98
+2006,Romania,9.98
+2007,Romania,9.98
+2008,Romania,9.98
+2009,Romania,9.98
+2010,Romania,10.38
+1950,Russian Federation,3.42
+1951,Russian Federation,3.42
+1952,Russian Federation,3.42
+1953,Russian Federation,3.42
+1954,Russian Federation,3.42
+1955,Russian Federation,4.01
+1956,Russian Federation,4.01
+1957,Russian Federation,4.01
+1958,Russian Federation,4.01
+1959,Russian Federation,4.01
+1960,Russian Federation,4.24
+1961,Russian Federation,4.24
+1962,Russian Federation,4.24
+1963,Russian Federation,4.24
+1964,Russian Federation,4.24
+1965,Russian Federation,4.74
+1966,Russian Federation,4.74
+1967,Russian Federation,4.74
+1968,Russian Federation,4.74
+1969,Russian Federation,4.74
+1970,Russian Federation,5.35
+1971,Russian Federation,5.35
+1972,Russian Federation,5.35
+1973,Russian Federation,5.35
+1974,Russian Federation,5.35
+1975,Russian Federation,6.1
+1976,Russian Federation,6.1
+1977,Russian Federation,6.1
+1978,Russian Federation,6.1
+1979,Russian Federation,6.1
+1980,Russian Federation,7.02
+1981,Russian Federation,7.02
+1982,Russian Federation,7.02
+1983,Russian Federation,7.02
+1984,Russian Federation,7.02
+1985,Russian Federation,8.02
+1986,Russian Federation,8.02
+1987,Russian Federation,8.02
+1988,Russian Federation,8.02
+1989,Russian Federation,8.02
+1990,Russian Federation,8.93
+1991,Russian Federation,8.93
+1992,Russian Federation,8.93
+1993,Russian Federation,8.93
+1994,Russian Federation,8.93
+1995,Russian Federation,9.67
+1996,Russian Federation,9.67
+1997,Russian Federation,9.67
+1998,Russian Federation,9.67
+1999,Russian Federation,9.67
+2000,Russian Federation,10.71
+2001,Russian Federation,10.71
+2002,Russian Federation,10.71
+2003,Russian Federation,10.71
+2004,Russian Federation,10.71
+2005,Russian Federation,11.05
+2006,Russian Federation,11.05
+2007,Russian Federation,11.05
+2008,Russian Federation,11.05
+2009,Russian Federation,11.05
+2010,Russian Federation,11.4
+1950,Rwanda,0.18
+1951,Rwanda,0.18
+1952,Rwanda,0.18
+1953,Rwanda,0.18
+1954,Rwanda,0.18
+1955,Rwanda,0.21
+1956,Rwanda,0.21
+1957,Rwanda,0.21
+1958,Rwanda,0.21
+1959,Rwanda,0.21
+1960,Rwanda,0.32
+1961,Rwanda,0.32
+1962,Rwanda,0.32
+1963,Rwanda,0.32
+1964,Rwanda,0.32
+1965,Rwanda,0.4
+1966,Rwanda,0.4
+1967,Rwanda,0.4
+1968,Rwanda,0.4
+1969,Rwanda,0.4
+1970,Rwanda,0.6
+1971,Rwanda,0.6
+1972,Rwanda,0.6
+1973,Rwanda,0.6
+1974,Rwanda,0.6
+1975,Rwanda,0.86
+1976,Rwanda,0.86
+1977,Rwanda,0.86
+1978,Rwanda,0.86
+1979,Rwanda,0.86
+1980,Rwanda,1.14
+1981,Rwanda,1.14
+1982,Rwanda,1.14
+1983,Rwanda,1.14
+1984,Rwanda,1.14
+1985,Rwanda,1.41
+1986,Rwanda,1.41
+1987,Rwanda,1.41
+1988,Rwanda,1.41
+1989,Rwanda,1.41
+1990,Rwanda,1.81
+1991,Rwanda,1.81
+1992,Rwanda,1.81
+1993,Rwanda,1.81
+1994,Rwanda,1.81
+1995,Rwanda,2.37
+1996,Rwanda,2.37
+1997,Rwanda,2.37
+1998,Rwanda,2.37
+1999,Rwanda,2.37
+2000,Rwanda,2.97
+2001,Rwanda,2.97
+2002,Rwanda,2.97
+2003,Rwanda,2.97
+2004,Rwanda,2.97
+2005,Rwanda,3.61
+2006,Rwanda,3.61
+2007,Rwanda,3.61
+2008,Rwanda,3.61
+2009,Rwanda,3.61
+2010,Rwanda,4.25
+1950,Saudi Arabia,1.05
+1951,Saudi Arabia,1.05
+1952,Saudi Arabia,1.05
+1953,Saudi Arabia,1.05
+1954,Saudi Arabia,1.05
+1955,Saudi Arabia,1.15
+1956,Saudi Arabia,1.15
+1957,Saudi Arabia,1.15
+1958,Saudi Arabia,1.15
+1959,Saudi Arabia,1.15
+1960,Saudi Arabia,1.24
+1961,Saudi Arabia,1.24
+1962,Saudi Arabia,1.24
+1963,Saudi Arabia,1.24
+1964,Saudi Arabia,1.24
+1965,Saudi Arabia,1.51
+1966,Saudi Arabia,1.51
+1967,Saudi Arabia,1.51
+1968,Saudi Arabia,1.51
+1969,Saudi Arabia,1.51
+1970,Saudi Arabia,1.58
+1971,Saudi Arabia,1.58
+1972,Saudi Arabia,1.58
+1973,Saudi Arabia,1.58
+1974,Saudi Arabia,1.58
+1975,Saudi Arabia,2.04
+1976,Saudi Arabia,2.04
+1977,Saudi Arabia,2.04
+1978,Saudi Arabia,2.04
+1979,Saudi Arabia,2.04
+1980,Saudi Arabia,2.44
+1981,Saudi Arabia,2.44
+1982,Saudi Arabia,2.44
+1983,Saudi Arabia,2.44
+1984,Saudi Arabia,2.44
+1985,Saudi Arabia,3.42
+1986,Saudi Arabia,3.42
+1987,Saudi Arabia,3.42
+1988,Saudi Arabia,3.42
+1989,Saudi Arabia,3.42
+1990,Saudi Arabia,4.47
+1991,Saudi Arabia,4.47
+1992,Saudi Arabia,4.47
+1993,Saudi Arabia,4.47
+1994,Saudi Arabia,4.47
+1995,Saudi Arabia,5.14
+1996,Saudi Arabia,5.14
+1997,Saudi Arabia,5.14
+1998,Saudi Arabia,5.14
+1999,Saudi Arabia,5.14
+2000,Saudi Arabia,6.24
+2001,Saudi Arabia,6.24
+2002,Saudi Arabia,6.24
+2003,Saudi Arabia,6.24
+2004,Saudi Arabia,6.24
+2005,Saudi Arabia,7.23
+2006,Saudi Arabia,7.23
+2007,Saudi Arabia,7.23
+2008,Saudi Arabia,7.23
+2009,Saudi Arabia,7.23
+2010,Saudi Arabia,8.22
+1950,Senegal,1.01
+1951,Senegal,1.01
+1952,Senegal,1.01
+1953,Senegal,1.01
+1954,Senegal,1.01
+1955,Senegal,1.07
+1956,Senegal,1.07
+1957,Senegal,1.07
+1958,Senegal,1.07
+1959,Senegal,1.07
+1960,Senegal,1.24
+1961,Senegal,1.24
+1962,Senegal,1.24
+1963,Senegal,1.24
+1964,Senegal,1.24
+1965,Senegal,1.32
+1966,Senegal,1.32
+1967,Senegal,1.32
+1968,Senegal,1.32
+1969,Senegal,1.32
+1970,Senegal,1.48
+1971,Senegal,1.48
+1972,Senegal,1.48
+1973,Senegal,1.48
+1974,Senegal,1.48
+1975,Senegal,1.62
+1976,Senegal,1.62
+1977,Senegal,1.62
+1978,Senegal,1.62
+1979,Senegal,1.62
+1980,Senegal,1.68
+1981,Senegal,1.68
+1982,Senegal,1.68
+1983,Senegal,1.68
+1984,Senegal,1.68
+1985,Senegal,1.66
+1986,Senegal,1.66
+1987,Senegal,1.66
+1988,Senegal,1.66
+1989,Senegal,1.66
+1990,Senegal,1.6
+1991,Senegal,1.6
+1992,Senegal,1.6
+1993,Senegal,1.6
+1994,Senegal,1.6
+1995,Senegal,1.54
+1996,Senegal,1.54
+1997,Senegal,1.54
+1998,Senegal,1.54
+1999,Senegal,1.54
+2000,Senegal,1.38
+2001,Senegal,1.38
+2002,Senegal,1.38
+2003,Senegal,1.38
+2004,Senegal,1.38
+2005,Senegal,1.18
+2006,Senegal,1.18
+2007,Senegal,1.18
+2008,Senegal,1.18
+2009,Senegal,1.18
+2010,Senegal,2.18
+1950,Serbia,3.26
+1951,Serbia,3.26
+1952,Serbia,3.26
+1953,Serbia,3.26
+1954,Serbia,3.26
+1955,Serbia,3.54
+1956,Serbia,3.54
+1957,Serbia,3.54
+1958,Serbia,3.54
+1959,Serbia,3.54
+1960,Serbia,3.98
+1961,Serbia,3.98
+1962,Serbia,3.98
+1963,Serbia,3.98
+1964,Serbia,3.98
+1965,Serbia,4.32
+1966,Serbia,4.32
+1967,Serbia,4.32
+1968,Serbia,4.32
+1969,Serbia,4.32
+1970,Serbia,4.9
+1971,Serbia,4.9
+1972,Serbia,4.9
+1973,Serbia,4.9
+1974,Serbia,4.9
+1975,Serbia,5.64
+1976,Serbia,5.64
+1977,Serbia,5.64
+1978,Serbia,5.64
+1979,Serbia,5.64
+1980,Serbia,6.22
+1981,Serbia,6.22
+1982,Serbia,6.22
+1983,Serbia,6.22
+1984,Serbia,6.22
+1985,Serbia,6.85
+1986,Serbia,6.85
+1987,Serbia,6.85
+1988,Serbia,6.85
+1989,Serbia,6.85
+1990,Serbia,7.24
+1991,Serbia,7.24
+1992,Serbia,7.24
+1993,Serbia,7.24
+1994,Serbia,7.24
+1995,Serbia,7.98
+1996,Serbia,7.98
+1997,Serbia,7.98
+1998,Serbia,7.98
+1999,Serbia,7.98
+2000,Serbia,8.47
+2001,Serbia,8.47
+2002,Serbia,8.47
+2003,Serbia,8.47
+2004,Serbia,8.47
+2005,Serbia,9.62
+2006,Serbia,9.62
+2007,Serbia,9.62
+2008,Serbia,9.62
+2009,Serbia,9.62
+2010,Serbia,10.39
+1950,Sierra Leone,0.28
+1951,Sierra Leone,0.28
+1952,Sierra Leone,0.28
+1953,Sierra Leone,0.28
+1954,Sierra Leone,0.28
+1955,Sierra Leone,0.29
+1956,Sierra Leone,0.29
+1957,Sierra Leone,0.29
+1958,Sierra Leone,0.29
+1959,Sierra Leone,0.29
+1960,Sierra Leone,0.31
+1961,Sierra Leone,0.31
+1962,Sierra Leone,0.31
+1963,Sierra Leone,0.31
+1964,Sierra Leone,0.31
+1965,Sierra Leone,0.39
+1966,Sierra Leone,0.39
+1967,Sierra Leone,0.39
+1968,Sierra Leone,0.39
+1969,Sierra Leone,0.39
+1970,Sierra Leone,0.48
+1971,Sierra Leone,0.48
+1972,Sierra Leone,0.48
+1973,Sierra Leone,0.48
+1974,Sierra Leone,0.48
+1975,Sierra Leone,0.65
+1976,Sierra Leone,0.65
+1977,Sierra Leone,0.65
+1978,Sierra Leone,0.65
+1979,Sierra Leone,0.65
+1980,Sierra Leone,0.85
+1981,Sierra Leone,0.85
+1982,Sierra Leone,0.85
+1983,Sierra Leone,0.85
+1984,Sierra Leone,0.85
+1985,Sierra Leone,1.08
+1986,Sierra Leone,1.08
+1987,Sierra Leone,1.08
+1988,Sierra Leone,1.08
+1989,Sierra Leone,1.08
+1990,Sierra Leone,1.4
+1991,Sierra Leone,1.4
+1992,Sierra Leone,1.4
+1993,Sierra Leone,1.4
+1994,Sierra Leone,1.4
+1995,Sierra Leone,1.66
+1996,Sierra Leone,1.66
+1997,Sierra Leone,1.66
+1998,Sierra Leone,1.66
+1999,Sierra Leone,1.66
+2000,Sierra Leone,1.95
+2001,Sierra Leone,1.95
+2002,Sierra Leone,1.95
+2003,Sierra Leone,1.95
+2004,Sierra Leone,1.95
+2005,Sierra Leone,2.35
+2006,Sierra Leone,2.35
+2007,Sierra Leone,2.35
+2008,Sierra Leone,2.35
+2009,Sierra Leone,2.35
+2010,Sierra Leone,3.34
+1950,Singapore,1.49
+1951,Singapore,1.49
+1952,Singapore,1.49
+1953,Singapore,1.49
+1954,Singapore,1.49
+1955,Singapore,1.83
+1956,Singapore,1.83
+1957,Singapore,1.83
+1958,Singapore,1.83
+1959,Singapore,1.83
+1960,Singapore,2.44
+1961,Singapore,2.44
+1962,Singapore,2.44
+1963,Singapore,2.44
+1964,Singapore,2.44
+1965,Singapore,3.14
+1966,Singapore,3.14
+1967,Singapore,3.14
+1968,Singapore,3.14
+1969,Singapore,3.14
+1970,Singapore,4.15
+1971,Singapore,4.15
+1972,Singapore,4.15
+1973,Singapore,4.15
+1974,Singapore,4.15
+1975,Singapore,4.3
+1976,Singapore,4.3
+1977,Singapore,4.3
+1978,Singapore,4.3
+1979,Singapore,4.3
+1980,Singapore,4.65
+1981,Singapore,4.65
+1982,Singapore,4.65
+1983,Singapore,4.65
+1984,Singapore,4.65
+1985,Singapore,5.49
+1986,Singapore,5.49
+1987,Singapore,5.49
+1988,Singapore,5.49
+1989,Singapore,5.49
+1990,Singapore,6.35
+1991,Singapore,6.35
+1992,Singapore,6.35
+1993,Singapore,6.35
+1994,Singapore,6.35
+1995,Singapore,7.57
+1996,Singapore,7.57
+1997,Singapore,7.57
+1998,Singapore,7.57
+1999,Singapore,7.57
+2000,Singapore,8.61
+2001,Singapore,8.61
+2002,Singapore,8.61
+2003,Singapore,8.61
+2004,Singapore,8.61
+2005,Singapore,8.17
+2006,Singapore,8.17
+2007,Singapore,8.17
+2008,Singapore,8.17
+2009,Singapore,8.17
+2010,Singapore,10.34
+1950,Slovakia,7.69
+1951,Slovakia,7.69
+1952,Slovakia,7.69
+1953,Slovakia,7.69
+1954,Slovakia,7.69
+1955,Slovakia,7.85
+1956,Slovakia,7.85
+1957,Slovakia,7.85
+1958,Slovakia,7.85
+1959,Slovakia,7.85
+1960,Slovakia,8.03
+1961,Slovakia,8.03
+1962,Slovakia,8.03
+1963,Slovakia,8.03
+1964,Slovakia,8.03
+1965,Slovakia,8.45
+1966,Slovakia,8.45
+1967,Slovakia,8.45
+1968,Slovakia,8.45
+1969,Slovakia,8.45
+1970,Slovakia,8.87
+1971,Slovakia,8.87
+1972,Slovakia,8.87
+1973,Slovakia,8.87
+1974,Slovakia,8.87
+1975,Slovakia,9.28
+1976,Slovakia,9.28
+1977,Slovakia,9.28
+1978,Slovakia,9.28
+1979,Slovakia,9.28
+1980,Slovakia,9.6
+1981,Slovakia,9.6
+1982,Slovakia,9.6
+1983,Slovakia,9.6
+1984,Slovakia,9.6
+1985,Slovakia,9.83
+1986,Slovakia,9.83
+1987,Slovakia,9.83
+1988,Slovakia,9.83
+1989,Slovakia,9.83
+1990,Slovakia,10.22
+1991,Slovakia,10.22
+1992,Slovakia,10.22
+1993,Slovakia,10.22
+1994,Slovakia,10.22
+1995,Slovakia,10.8
+1996,Slovakia,10.8
+1997,Slovakia,10.8
+1998,Slovakia,10.8
+1999,Slovakia,10.8
+2000,Slovakia,10.86
+2001,Slovakia,10.86
+2002,Slovakia,10.86
+2003,Slovakia,10.86
+2004,Slovakia,10.86
+2005,Slovakia,12.07
+2006,Slovakia,12.07
+2007,Slovakia,12.07
+2008,Slovakia,12.07
+2009,Slovakia,12.07
+2010,Slovakia,12.77
+1950,Slovenia,5.04
+1951,Slovenia,5.04
+1952,Slovenia,5.04
+1953,Slovenia,5.04
+1954,Slovenia,5.04
+1955,Slovenia,5.4
+1956,Slovenia,5.4
+1957,Slovenia,5.4
+1958,Slovenia,5.4
+1959,Slovenia,5.4
+1960,Slovenia,5.58
+1961,Slovenia,5.58
+1962,Slovenia,5.58
+1963,Slovenia,5.58
+1964,Slovenia,5.58
+1965,Slovenia,6.45
+1966,Slovenia,6.45
+1967,Slovenia,6.45
+1968,Slovenia,6.45
+1969,Slovenia,6.45
+1970,Slovenia,7.25
+1971,Slovenia,7.25
+1972,Slovenia,7.25
+1973,Slovenia,7.25
+1974,Slovenia,7.25
+1975,Slovenia,7.92
+1976,Slovenia,7.92
+1977,Slovenia,7.92
+1978,Slovenia,7.92
+1979,Slovenia,7.92
+1980,Slovenia,8.39
+1981,Slovenia,8.39
+1982,Slovenia,8.39
+1983,Slovenia,8.39
+1984,Slovenia,8.39
+1985,Slovenia,9.58
+1986,Slovenia,9.58
+1987,Slovenia,9.58
+1988,Slovenia,9.58
+1989,Slovenia,9.58
+1990,Slovenia,10.57
+1991,Slovenia,10.57
+1992,Slovenia,10.57
+1993,Slovenia,10.57
+1994,Slovenia,10.57
+1995,Slovenia,10.87
+1996,Slovenia,10.87
+1997,Slovenia,10.87
+1998,Slovenia,10.87
+1999,Slovenia,10.87
+2000,Slovenia,11.19
+2001,Slovenia,11.19
+2002,Slovenia,11.19
+2003,Slovenia,11.19
+2004,Slovenia,11.19
+2005,Slovenia,11.53
+2006,Slovenia,11.53
+2007,Slovenia,11.53
+2008,Slovenia,11.53
+2009,Slovenia,11.53
+2010,Slovenia,11.9
+1950,South Africa,3.98
+1951,South Africa,3.98
+1952,South Africa,3.98
+1953,South Africa,3.98
+1954,South Africa,3.98
+1955,South Africa,4.31
+1956,South Africa,4.31
+1957,South Africa,4.31
+1958,South Africa,4.31
+1959,South Africa,4.31
+1960,South Africa,4.41
+1961,South Africa,4.41
+1962,South Africa,4.41
+1963,South Africa,4.41
+1964,South Africa,4.41
+1965,South Africa,4.44
+1966,South Africa,4.44
+1967,South Africa,4.44
+1968,South Africa,4.44
+1969,South Africa,4.44
+1970,South Africa,4.59
+1971,South Africa,4.59
+1972,South Africa,4.59
+1973,South Africa,4.59
+1974,South Africa,4.59
+1975,South Africa,4.72
+1976,South Africa,4.72
+1977,South Africa,4.72
+1978,South Africa,4.72
+1979,South Africa,4.72
+1980,South Africa,4.84
+1981,South Africa,4.84
+1982,South Africa,4.84
+1983,South Africa,4.84
+1984,South Africa,4.84
+1985,South Africa,5.01
+1986,South Africa,5.01
+1987,South Africa,5.01
+1988,South Africa,5.01
+1989,South Africa,5.01
+1990,South Africa,6.68
+1991,South Africa,6.68
+1992,South Africa,6.68
+1993,South Africa,6.68
+1994,South Africa,6.68
+1995,South Africa,8.34
+1996,South Africa,8.34
+1997,South Africa,8.34
+1998,South Africa,8.34
+1999,South Africa,8.34
+2000,South Africa,7.54
+2001,South Africa,7.54
+2002,South Africa,7.54
+2003,South Africa,7.54
+2004,South Africa,7.54
+2005,South Africa,8.64
+2006,South Africa,8.64
+2007,South Africa,8.64
+2008,South Africa,8.64
+2009,South Africa,8.64
+2010,South Africa,9.64
+1950,Spain,3.36
+1951,Spain,3.36
+1952,Spain,3.36
+1953,Spain,3.36
+1954,Spain,3.36
+1955,Spain,3.42
+1956,Spain,3.42
+1957,Spain,3.42
+1958,Spain,3.42
+1959,Spain,3.42
+1960,Spain,3.74
+1961,Spain,3.74
+1962,Spain,3.74
+1963,Spain,3.74
+1964,Spain,3.74
+1965,Spain,4.04
+1966,Spain,4.04
+1967,Spain,4.04
+1968,Spain,4.04
+1969,Spain,4.04
+1970,Spain,5.18
+1971,Spain,5.18
+1972,Spain,5.18
+1973,Spain,5.18
+1974,Spain,5.18
+1975,Spain,5.37
+1976,Spain,5.37
+1977,Spain,5.37
+1978,Spain,5.37
+1979,Spain,5.37
+1980,Spain,6.29
+1981,Spain,6.29
+1982,Spain,6.29
+1983,Spain,6.29
+1984,Spain,6.29
+1985,Spain,6.44
+1986,Spain,6.44
+1987,Spain,6.44
+1988,Spain,6.44
+1989,Spain,6.44
+1990,Spain,6.64
+1991,Spain,6.64
+1992,Spain,6.64
+1993,Spain,6.64
+1994,Spain,6.64
+1995,Spain,7.8
+1996,Spain,7.8
+1997,Spain,7.8
+1998,Spain,7.8
+1999,Spain,7.8
+2000,Spain,8.7
+2001,Spain,8.7
+2002,Spain,8.7
+2003,Spain,8.7
+2004,Spain,8.7
+2005,Spain,9.95
+2006,Spain,9.95
+2007,Spain,9.95
+2008,Spain,9.95
+2009,Spain,9.95
+2010,Spain,10.14
+1950,Sri Lanka,2.6
+1951,Sri Lanka,2.6
+1952,Sri Lanka,2.6
+1953,Sri Lanka,2.6
+1954,Sri Lanka,2.6
+1955,Sri Lanka,2.92
+1956,Sri Lanka,2.92
+1957,Sri Lanka,2.92
+1958,Sri Lanka,2.92
+1959,Sri Lanka,2.92
+1960,Sri Lanka,3.21
+1961,Sri Lanka,3.21
+1962,Sri Lanka,3.21
+1963,Sri Lanka,3.21
+1964,Sri Lanka,3.21
+1965,Sri Lanka,3.65
+1966,Sri Lanka,3.65
+1967,Sri Lanka,3.65
+1968,Sri Lanka,3.65
+1969,Sri Lanka,3.65
+1970,Sri Lanka,5.7
+1971,Sri Lanka,5.7
+1972,Sri Lanka,5.7
+1973,Sri Lanka,5.7
+1974,Sri Lanka,5.7
+1975,Sri Lanka,6.16
+1976,Sri Lanka,6.16
+1977,Sri Lanka,6.16
+1978,Sri Lanka,6.16
+1979,Sri Lanka,6.16
+1980,Sri Lanka,6.49
+1981,Sri Lanka,6.49
+1982,Sri Lanka,6.49
+1983,Sri Lanka,6.49
+1984,Sri Lanka,6.49
+1985,Sri Lanka,7.24
+1986,Sri Lanka,7.24
+1987,Sri Lanka,7.24
+1988,Sri Lanka,7.24
+1989,Sri Lanka,7.24
+1990,Sri Lanka,8.23
+1991,Sri Lanka,8.23
+1992,Sri Lanka,8.23
+1993,Sri Lanka,8.23
+1994,Sri Lanka,8.23
+1995,Sri Lanka,9.15
+1996,Sri Lanka,9.15
+1997,Sri Lanka,9.15
+1998,Sri Lanka,9.15
+1999,Sri Lanka,9.15
+2000,Sri Lanka,10.12
+2001,Sri Lanka,10.12
+2002,Sri Lanka,10.12
+2003,Sri Lanka,10.12
+2004,Sri Lanka,10.12
+2005,Sri Lanka,10.2
+2006,Sri Lanka,10.2
+2007,Sri Lanka,10.2
+2008,Sri Lanka,10.2
+2009,Sri Lanka,10.2
+2010,Sri Lanka,9.98
+1950,Sudan,0.08
+1951,Sudan,0.08
+1952,Sudan,0.08
+1953,Sudan,0.08
+1954,Sudan,0.08
+1955,Sudan,0.1
+1956,Sudan,0.1
+1957,Sudan,0.1
+1958,Sudan,0.1
+1959,Sudan,0.1
+1960,Sudan,0.14
+1961,Sudan,0.14
+1962,Sudan,0.14
+1963,Sudan,0.14
+1964,Sudan,0.14
+1965,Sudan,0.21
+1966,Sudan,0.21
+1967,Sudan,0.21
+1968,Sudan,0.21
+1969,Sudan,0.21
+1970,Sudan,0.31
+1971,Sudan,0.31
+1972,Sudan,0.31
+1973,Sudan,0.31
+1974,Sudan,0.31
+1975,Sudan,0.46
+1976,Sudan,0.46
+1977,Sudan,0.46
+1978,Sudan,0.46
+1979,Sudan,0.46
+1980,Sudan,0.66
+1981,Sudan,0.66
+1982,Sudan,0.66
+1983,Sudan,0.66
+1984,Sudan,0.66
+1985,Sudan,1.07
+1986,Sudan,1.07
+1987,Sudan,1.07
+1988,Sudan,1.07
+1989,Sudan,1.07
+1990,Sudan,1.51
+1991,Sudan,1.51
+1992,Sudan,1.51
+1993,Sudan,1.51
+1994,Sudan,1.51
+1995,Sudan,1.88
+1996,Sudan,1.88
+1997,Sudan,1.88
+1998,Sudan,1.88
+1999,Sudan,1.88
+2000,Sudan,2.22
+2001,Sudan,2.22
+2002,Sudan,2.22
+2003,Sudan,2.22
+2004,Sudan,2.22
+2005,Sudan,2.62
+2006,Sudan,2.62
+2007,Sudan,2.62
+2008,Sudan,2.62
+2009,Sudan,2.62
+2010,Sudan,2.72
+1950,Swaziland,1.11
+1951,Swaziland,1.11
+1952,Swaziland,1.11
+1953,Swaziland,1.11
+1954,Swaziland,1.11
+1955,Swaziland,1.33
+1956,Swaziland,1.33
+1957,Swaziland,1.33
+1958,Swaziland,1.33
+1959,Swaziland,1.33
+1960,Swaziland,1.54
+1961,Swaziland,1.54
+1962,Swaziland,1.54
+1963,Swaziland,1.54
+1964,Swaziland,1.54
+1965,Swaziland,1.91
+1966,Swaziland,1.91
+1967,Swaziland,1.91
+1968,Swaziland,1.91
+1969,Swaziland,1.91
+1970,Swaziland,2.62
+1971,Swaziland,2.62
+1972,Swaziland,2.62
+1973,Swaziland,2.62
+1974,Swaziland,2.62
+1975,Swaziland,3.42
+1976,Swaziland,3.42
+1977,Swaziland,3.42
+1978,Swaziland,3.42
+1979,Swaziland,3.42
+1980,Swaziland,4.52
+1981,Swaziland,4.52
+1982,Swaziland,4.52
+1983,Swaziland,4.52
+1984,Swaziland,4.52
+1985,Swaziland,5.46
+1986,Swaziland,5.46
+1987,Swaziland,5.46
+1988,Swaziland,5.46
+1989,Swaziland,5.46
+1990,Swaziland,5.35
+1991,Swaziland,5.35
+1992,Swaziland,5.35
+1993,Swaziland,5.35
+1994,Swaziland,5.35
+1995,Swaziland,5.17
+1996,Swaziland,5.17
+1997,Swaziland,5.17
+1998,Swaziland,5.17
+1999,Swaziland,5.17
+2000,Swaziland,4.51
+2001,Swaziland,4.51
+2002,Swaziland,4.51
+2003,Swaziland,4.51
+2004,Swaziland,4.51
+2005,Swaziland,3.1
+2006,Swaziland,3.1
+2007,Swaziland,3.1
+2008,Swaziland,3.1
+2009,Swaziland,3.1
+2010,Swaziland,5.08
+1950,Sweden,6.55
+1951,Sweden,6.55
+1952,Sweden,6.55
+1953,Sweden,6.55
+1954,Sweden,6.55
+1955,Sweden,6.77
+1956,Sweden,6.77
+1957,Sweden,6.77
+1958,Sweden,6.77
+1959,Sweden,6.77
+1960,Sweden,7.43
+1961,Sweden,7.43
+1962,Sweden,7.43
+1963,Sweden,7.43
+1964,Sweden,7.43
+1965,Sweden,7.92
+1966,Sweden,7.92
+1967,Sweden,7.92
+1968,Sweden,7.92
+1969,Sweden,7.92
+1970,Sweden,8.24
+1971,Sweden,8.24
+1972,Sweden,8.24
+1973,Sweden,8.24
+1974,Sweden,8.24
+1975,Sweden,8.99
+1976,Sweden,8.99
+1977,Sweden,8.99
+1978,Sweden,8.99
+1979,Sweden,8.99
+1980,Sweden,9.6
+1981,Sweden,9.6
+1982,Sweden,9.6
+1983,Sweden,9.6
+1984,Sweden,9.6
+1985,Sweden,10.05
+1986,Sweden,10.05
+1987,Sweden,10.05
+1988,Sweden,10.05
+1989,Sweden,10.05
+1990,Sweden,10.47
+1991,Sweden,10.47
+1992,Sweden,10.47
+1993,Sweden,10.47
+1994,Sweden,10.47
+1995,Sweden,11.51
+1996,Sweden,11.51
+1997,Sweden,11.51
+1998,Sweden,11.51
+1999,Sweden,11.51
+2000,Sweden,11.44
+2001,Sweden,11.44
+2002,Sweden,11.44
+2003,Sweden,11.44
+2004,Sweden,11.44
+2005,Sweden,12.0
+2006,Sweden,12.0
+2007,Sweden,12.0
+2008,Sweden,12.0
+2009,Sweden,12.0
+2010,Sweden,11.76
+1950,Switzerland,8.36
+1951,Switzerland,8.36
+1952,Switzerland,8.36
+1953,Switzerland,8.36
+1954,Switzerland,8.36
+1955,Switzerland,8.49
+1956,Switzerland,8.49
+1957,Switzerland,8.49
+1958,Switzerland,8.49
+1959,Switzerland,8.49
+1960,Switzerland,8.66
+1961,Switzerland,8.66
+1962,Switzerland,8.66
+1963,Switzerland,8.66
+1964,Switzerland,8.66
+1965,Switzerland,8.98
+1966,Switzerland,8.98
+1967,Switzerland,8.98
+1968,Switzerland,8.98
+1969,Switzerland,8.98
+1970,Switzerland,9.26
+1971,Switzerland,9.26
+1972,Switzerland,9.26
+1973,Switzerland,9.26
+1974,Switzerland,9.26
+1975,Switzerland,9.76
+1976,Switzerland,9.76
+1977,Switzerland,9.76
+1978,Switzerland,9.76
+1979,Switzerland,9.76
+1980,Switzerland,10.42
+1981,Switzerland,10.42
+1982,Switzerland,10.42
+1983,Switzerland,10.42
+1984,Switzerland,10.42
+1985,Switzerland,9.68
+1986,Switzerland,9.68
+1987,Switzerland,9.68
+1988,Switzerland,9.68
+1989,Switzerland,9.68
+1990,Switzerland,9.4
+1991,Switzerland,9.4
+1992,Switzerland,9.4
+1993,Switzerland,9.4
+1994,Switzerland,9.4
+1995,Switzerland,9.22
+1996,Switzerland,9.22
+1997,Switzerland,9.22
+1998,Switzerland,9.22
+1999,Switzerland,9.22
+2000,Switzerland,9.05
+2001,Switzerland,9.05
+2002,Switzerland,9.05
+2003,Switzerland,9.05
+2004,Switzerland,9.05
+2005,Switzerland,10.09
+2006,Switzerland,10.09
+2007,Switzerland,10.09
+2008,Switzerland,10.09
+2009,Switzerland,10.09
+2010,Switzerland,12.67
+1950,Syrian Arab Republic,0.31
+1951,Syrian Arab Republic,0.31
+1952,Syrian Arab Republic,0.31
+1953,Syrian Arab Republic,0.31
+1954,Syrian Arab Republic,0.31
+1955,Syrian Arab Republic,0.4
+1956,Syrian Arab Republic,0.4
+1957,Syrian Arab Republic,0.4
+1958,Syrian Arab Republic,0.4
+1959,Syrian Arab Republic,0.4
+1960,Syrian Arab Republic,0.52
+1961,Syrian Arab Republic,0.52
+1962,Syrian Arab Republic,0.52
+1963,Syrian Arab Republic,0.52
+1964,Syrian Arab Republic,0.52
+1965,Syrian Arab Republic,0.68
+1966,Syrian Arab Republic,0.68
+1967,Syrian Arab Republic,0.68
+1968,Syrian Arab Republic,0.68
+1969,Syrian Arab Republic,0.68
+1970,Syrian Arab Republic,0.99
+1971,Syrian Arab Republic,0.99
+1972,Syrian Arab Republic,0.99
+1973,Syrian Arab Republic,0.99
+1974,Syrian Arab Republic,0.99
+1975,Syrian Arab Republic,1.48
+1976,Syrian Arab Republic,1.48
+1977,Syrian Arab Republic,1.48
+1978,Syrian Arab Republic,1.48
+1979,Syrian Arab Republic,1.48
+1980,Syrian Arab Republic,2.2
+1981,Syrian Arab Republic,2.2
+1982,Syrian Arab Republic,2.2
+1983,Syrian Arab Republic,2.2
+1984,Syrian Arab Republic,2.2
+1985,Syrian Arab Republic,3.0
+1986,Syrian Arab Republic,3.0
+1987,Syrian Arab Republic,3.0
+1988,Syrian Arab Republic,3.0
+1989,Syrian Arab Republic,3.0
+1990,Syrian Arab Republic,3.53
+1991,Syrian Arab Republic,3.53
+1992,Syrian Arab Republic,3.53
+1993,Syrian Arab Republic,3.53
+1994,Syrian Arab Republic,3.53
+1995,Syrian Arab Republic,3.84
+1996,Syrian Arab Republic,3.84
+1997,Syrian Arab Republic,3.84
+1998,Syrian Arab Republic,3.84
+1999,Syrian Arab Republic,3.84
+2000,Syrian Arab Republic,4.23
+2001,Syrian Arab Republic,4.23
+2002,Syrian Arab Republic,4.23
+2003,Syrian Arab Republic,4.23
+2004,Syrian Arab Republic,4.23
+2005,Syrian Arab Republic,5.3
+2006,Syrian Arab Republic,5.3
+2007,Syrian Arab Republic,5.3
+2008,Syrian Arab Republic,5.3
+2009,Syrian Arab Republic,5.3
+2010,Syrian Arab Republic,6.08
+1950,Taiwan,1.87
+1951,Taiwan,1.87
+1952,Taiwan,1.87
+1953,Taiwan,1.87
+1954,Taiwan,1.87
+1955,Taiwan,2.12
+1956,Taiwan,2.12
+1957,Taiwan,2.12
+1958,Taiwan,2.12
+1959,Taiwan,2.12
+1960,Taiwan,2.35
+1961,Taiwan,2.35
+1962,Taiwan,2.35
+1963,Taiwan,2.35
+1964,Taiwan,2.35
+1965,Taiwan,2.8
+1966,Taiwan,2.8
+1967,Taiwan,2.8
+1968,Taiwan,2.8
+1969,Taiwan,2.8
+1970,Taiwan,3.62
+1971,Taiwan,3.62
+1972,Taiwan,3.62
+1973,Taiwan,3.62
+1974,Taiwan,3.62
+1975,Taiwan,4.73
+1976,Taiwan,4.73
+1977,Taiwan,4.73
+1978,Taiwan,4.73
+1979,Taiwan,4.73
+1980,Taiwan,5.88
+1981,Taiwan,5.88
+1982,Taiwan,5.88
+1983,Taiwan,5.88
+1984,Taiwan,5.88
+1985,Taiwan,6.77
+1986,Taiwan,6.77
+1987,Taiwan,6.77
+1988,Taiwan,6.77
+1989,Taiwan,6.77
+1990,Taiwan,7.66
+1991,Taiwan,7.66
+1992,Taiwan,7.66
+1993,Taiwan,7.66
+1994,Taiwan,7.66
+1995,Taiwan,8.38
+1996,Taiwan,8.38
+1997,Taiwan,8.38
+1998,Taiwan,8.38
+1999,Taiwan,8.38
+2000,Taiwan,9.13
+2001,Taiwan,9.13
+2002,Taiwan,9.13
+2003,Taiwan,9.13
+2004,Taiwan,9.13
+2005,Taiwan,10.2
+2006,Taiwan,10.2
+2007,Taiwan,10.2
+2008,Taiwan,10.2
+2009,Taiwan,10.2
+2010,Taiwan,10.69
+1950,Tajikistan,3.68
+1951,Tajikistan,3.68
+1952,Tajikistan,3.68
+1953,Tajikistan,3.68
+1954,Tajikistan,3.68
+1955,Tajikistan,3.99
+1956,Tajikistan,3.99
+1957,Tajikistan,3.99
+1958,Tajikistan,3.99
+1959,Tajikistan,3.99
+1960,Tajikistan,4.44
+1961,Tajikistan,4.44
+1962,Tajikistan,4.44
+1963,Tajikistan,4.44
+1964,Tajikistan,4.44
+1965,Tajikistan,4.89
+1966,Tajikistan,4.89
+1967,Tajikistan,4.89
+1968,Tajikistan,4.89
+1969,Tajikistan,4.89
+1970,Tajikistan,5.81
+1971,Tajikistan,5.81
+1972,Tajikistan,5.81
+1973,Tajikistan,5.81
+1974,Tajikistan,5.81
+1975,Tajikistan,6.77
+1976,Tajikistan,6.77
+1977,Tajikistan,6.77
+1978,Tajikistan,6.77
+1979,Tajikistan,6.77
+1980,Tajikistan,7.95
+1981,Tajikistan,7.95
+1982,Tajikistan,7.95
+1983,Tajikistan,7.95
+1984,Tajikistan,7.95
+1985,Tajikistan,8.72
+1986,Tajikistan,8.72
+1987,Tajikistan,8.72
+1988,Tajikistan,8.72
+1989,Tajikistan,8.72
+1990,Tajikistan,9.34
+1991,Tajikistan,9.34
+1992,Tajikistan,9.34
+1993,Tajikistan,9.34
+1994,Tajikistan,9.34
+1995,Tajikistan,10.02
+1996,Tajikistan,10.02
+1997,Tajikistan,10.02
+1998,Tajikistan,10.02
+1999,Tajikistan,10.02
+2000,Tajikistan,10.33
+2001,Tajikistan,10.33
+2002,Tajikistan,10.33
+2003,Tajikistan,10.33
+2004,Tajikistan,10.33
+2005,Tajikistan,10.51
+2006,Tajikistan,10.51
+2007,Tajikistan,10.51
+2008,Tajikistan,10.51
+2009,Tajikistan,10.51
+2010,Tajikistan,10.59
+1950,Thailand,1.52
+1951,Thailand,1.52
+1952,Thailand,1.52
+1953,Thailand,1.52
+1954,Thailand,1.52
+1955,Thailand,1.81
+1956,Thailand,1.81
+1957,Thailand,1.81
+1958,Thailand,1.81
+1959,Thailand,1.81
+1960,Thailand,2.07
+1961,Thailand,2.07
+1962,Thailand,2.07
+1963,Thailand,2.07
+1964,Thailand,2.07
+1965,Thailand,1.88
+1966,Thailand,1.88
+1967,Thailand,1.88
+1968,Thailand,1.88
+1969,Thailand,1.88
+1970,Thailand,2.15
+1971,Thailand,2.15
+1972,Thailand,2.15
+1973,Thailand,2.15
+1974,Thailand,2.15
+1975,Thailand,2.64
+1976,Thailand,2.64
+1977,Thailand,2.64
+1978,Thailand,2.64
+1979,Thailand,2.64
+1980,Thailand,3.29
+1981,Thailand,3.29
+1982,Thailand,3.29
+1983,Thailand,3.29
+1984,Thailand,3.29
+1985,Thailand,3.86
+1986,Thailand,3.86
+1987,Thailand,3.86
+1988,Thailand,3.86
+1989,Thailand,3.86
+1990,Thailand,4.6
+1991,Thailand,4.6
+1992,Thailand,4.6
+1993,Thailand,4.6
+1994,Thailand,4.6
+1995,Thailand,5.11
+1996,Thailand,5.11
+1997,Thailand,5.11
+1998,Thailand,5.11
+1999,Thailand,5.11
+2000,Thailand,5.39
+2001,Thailand,5.39
+2002,Thailand,5.39
+2003,Thailand,5.39
+2004,Thailand,5.39
+2005,Thailand,6.79
+2006,Thailand,6.79
+2007,Thailand,6.79
+2008,Thailand,6.79
+2009,Thailand,6.79
+2010,Thailand,7.88
+1950,Togo,0.1
+1951,Togo,0.1
+1952,Togo,0.1
+1953,Togo,0.1
+1954,Togo,0.1
+1955,Togo,0.13
+1956,Togo,0.13
+1957,Togo,0.13
+1958,Togo,0.13
+1959,Togo,0.13
+1960,Togo,0.17
+1961,Togo,0.17
+1962,Togo,0.17
+1963,Togo,0.17
+1964,Togo,0.17
+1965,Togo,0.23
+1966,Togo,0.23
+1967,Togo,0.23
+1968,Togo,0.23
+1969,Togo,0.23
+1970,Togo,0.37
+1971,Togo,0.37
+1972,Togo,0.37
+1973,Togo,0.37
+1974,Togo,0.37
+1975,Togo,0.94
+1976,Togo,0.94
+1977,Togo,0.94
+1978,Togo,0.94
+1979,Togo,0.94
+1980,Togo,1.54
+1981,Togo,1.54
+1982,Togo,1.54
+1983,Togo,1.54
+1984,Togo,1.54
+1985,Togo,1.97
+1986,Togo,1.97
+1987,Togo,1.97
+1988,Togo,1.97
+1989,Togo,1.97
+1990,Togo,2.47
+1991,Togo,2.47
+1992,Togo,2.47
+1993,Togo,2.47
+1994,Togo,2.47
+1995,Togo,2.8
+1996,Togo,2.8
+1997,Togo,2.8
+1998,Togo,2.8
+1999,Togo,2.8
+2000,Togo,3.2
+2001,Togo,3.2
+2002,Togo,3.2
+2003,Togo,3.2
+2004,Togo,3.2
+2005,Togo,3.71
+2006,Togo,3.71
+2007,Togo,3.71
+2008,Togo,3.71
+2009,Togo,3.71
+2010,Togo,4.04
+1950,Tonga,5.67
+1951,Tonga,5.67
+1952,Tonga,5.67
+1953,Tonga,5.67
+1954,Tonga,5.67
+1955,Tonga,5.79
+1956,Tonga,5.79
+1957,Tonga,5.79
+1958,Tonga,5.79
+1959,Tonga,5.79
+1960,Tonga,6.08
+1961,Tonga,6.08
+1962,Tonga,6.08
+1963,Tonga,6.08
+1964,Tonga,6.08
+1965,Tonga,6.41
+1966,Tonga,6.41
+1967,Tonga,6.41
+1968,Tonga,6.41
+1969,Tonga,6.41
+1970,Tonga,6.86
+1971,Tonga,6.86
+1972,Tonga,6.86
+1973,Tonga,6.86
+1974,Tonga,6.86
+1975,Tonga,7.4
+1976,Tonga,7.4
+1977,Tonga,7.4
+1978,Tonga,7.4
+1979,Tonga,7.4
+1980,Tonga,7.81
+1981,Tonga,7.81
+1982,Tonga,7.81
+1983,Tonga,7.81
+1984,Tonga,7.81
+1985,Tonga,7.75
+1986,Tonga,7.75
+1987,Tonga,7.75
+1988,Tonga,7.75
+1989,Tonga,7.75
+1990,Tonga,8.58
+1991,Tonga,8.58
+1992,Tonga,8.58
+1993,Tonga,8.58
+1994,Tonga,8.58
+1995,Tonga,9.24
+1996,Tonga,9.24
+1997,Tonga,9.24
+1998,Tonga,9.24
+1999,Tonga,9.24
+2000,Tonga,9.33
+2001,Tonga,9.33
+2002,Tonga,9.33
+2003,Tonga,9.33
+2004,Tonga,9.33
+2005,Tonga,9.28
+2006,Tonga,9.28
+2007,Tonga,9.28
+2008,Tonga,9.28
+2009,Tonga,9.28
+2010,Tonga,10.82
+1950,Trinidad and Tobago,4.76
+1951,Trinidad and Tobago,4.76
+1952,Trinidad and Tobago,4.76
+1953,Trinidad and Tobago,4.76
+1954,Trinidad and Tobago,4.76
+1955,Trinidad and Tobago,5.1
+1956,Trinidad and Tobago,5.1
+1957,Trinidad and Tobago,5.1
+1958,Trinidad and Tobago,5.1
+1959,Trinidad and Tobago,5.1
+1960,Trinidad and Tobago,5.45
+1961,Trinidad and Tobago,5.45
+1962,Trinidad and Tobago,5.45
+1963,Trinidad and Tobago,5.45
+1964,Trinidad and Tobago,5.45
+1965,Trinidad and Tobago,5.76
+1966,Trinidad and Tobago,5.76
+1967,Trinidad and Tobago,5.76
+1968,Trinidad and Tobago,5.76
+1969,Trinidad and Tobago,5.76
+1970,Trinidad and Tobago,6.2
+1971,Trinidad and Tobago,6.2
+1972,Trinidad and Tobago,6.2
+1973,Trinidad and Tobago,6.2
+1974,Trinidad and Tobago,6.2
+1975,Trinidad and Tobago,6.79
+1976,Trinidad and Tobago,6.79
+1977,Trinidad and Tobago,6.79
+1978,Trinidad and Tobago,6.79
+1979,Trinidad and Tobago,6.79
+1980,Trinidad and Tobago,7.49
+1981,Trinidad and Tobago,7.49
+1982,Trinidad and Tobago,7.49
+1983,Trinidad and Tobago,7.49
+1984,Trinidad and Tobago,7.49
+1985,Trinidad and Tobago,7.93
+1986,Trinidad and Tobago,7.93
+1987,Trinidad and Tobago,7.93
+1988,Trinidad and Tobago,7.93
+1989,Trinidad and Tobago,7.93
+1990,Trinidad and Tobago,8.36
+1991,Trinidad and Tobago,8.36
+1992,Trinidad and Tobago,8.36
+1993,Trinidad and Tobago,8.36
+1994,Trinidad and Tobago,8.36
+1995,Trinidad and Tobago,8.93
+1996,Trinidad and Tobago,8.93
+1997,Trinidad and Tobago,8.93
+1998,Trinidad and Tobago,8.93
+1999,Trinidad and Tobago,8.93
+2000,Trinidad and Tobago,9.49
+2001,Trinidad and Tobago,9.49
+2002,Trinidad and Tobago,9.49
+2003,Trinidad and Tobago,9.49
+2004,Trinidad and Tobago,9.49
+2005,Trinidad and Tobago,10.09
+2006,Trinidad and Tobago,10.09
+2007,Trinidad and Tobago,10.09
+2008,Trinidad and Tobago,10.09
+2009,Trinidad and Tobago,10.09
+2010,Trinidad and Tobago,10.63
+1950,Tunisia,0.3
+1951,Tunisia,0.3
+1952,Tunisia,0.3
+1953,Tunisia,0.3
+1954,Tunisia,0.3
+1955,Tunisia,0.35
+1956,Tunisia,0.35
+1957,Tunisia,0.35
+1958,Tunisia,0.35
+1959,Tunisia,0.35
+1960,Tunisia,0.42
+1961,Tunisia,0.42
+1962,Tunisia,0.42
+1963,Tunisia,0.42
+1964,Tunisia,0.42
+1965,Tunisia,0.68
+1966,Tunisia,0.68
+1967,Tunisia,0.68
+1968,Tunisia,0.68
+1969,Tunisia,0.68
+1970,Tunisia,1.01
+1971,Tunisia,1.01
+1972,Tunisia,1.01
+1973,Tunisia,1.01
+1974,Tunisia,1.01
+1975,Tunisia,1.58
+1976,Tunisia,1.58
+1977,Tunisia,1.58
+1978,Tunisia,1.58
+1979,Tunisia,1.58
+1980,Tunisia,2.15
+1981,Tunisia,2.15
+1982,Tunisia,2.15
+1983,Tunisia,2.15
+1984,Tunisia,2.15
+1985,Tunisia,2.57
+1986,Tunisia,2.57
+1987,Tunisia,2.57
+1988,Tunisia,2.57
+1989,Tunisia,2.57
+1990,Tunisia,3.28
+1991,Tunisia,3.28
+1992,Tunisia,3.28
+1993,Tunisia,3.28
+1994,Tunisia,3.28
+1995,Tunisia,4.06
+1996,Tunisia,4.06
+1997,Tunisia,4.06
+1998,Tunisia,4.06
+1999,Tunisia,4.06
+2000,Tunisia,4.94
+2001,Tunisia,4.94
+2002,Tunisia,4.94
+2003,Tunisia,4.94
+2004,Tunisia,4.94
+2005,Tunisia,5.94
+2006,Tunisia,5.94
+2007,Tunisia,5.94
+2008,Tunisia,5.94
+2009,Tunisia,5.94
+2010,Tunisia,6.87
+1950,Turkey,0.63
+1951,Turkey,0.63
+1952,Turkey,0.63
+1953,Turkey,0.63
+1954,Turkey,0.63
+1955,Turkey,0.79
+1956,Turkey,0.79
+1957,Turkey,0.79
+1958,Turkey,0.79
+1959,Turkey,0.79
+1960,Turkey,1.03
+1961,Turkey,1.03
+1962,Turkey,1.03
+1963,Turkey,1.03
+1964,Turkey,1.03
+1965,Turkey,1.22
+1966,Turkey,1.22
+1967,Turkey,1.22
+1968,Turkey,1.22
+1969,Turkey,1.22
+1970,Turkey,1.49
+1971,Turkey,1.49
+1972,Turkey,1.49
+1973,Turkey,1.49
+1974,Turkey,1.49
+1975,Turkey,2.04
+1976,Turkey,2.04
+1977,Turkey,2.04
+1978,Turkey,2.04
+1979,Turkey,2.04
+1980,Turkey,2.55
+1981,Turkey,2.55
+1982,Turkey,2.55
+1983,Turkey,2.55
+1984,Turkey,2.55
+1985,Turkey,3.52
+1986,Turkey,3.52
+1987,Turkey,3.52
+1988,Turkey,3.52
+1989,Turkey,3.52
+1990,Turkey,3.94
+1991,Turkey,3.94
+1992,Turkey,3.94
+1993,Turkey,3.94
+1994,Turkey,3.94
+1995,Turkey,4.35
+1996,Turkey,4.35
+1997,Turkey,4.35
+1998,Turkey,4.35
+1999,Turkey,4.35
+2000,Turkey,5.11
+2001,Turkey,5.11
+2002,Turkey,5.11
+2003,Turkey,5.11
+2004,Turkey,5.11
+2005,Turkey,5.55
+2006,Turkey,5.55
+2007,Turkey,5.55
+2008,Turkey,5.55
+2009,Turkey,5.55
+2010,Turkey,6.31
+1950,USA,8.51
+1951,USA,8.51
+1952,USA,8.51
+1953,USA,8.51
+1954,USA,8.51
+1955,USA,8.84
+1956,USA,8.84
+1957,USA,8.84
+1958,USA,8.84
+1959,USA,8.84
+1960,USA,9.23
+1961,USA,9.23
+1962,USA,9.23
+1963,USA,9.23
+1964,USA,9.23
+1965,USA,10.04
+1966,USA,10.04
+1967,USA,10.04
+1968,USA,10.04
+1969,USA,10.04
+1970,USA,10.76
+1971,USA,10.76
+1972,USA,10.76
+1973,USA,10.76
+1974,USA,10.76
+1975,USA,11.38
+1976,USA,11.38
+1977,USA,11.38
+1978,USA,11.38
+1979,USA,11.38
+1980,USA,11.91
+1981,USA,11.91
+1982,USA,11.91
+1983,USA,11.91
+1984,USA,11.91
+1985,USA,12.15
+1986,USA,12.15
+1987,USA,12.15
+1988,USA,12.15
+1989,USA,12.15
+1990,USA,12.39
+1991,USA,12.39
+1992,USA,12.39
+1993,USA,12.39
+1994,USA,12.39
+1995,USA,12.51
+1996,USA,12.51
+1997,USA,12.51
+1998,USA,12.51
+1999,USA,12.51
+2000,USA,12.65
+2001,USA,12.65
+2002,USA,12.65
+2003,USA,12.65
+2004,USA,12.65
+2005,USA,12.89
+2006,USA,12.89
+2007,USA,12.89
+2008,USA,12.89
+2009,USA,12.89
+2010,USA,13.23
+1950,Uganda,0.41
+1951,Uganda,0.41
+1952,Uganda,0.41
+1953,Uganda,0.41
+1954,Uganda,0.41
+1955,Uganda,0.48
+1956,Uganda,0.48
+1957,Uganda,0.48
+1958,Uganda,0.48
+1959,Uganda,0.48
+1960,Uganda,0.57
+1961,Uganda,0.57
+1962,Uganda,0.57
+1963,Uganda,0.57
+1964,Uganda,0.57
+1965,Uganda,0.65
+1966,Uganda,0.65
+1967,Uganda,0.65
+1968,Uganda,0.65
+1969,Uganda,0.65
+1970,Uganda,0.85
+1971,Uganda,0.85
+1972,Uganda,0.85
+1973,Uganda,0.85
+1974,Uganda,0.85
+1975,Uganda,1.17
+1976,Uganda,1.17
+1977,Uganda,1.17
+1978,Uganda,1.17
+1979,Uganda,1.17
+1980,Uganda,1.5
+1981,Uganda,1.5
+1982,Uganda,1.5
+1983,Uganda,1.5
+1984,Uganda,1.5
+1985,Uganda,1.99
+1986,Uganda,1.99
+1987,Uganda,1.99
+1988,Uganda,1.99
+1989,Uganda,1.99
+1990,Uganda,2.7
+1991,Uganda,2.7
+1992,Uganda,2.7
+1993,Uganda,2.7
+1994,Uganda,2.7
+1995,Uganda,3.12
+1996,Uganda,3.12
+1997,Uganda,3.12
+1998,Uganda,3.12
+1999,Uganda,3.12
+2000,Uganda,3.64
+2001,Uganda,3.64
+2002,Uganda,3.64
+2003,Uganda,3.64
+2004,Uganda,3.64
+2005,Uganda,4.37
+2006,Uganda,4.37
+2007,Uganda,4.37
+2008,Uganda,4.37
+2009,Uganda,4.37
+2010,Uganda,5.23
+1950,Ukraine,3.98
+1951,Ukraine,3.98
+1952,Ukraine,3.98
+1953,Ukraine,3.98
+1954,Ukraine,3.98
+1955,Ukraine,4.56
+1956,Ukraine,4.56
+1957,Ukraine,4.56
+1958,Ukraine,4.56
+1959,Ukraine,4.56
+1960,Ukraine,4.92
+1961,Ukraine,4.92
+1962,Ukraine,4.92
+1963,Ukraine,4.92
+1964,Ukraine,4.92
+1965,Ukraine,5.37
+1966,Ukraine,5.37
+1967,Ukraine,5.37
+1968,Ukraine,5.37
+1969,Ukraine,5.37
+1970,Ukraine,5.66
+1971,Ukraine,5.66
+1972,Ukraine,5.66
+1973,Ukraine,5.66
+1974,Ukraine,5.66
+1975,Ukraine,6.45
+1976,Ukraine,6.45
+1977,Ukraine,6.45
+1978,Ukraine,6.45
+1979,Ukraine,6.45
+1980,Ukraine,7.25
+1981,Ukraine,7.25
+1982,Ukraine,7.25
+1983,Ukraine,7.25
+1984,Ukraine,7.25
+1985,Ukraine,8.36
+1986,Ukraine,8.36
+1987,Ukraine,8.36
+1988,Ukraine,8.36
+1989,Ukraine,8.36
+1990,Ukraine,9.17
+1991,Ukraine,9.17
+1992,Ukraine,9.17
+1993,Ukraine,9.17
+1994,Ukraine,9.17
+1995,Ukraine,9.89
+1996,Ukraine,9.89
+1997,Ukraine,9.89
+1998,Ukraine,9.89
+1999,Ukraine,9.89
+2000,Ukraine,10.21
+2001,Ukraine,10.21
+2002,Ukraine,10.21
+2003,Ukraine,10.21
+2004,Ukraine,10.21
+2005,Ukraine,10.87
+2006,Ukraine,10.87
+2007,Ukraine,10.87
+2008,Ukraine,10.87
+2009,Ukraine,10.87
+2010,Ukraine,11.11
+1950,United Arab Emirates,0.32
+1951,United Arab Emirates,0.32
+1952,United Arab Emirates,0.32
+1953,United Arab Emirates,0.32
+1954,United Arab Emirates,0.32
+1955,United Arab Emirates,0.55
+1956,United Arab Emirates,0.55
+1957,United Arab Emirates,0.55
+1958,United Arab Emirates,0.55
+1959,United Arab Emirates,0.55
+1960,United Arab Emirates,0.85
+1961,United Arab Emirates,0.85
+1962,United Arab Emirates,0.85
+1963,United Arab Emirates,0.85
+1964,United Arab Emirates,0.85
+1965,United Arab Emirates,1.42
+1966,United Arab Emirates,1.42
+1967,United Arab Emirates,1.42
+1968,United Arab Emirates,1.42
+1969,United Arab Emirates,1.42
+1970,United Arab Emirates,1.94
+1971,United Arab Emirates,1.94
+1972,United Arab Emirates,1.94
+1973,United Arab Emirates,1.94
+1974,United Arab Emirates,1.94
+1975,United Arab Emirates,2.62
+1976,United Arab Emirates,2.62
+1977,United Arab Emirates,2.62
+1978,United Arab Emirates,2.62
+1979,United Arab Emirates,2.62
+1980,United Arab Emirates,3.92
+1981,United Arab Emirates,3.92
+1982,United Arab Emirates,3.92
+1983,United Arab Emirates,3.92
+1984,United Arab Emirates,3.92
+1985,United Arab Emirates,5.21
+1986,United Arab Emirates,5.21
+1987,United Arab Emirates,5.21
+1988,United Arab Emirates,5.21
+1989,United Arab Emirates,5.21
+1990,United Arab Emirates,6.47
+1991,United Arab Emirates,6.47
+1992,United Arab Emirates,6.47
+1993,United Arab Emirates,6.47
+1994,United Arab Emirates,6.47
+1995,United Arab Emirates,8.05
+1996,United Arab Emirates,8.05
+1997,United Arab Emirates,8.05
+1998,United Arab Emirates,8.05
+1999,United Arab Emirates,8.05
+2000,United Arab Emirates,9.08
+2001,United Arab Emirates,9.08
+2002,United Arab Emirates,9.08
+2003,United Arab Emirates,9.08
+2004,United Arab Emirates,9.08
+2005,United Arab Emirates,9.85
+2006,United Arab Emirates,9.85
+2007,United Arab Emirates,9.85
+2008,United Arab Emirates,9.85
+2009,United Arab Emirates,9.85
+2010,United Arab Emirates,9.97
+1950,United Kingdom,6.53
+1951,United Kingdom,6.53
+1952,United Kingdom,6.53
+1953,United Kingdom,6.53
+1954,United Kingdom,6.53
+1955,United Kingdom,6.71
+1956,United Kingdom,6.71
+1957,United Kingdom,6.71
+1958,United Kingdom,6.71
+1959,United Kingdom,6.71
+1960,United Kingdom,6.94
+1961,United Kingdom,6.94
+1962,United Kingdom,6.94
+1963,United Kingdom,6.94
+1964,United Kingdom,6.94
+1965,United Kingdom,7.46
+1966,United Kingdom,7.46
+1967,United Kingdom,7.46
+1968,United Kingdom,7.46
+1969,United Kingdom,7.46
+1970,United Kingdom,7.83
+1971,United Kingdom,7.83
+1972,United Kingdom,7.83
+1973,United Kingdom,7.83
+1974,United Kingdom,7.83
+1975,United Kingdom,8.11
+1976,United Kingdom,8.11
+1977,United Kingdom,8.11
+1978,United Kingdom,8.11
+1979,United Kingdom,8.11
+1980,United Kingdom,8.44
+1981,United Kingdom,8.44
+1982,United Kingdom,8.44
+1983,United Kingdom,8.44
+1984,United Kingdom,8.44
+1985,United Kingdom,8.8
+1986,United Kingdom,8.8
+1987,United Kingdom,8.8
+1988,United Kingdom,8.8
+1989,United Kingdom,8.8
+1990,United Kingdom,9.06
+1991,United Kingdom,9.06
+1992,United Kingdom,9.06
+1993,United Kingdom,9.06
+1994,United Kingdom,9.06
+1995,United Kingdom,9.38
+1996,United Kingdom,9.38
+1997,United Kingdom,9.38
+1998,United Kingdom,9.38
+1999,United Kingdom,9.38
+2000,United Kingdom,9.89
+2001,United Kingdom,9.89
+2002,United Kingdom,9.89
+2003,United Kingdom,9.89
+2004,United Kingdom,9.89
+2005,United Kingdom,10.96
+2006,United Kingdom,10.96
+2007,United Kingdom,10.96
+2008,United Kingdom,10.96
+2009,United Kingdom,10.96
+2010,United Kingdom,12.12
+1950,United Republic of Tanzania,0.5
+1951,United Republic of Tanzania,0.5
+1952,United Republic of Tanzania,0.5
+1953,United Republic of Tanzania,0.5
+1954,United Republic of Tanzania,0.5
+1955,United Republic of Tanzania,0.53
+1956,United Republic of Tanzania,0.53
+1957,United Republic of Tanzania,0.53
+1958,United Republic of Tanzania,0.53
+1959,United Republic of Tanzania,0.53
+1960,United Republic of Tanzania,0.83
+1961,United Republic of Tanzania,0.83
+1962,United Republic of Tanzania,0.83
+1963,United Republic of Tanzania,0.83
+1964,United Republic of Tanzania,0.83
+1965,United Republic of Tanzania,0.95
+1966,United Republic of Tanzania,0.95
+1967,United Republic of Tanzania,0.95
+1968,United Republic of Tanzania,0.95
+1969,United Republic of Tanzania,0.95
+1970,United Republic of Tanzania,1.28
+1971,United Republic of Tanzania,1.28
+1972,United Republic of Tanzania,1.28
+1973,United Republic of Tanzania,1.28
+1974,United Republic of Tanzania,1.28
+1975,United Republic of Tanzania,1.53
+1976,United Republic of Tanzania,1.53
+1977,United Republic of Tanzania,1.53
+1978,United Republic of Tanzania,1.53
+1979,United Republic of Tanzania,1.53
+1980,United Republic of Tanzania,2.11
+1981,United Republic of Tanzania,2.11
+1982,United Republic of Tanzania,2.11
+1983,United Republic of Tanzania,2.11
+1984,United Republic of Tanzania,2.11
+1985,United Republic of Tanzania,2.72
+1986,United Republic of Tanzania,2.72
+1987,United Republic of Tanzania,2.72
+1988,United Republic of Tanzania,2.72
+1989,United Republic of Tanzania,2.72
+1990,United Republic of Tanzania,3.3
+1991,United Republic of Tanzania,3.3
+1992,United Republic of Tanzania,3.3
+1993,United Republic of Tanzania,3.3
+1994,United Republic of Tanzania,3.3
+1995,United Republic of Tanzania,3.65
+1996,United Republic of Tanzania,3.65
+1997,United Republic of Tanzania,3.65
+1998,United Republic of Tanzania,3.65
+1999,United Republic of Tanzania,3.65
+2000,United Republic of Tanzania,4.26
+2001,United Republic of Tanzania,4.26
+2002,United Republic of Tanzania,4.26
+2003,United Republic of Tanzania,4.26
+2004,United Republic of Tanzania,4.26
+2005,United Republic of Tanzania,4.58
+2006,United Republic of Tanzania,4.58
+2007,United Republic of Tanzania,4.58
+2008,United Republic of Tanzania,4.58
+2009,United Republic of Tanzania,4.58
+2010,United Republic of Tanzania,5.41
+1950,Uruguay,4.29
+1951,Uruguay,4.29
+1952,Uruguay,4.29
+1953,Uruguay,4.29
+1954,Uruguay,4.29
+1955,Uruguay,4.55
+1956,Uruguay,4.55
+1957,Uruguay,4.55
+1958,Uruguay,4.55
+1959,Uruguay,4.55
+1960,Uruguay,4.84
+1961,Uruguay,4.84
+1962,Uruguay,4.84
+1963,Uruguay,4.84
+1964,Uruguay,4.84
+1965,Uruguay,5.19
+1966,Uruguay,5.19
+1967,Uruguay,5.19
+1968,Uruguay,5.19
+1969,Uruguay,5.19
+1970,Uruguay,5.71
+1971,Uruguay,5.71
+1972,Uruguay,5.71
+1973,Uruguay,5.71
+1974,Uruguay,5.71
+1975,Uruguay,6.2
+1976,Uruguay,6.2
+1977,Uruguay,6.2
+1978,Uruguay,6.2
+1979,Uruguay,6.2
+1980,Uruguay,6.86
+1981,Uruguay,6.86
+1982,Uruguay,6.86
+1983,Uruguay,6.86
+1984,Uruguay,6.86
+1985,Uruguay,7.46
+1986,Uruguay,7.46
+1987,Uruguay,7.46
+1988,Uruguay,7.46
+1989,Uruguay,7.46
+1990,Uruguay,7.32
+1991,Uruguay,7.32
+1992,Uruguay,7.32
+1993,Uruguay,7.32
+1994,Uruguay,7.32
+1995,Uruguay,7.08
+1996,Uruguay,7.08
+1997,Uruguay,7.08
+1998,Uruguay,7.08
+1999,Uruguay,7.08
+2000,Uruguay,7.98
+2001,Uruguay,7.98
+2002,Uruguay,7.98
+2003,Uruguay,7.98
+2004,Uruguay,7.98
+2005,Uruguay,8.15
+2006,Uruguay,8.15
+2007,Uruguay,8.15
+2008,Uruguay,8.15
+2009,Uruguay,8.15
+2010,Uruguay,8.36
+1950,Venezuela,1.36
+1951,Venezuela,1.36
+1952,Venezuela,1.36
+1953,Venezuela,1.36
+1954,Venezuela,1.36
+1955,Venezuela,1.65
+1956,Venezuela,1.65
+1957,Venezuela,1.65
+1958,Venezuela,1.65
+1959,Venezuela,1.65
+1960,Venezuela,2.04
+1961,Venezuela,2.04
+1962,Venezuela,2.04
+1963,Venezuela,2.04
+1964,Venezuela,2.04
+1965,Venezuela,2.42
+1966,Venezuela,2.42
+1967,Venezuela,2.42
+1968,Venezuela,2.42
+1969,Venezuela,2.42
+1970,Venezuela,3.09
+1971,Venezuela,3.09
+1972,Venezuela,3.09
+1973,Venezuela,3.09
+1974,Venezuela,3.09
+1975,Venezuela,4.12
+1976,Venezuela,4.12
+1977,Venezuela,4.12
+1978,Venezuela,4.12
+1979,Venezuela,4.12
+1980,Venezuela,5.1
+1981,Venezuela,5.1
+1982,Venezuela,5.1
+1983,Venezuela,5.1
+1984,Venezuela,5.1
+1985,Venezuela,5.04
+1986,Venezuela,5.04
+1987,Venezuela,5.04
+1988,Venezuela,5.04
+1989,Venezuela,5.04
+1990,Venezuela,5.02
+1991,Venezuela,5.02
+1992,Venezuela,5.02
+1993,Venezuela,5.02
+1994,Venezuela,5.02
+1995,Venezuela,5.91
+1996,Venezuela,5.91
+1997,Venezuela,5.91
+1998,Venezuela,5.91
+1999,Venezuela,5.91
+2000,Venezuela,6.81
+2001,Venezuela,6.81
+2002,Venezuela,6.81
+2003,Venezuela,6.81
+2004,Venezuela,6.81
+2005,Venezuela,7.69
+2006,Venezuela,7.69
+2007,Venezuela,7.69
+2008,Venezuela,7.69
+2009,Venezuela,7.69
+2010,Venezuela,8.7
+1950,Viet Nam,1.81
+1951,Viet Nam,1.81
+1952,Viet Nam,1.81
+1953,Viet Nam,1.81
+1954,Viet Nam,1.81
+1955,Viet Nam,1.78
+1956,Viet Nam,1.78
+1957,Viet Nam,1.78
+1958,Viet Nam,1.78
+1959,Viet Nam,1.78
+1960,Viet Nam,2.1
+1961,Viet Nam,2.1
+1962,Viet Nam,2.1
+1963,Viet Nam,2.1
+1964,Viet Nam,2.1
+1965,Viet Nam,2.51
+1966,Viet Nam,2.51
+1967,Viet Nam,2.51
+1968,Viet Nam,2.51
+1969,Viet Nam,2.51
+1970,Viet Nam,3.16
+1971,Viet Nam,3.16
+1972,Viet Nam,3.16
+1973,Viet Nam,3.16
+1974,Viet Nam,3.16
+1975,Viet Nam,3.77
+1976,Viet Nam,3.77
+1977,Viet Nam,3.77
+1978,Viet Nam,3.77
+1979,Viet Nam,3.77
+1980,Viet Nam,4.41
+1981,Viet Nam,4.41
+1982,Viet Nam,4.41
+1983,Viet Nam,4.41
+1984,Viet Nam,4.41
+1985,Viet Nam,4.11
+1986,Viet Nam,4.11
+1987,Viet Nam,4.11
+1988,Viet Nam,4.11
+1989,Viet Nam,4.11
+1990,Viet Nam,3.78
+1991,Viet Nam,3.78
+1992,Viet Nam,3.78
+1993,Viet Nam,3.78
+1994,Viet Nam,3.78
+1995,Viet Nam,4.53
+1996,Viet Nam,4.53
+1997,Viet Nam,4.53
+1998,Viet Nam,4.53
+1999,Viet Nam,4.53
+2000,Viet Nam,5.32
+2001,Viet Nam,5.32
+2002,Viet Nam,5.32
+2003,Viet Nam,5.32
+2004,Viet Nam,5.32
+2005,Viet Nam,6.08
+2006,Viet Nam,6.08
+2007,Viet Nam,6.08
+2008,Viet Nam,6.08
+2009,Viet Nam,6.08
+2010,Viet Nam,6.81
+1950,Yemen,0.02
+1951,Yemen,0.02
+1952,Yemen,0.02
+1953,Yemen,0.02
+1954,Yemen,0.02
+1955,Yemen,0.02
+1956,Yemen,0.02
+1957,Yemen,0.02
+1958,Yemen,0.02
+1959,Yemen,0.02
+1960,Yemen,0.03
+1961,Yemen,0.03
+1962,Yemen,0.03
+1963,Yemen,0.03
+1964,Yemen,0.03
+1965,Yemen,0.03
+1966,Yemen,0.03
+1967,Yemen,0.03
+1968,Yemen,0.03
+1969,Yemen,0.03
+1970,Yemen,0.03
+1971,Yemen,0.03
+1972,Yemen,0.03
+1973,Yemen,0.03
+1974,Yemen,0.03
+1975,Yemen,0.01
+1976,Yemen,0.01
+1977,Yemen,0.01
+1978,Yemen,0.01
+1979,Yemen,0.01
+1980,Yemen,0.08
+1981,Yemen,0.08
+1982,Yemen,0.08
+1983,Yemen,0.08
+1984,Yemen,0.08
+1985,Yemen,0.17
+1986,Yemen,0.17
+1987,Yemen,0.17
+1988,Yemen,0.17
+1989,Yemen,0.17
+1990,Yemen,0.43
+1991,Yemen,0.43
+1992,Yemen,0.43
+1993,Yemen,0.43
+1994,Yemen,0.43
+1995,Yemen,0.71
+1996,Yemen,0.71
+1997,Yemen,0.71
+1998,Yemen,0.71
+1999,Yemen,0.71
+2000,Yemen,1.15
+2001,Yemen,1.15
+2002,Yemen,1.15
+2003,Yemen,1.15
+2004,Yemen,1.15
+2005,Yemen,1.8
+2006,Yemen,1.8
+2007,Yemen,1.8
+2008,Yemen,1.8
+2009,Yemen,1.8
+2010,Yemen,2.66
+1950,Zambia,1.29
+1951,Zambia,1.29
+1952,Zambia,1.29
+1953,Zambia,1.29
+1954,Zambia,1.29
+1955,Zambia,1.45
+1956,Zambia,1.45
+1957,Zambia,1.45
+1958,Zambia,1.45
+1959,Zambia,1.45
+1960,Zambia,1.71
+1961,Zambia,1.71
+1962,Zambia,1.71
+1963,Zambia,1.71
+1964,Zambia,1.71
+1965,Zambia,1.99
+1966,Zambia,1.99
+1967,Zambia,1.99
+1968,Zambia,1.99
+1969,Zambia,1.99
+1970,Zambia,2.44
+1971,Zambia,2.44
+1972,Zambia,2.44
+1973,Zambia,2.44
+1974,Zambia,2.44
+1975,Zambia,2.73
+1976,Zambia,2.73
+1977,Zambia,2.73
+1978,Zambia,2.73
+1979,Zambia,2.73
+1980,Zambia,3.08
+1981,Zambia,3.08
+1982,Zambia,3.08
+1983,Zambia,3.08
+1984,Zambia,3.08
+1985,Zambia,3.49
+1986,Zambia,3.49
+1987,Zambia,3.49
+1988,Zambia,3.49
+1989,Zambia,3.49
+1990,Zambia,3.87
+1991,Zambia,3.87
+1992,Zambia,3.87
+1993,Zambia,3.87
+1994,Zambia,3.87
+1995,Zambia,5.89
+1996,Zambia,5.89
+1997,Zambia,5.89
+1998,Zambia,5.89
+1999,Zambia,5.89
+2000,Zambia,5.54
+2001,Zambia,5.54
+2002,Zambia,5.54
+2003,Zambia,5.54
+2004,Zambia,5.54
+2005,Zambia,6.0
+2006,Zambia,6.0
+2007,Zambia,6.0
+2008,Zambia,6.0
+2009,Zambia,6.0
+2010,Zambia,6.96
+1950,Zimbabwe,1.29
+1951,Zimbabwe,1.29
+1952,Zimbabwe,1.29
+1953,Zimbabwe,1.29
+1954,Zimbabwe,1.29
+1955,Zimbabwe,1.52
+1956,Zimbabwe,1.52
+1957,Zimbabwe,1.52
+1958,Zimbabwe,1.52
+1959,Zimbabwe,1.52
+1960,Zimbabwe,1.83
+1961,Zimbabwe,1.83
+1962,Zimbabwe,1.83
+1963,Zimbabwe,1.83
+1964,Zimbabwe,1.83
+1965,Zimbabwe,2.08
+1966,Zimbabwe,2.08
+1967,Zimbabwe,2.08
+1968,Zimbabwe,2.08
+1969,Zimbabwe,2.08
+1970,Zimbabwe,2.56
+1971,Zimbabwe,2.56
+1972,Zimbabwe,2.56
+1973,Zimbabwe,2.56
+1974,Zimbabwe,2.56
+1975,Zimbabwe,2.92
+1976,Zimbabwe,2.92
+1977,Zimbabwe,2.92
+1978,Zimbabwe,2.92
+1979,Zimbabwe,2.92
+1980,Zimbabwe,3.31
+1981,Zimbabwe,3.31
+1982,Zimbabwe,3.31
+1983,Zimbabwe,3.31
+1984,Zimbabwe,3.31
+1985,Zimbabwe,3.9
+1986,Zimbabwe,3.9
+1987,Zimbabwe,3.9
+1988,Zimbabwe,3.9
+1989,Zimbabwe,3.9
+1990,Zimbabwe,5.05
+1991,Zimbabwe,5.05
+1992,Zimbabwe,5.05
+1993,Zimbabwe,5.05
+1994,Zimbabwe,5.05
+1995,Zimbabwe,6.04
+1996,Zimbabwe,6.04
+1997,Zimbabwe,6.04
+1998,Zimbabwe,6.04
+1999,Zimbabwe,6.04
+2000,Zimbabwe,6.48
+2001,Zimbabwe,6.48
+2002,Zimbabwe,6.48
+2003,Zimbabwe,6.48
+2004,Zimbabwe,6.48
+2005,Zimbabwe,7.1
+2006,Zimbabwe,7.1
+2007,Zimbabwe,7.1
+2008,Zimbabwe,7.1
+2009,Zimbabwe,7.1
+2010,Zimbabwe,7.38

@@ -2,7 +2,7 @@
 
 We use a lasso regression to determine the causal factors of the fertility rate decline in various countries.
 
-
+## Data Cleaning 
 Initially merged daily income and GDP columns over country and year as they had the max number of countries
 And then left join/merge on every other factor/indicator
 GDP column was cleaned by multiplying by 1000 for datapoints which had “k” like 13.1k -> 13100

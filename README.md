@@ -28,4 +28,7 @@ this leaves 27 cols that are not too correlated
 initially when lassoing, net reproduction rate was the most common one that is highly correlated with fertility rate. After removing it, we got better factors
 We only plotted for top 10 countries. Whne we merge individiual factors, some factors had key issue (USA vs untied states of america). We did the data cleaning using open refine. fon the NaNs, we set thm to zero. We filter dates to 1990 to 2020. our test was 2020 to 2023. 
 
+### model results 
+once the 27 columns are selected from the entire data, we loop through each unique country from the dataframe and perform lasso regression. Trained data from 1990 to 2020, tested from 2020 to 2023. Hyperparamenter tuning was performed by looping through few alpha values, ideally we have a model for each country whcih could have different values for each country. MSE, R2 etc results are stored in csv file. To calculate the weightage of each coefficient which determine the fertility rate percentage effect of each coefficient was computed. 
+
  

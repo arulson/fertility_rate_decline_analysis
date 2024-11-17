@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analyzzer#12</title>
+    
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script type="text/javascript" src="../lib/d3-geo-projection.v2.min.js"></script>
+    <script type="text/javascript" src="../lib/d3-legend.min.js"></script>
+    <script type="text/javascript" src="../lib/topojson.v2.min.js"></script>
+    <script type="text/javascript" src="../lib/d3-tip.min.js"></script>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            overflow: auto; /* Make the page scrollable */
+        }
+        .Index {
+            display: flex;
+            position: relative;
+        }
+        .LeftPanel {
+            width: 367px;
+            height: 100vh; /* Full height */
+            position: fixed; /* Fixed position */
+            top: 0;
+            left: 0;
+            background: white;
+            box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+            padding: 15px;
+            box-sizing: border-box;
+            overflow-y: auto; /* Scroll within the panel if necessary */
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .header img {
+            width: 40px;
+            height: 40px;
+            margin-right: 10px;
+        }
+        .header span {
+            font-size: 24px;
+            color: #E29000;
+            font-family: Inder;
+        }
+        .LeftPanel h2 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        .dropdown-container {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .dropdown-container label {
+            font-size: 20px; /* 4 units smaller than Overview */
+            font-weight: bold;
+            font-family: Arial, sans-serif;
+            margin-right: 10px; /* Add spacing between label and dropdown */
+        }
+        .dropdown-container select {
+            flex-grow: 1; /* Allow the dropdown to adjust size */
+            max-width: 250px; /* Adjust dropdown width */
+            padding: 8px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .WorldMap {
+            margin-left: 367px; /* Add space for the fixed panel */
+            width: calc(100% - 400px); /* Adjust width to avoid overlap */
+            position: relative;
+        }
+        #choropleth {
+            width: 100%; /* Use all available width */
+            height: 100vh; /* Full viewport height */
+        }
+        #tooltip {
+            position: absolute;
+            padding: 8px;
+            background: white;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            pointer-events: none;
+            opacity: 0;
+        }
+
+        .overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+        .overlay-content {
+            background: white;
+            width: 80%;
+            height: 80%;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            position: relative;
+            text-align: center;
+        }
+        .close-button {
+            position: absolute;
+            top: 10px;
+            right: 20px;
+            font-size: 24px;
+            background: none;
+            border: none;
+            cursor: pointer;
+        }
+        #lineChart {
+            width: 100%;
+            height: 100%;
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="Index">
+        <!-- Left-Hand Functional Area -->
+        <div class="LeftPanel">
+            <div class="header">
+                <img src="Buzz.svg" alt="Icon">
+                <span>Analyzzer#12</span>
+            </div>
+            <div class="content-section">
+                <h2>Project</h2>
+            </div>
+            <div class="dropdown-container">
+                <label for="ctyDropdown">Country</label>
+                <select id="ctyDropdown">
+                    <!-- Options populated by D3.js -->
+                </select>
+            </div>
+            <div class="content-section">
+                <h2>Overview</h2>
+                <p>Content</p>
+            </div>
+            <div class="content-section">
+                <h2>Tutorial</h2>
+                <p>Content</p>
+            </div>
+            <div class="contribution-section">
+                <h2>Contribution</h2>
+                <p>Anika Halder</p>
+                <p>Jebby Arulson</p>
+                <p>Po-Lin Lin</p>
+                <p>Saranya Kavileswarapu</p>
+                <p>Subham Subhasis</p>
+                <p>Yukti Bishambu</p>
+            </div>
+        </div>
+
+        <!-- Map Area -->
+        <div class="WorldMap">
+            <svg id="choropleth">
+                <g id="countries"></g> 
+                <g id="legend"></g> 
+            </svg>
+            <div id="tooltip"></div>
+        </div>
+    </div>
+
+    <div id="chartOverlay" class="overlay">
+        <div class="overlay-content">
+            <button id="closeOverlay" class="close-button">&times;</button>
+            <h2 id="overlayTitle"></h2>
+            <svg id="lineChart"></svg>
+        </div>
+    </div>
+
+
+    <script>
+        // Define width and height for the choropleth map
+        const width = document.documentElement.clientWidth - 367; // Account for LeftPanel width
+        const height = document.documentElement.clientHeight;
+
+        // Define the SVG canvas
+        const svg = d3.select("#choropleth")
+            .attr("width", width)
+            .attr("height", height);
+
+        // Define the projection and path generator
+        const projection = d3.geoNaturalEarth1()
+            .scale((width / 2 / Math.PI) * 1.30)
+            .translate([width / 2 -70, height / 1.90]);
+
+        const path = d3.geoPath().projection(projection);
+
+        // Tooltip element
+        const tooltip = d3.select("#tooltip");
+
+        // Load the dataset and map
+        Promise.all([
+            d3.json('world_countries.json'),
+            d3.csv('dataset_01.csv')
+        ]).then(([world, gameData]) => {
+            createMap(world);
+            default_setting(world, gameData);
+        });
+
+        function createMap(world) {
+            d3.select("#countries")
+                .selectAll("path")
+                .data(world.features)
+                .join("path")
+                .attr("d", path)
+                .attr("fill", "#ccc")
+                .attr("stroke", "#fff");
+        }
+
+        function default_setting(world, gameData) {
+            const dropdown = d3.select("#ctyDropdown");
+            const uniqueCountries = [...new Set(gameData.map(d => d.Country))].sort();
+
+            uniqueCountries.forEach(country => {
+                dropdown.append("option").text(country).attr("value", country);
+            });
+
+            dropdown.on("change", function () {
+                const selectedCountry = this.value;
+                selectTrigger(world, gameData, selectedCountry);
+                openOverlay(selectedCountry);
+            });
+
+            selectTrigger(world, gameData, uniqueCountries[0]);
+        }
+
+        function selectTrigger(world, gameData, selectedGame) {
+            const features = world.features;
+
+            const dataMap = {};
+            gameData.forEach(d => {
+                dataMap[d.Country] = d;
+            });
+
+            d3.select("#countries")
+                .selectAll("path")
+                .data(features)
+                .join("path")
+                .attr("d", path)
+                .attr("fill", d => dataMap[d.properties.name] ? "orange" : "#ccc")
+                .on("mouseover", function(event, d) {
+                    const country = d.properties.name;
+                    const data = dataMap[country];
+                    if (data) {
+                        // Parse the Top_5_Indicators correctly
+                        const indicatorsArray = data.Top_5_Indicators
+                            .replace(/^\['|'\]$/g, "") // Remove enclosing [' and ']
+                            .split(/',\s*'/) // Split by ', ' while handling potential spaces
+                
+                        // Move the Top Indicator to the top of the list and mark it in red
+                        const topIndicator = `<strong style="color: red;">${data.Top_Indicator}</strong>`;
+                        const numberedIndicators = indicatorsArray
+                            .map((indicator, index) => {
+                                // Check if this indicator is the Top Indicator
+                                if (indicator.trim() === data.Top_Indicator.trim()) {
+                                    return `<li>${topIndicator}</li>`; // Highlight top indicator
+                                }
+                                return `<li>${indicator.trim()}</li>`; // Regular indicator
+                            })
+                            .join("");
+                
+                        // Tooltip content
+                        tooltip.style("opacity", 1)
+                            .html(`
+                                <strong>${country}</strong><br>
+                                <ol>
+                                    ${numberedIndicators}
+                                </ol>
+                                <strong>Test Adj R²:</strong> ${data.Test_Adj_R2}<br>
+                                <strong>Test MSE:</strong> ${data.Test_MSE}
+                            `)
+                            .style("left", `${event.pageX - 320}px`) // Adjust tooltip position
+                            .style("top", `${event.pageY + 0}px`);
+                    }
+                })
+                .on("mouseout", function() {
+                    tooltip.style("opacity", 0);
+                })
+                .on("click", function (event, d) {
+                    const country = d.properties.name;
+                    openOverlay(country);
+                });
+                
+        }
+
+        function createLineChart(country) {
+            // Get the dimensions of the overlay container
+            const overlay = document.getElementById("chartOverlay");
+            const overlayWidth = overlay.clientWidth;
+            const overlayHeight = overlay.clientHeight;
+        
+            // Define margins and calculate chart dimensions
+            const margin = { top: 100, right: 30, bottom: 50, left: 50 };
+            const chartWidth = overlayWidth - margin.left - margin.right - 400;
+            const chartHeight = overlayHeight - margin.top - margin.bottom - 600;
+        
+            // Generate sample data
+            const data = Array.from({ length: 34 }, (_, i) => {
+                const year = 1990 + i;
+                const trendFactor = 1 - Math.sqrt(i / 34)/1.3; // Factor decreases from 1 to ~0 over time
+                return {
+                    year: year,
+                    Var1: Math.random() * 20 * trendFactor, // Decreasing trend
+                    Var2: Math.random() * 33 * trendFactor, // Decreasing trend
+                    Var3: Math.random() * 30 * trendFactor, // Decreasing trend
+                    Var4: Math.random() * 15 * trendFactor, // Decreasing trend
+                    Var5: Math.random() * 25 * trendFactor, // Decreasing trend
+                };
+            });
+        
+            // Define variables
+            const vars = [
+             "Var1",
+             "Var2", 
+             "Var3", 
+             "Var4", 
+             "Var5"
+             ];
+            const customColors = ["#FFA500", "#008000", "#FFD700", "#FF4500", "#1E90FF"].reverse();
+            const color = d3.scaleOrdinal().domain(vars).range(customColors);
+        
+            // Clear the previous chart
+            d3.select("#lineChart").selectAll("*").remove();
+        
+            // Create SVG
+            const svg = d3.select("#lineChart")
+                .attr("width", overlayWidth)
+                .attr("height", overlayHeight)
+                .append("g")
+                .attr("transform", `translate(${margin.left},${margin.top+100})`);
+                
+        
+            // Define scales
+            const x = d3.scaleLinear().domain([1990, 2023]).range([0, chartWidth]);
+            const y = d3.scaleLinear()
+                .domain([0, 100])
+                .range([chartHeight, 0]);
+            //const color = d3.scaleOrdinal(d3.schemeCategory10).domain(vars);
+        
+            // Stack the data
+            const stack = d3.stack().keys(vars);
+            const stackedData = stack(data);
+        
+            // Add chart title
+            svg.append("text")
+                .attr("x", chartWidth / 2)
+                .attr("y", -150)
+                .attr("text-anchor", "middle")
+                .style("font-size", "26px")
+                .style("font-weight", "bold")
+                .text(`Birth Rate by Factor in ${country}`);
+        
+            // Add X-axis
+            svg.append("g")
+                .call(d3.axisBottom(x).tickFormat(d3.format("d")).ticks(10))
+                .attr("transform", `translate(0,${chartHeight})`);
+        
+            // Add Y-axis
+            svg.append("g").call(d3.axisLeft(y));
+        
+            // Area generator
+            const area = d3.area()
+                .x(d => x(d.data.year))
+                .y0(d => y(d[0]))
+                .y1(d => y(d[1]));
+            
+            // Draw Line
+            const line = d3.line()
+            .x(d => x(d.data.year))
+            .y(d => y(d[1]));
+
+            // Draw stacked areas
+            svg.selectAll(".area")
+                .data(stackedData)
+                .enter()
+                .append("path")
+                .attr("class", "area")
+                .attr("d", area)
+                .attr("fill", d => color(d.key))
+                .style("opacity", 0.3);
+
+
+            svg.selectAll(".line")
+                .data(stackedData)
+                .enter()
+                .append("path")
+                .attr("class", "line")
+                .attr("d", line)
+                .attr("fill", "none")
+                .attr("stroke", d => color(d.key))
+                .attr("stroke-width", 1.5); // Set thickness for solid lines
+        
+            // Add legend
+            const legend = svg.append("g")
+                //.attr("transform", `translate(0,${-40})`);
+                .attr("transform", `translate(${margin.left - 50}, ${-margin.top - 30})`); // Adjust legend position
+
+        
+            legend.selectAll("rect")
+                .data(vars)
+                .enter()
+                .append("rect")
+                .attr("x", 0) // Align rectangles horizontally
+                .attr("y", (_, i) => i * 25) // Adjust vertical spacing
+                .attr("width", 10)
+                .attr("height", 10)
+                .attr("fill", d => color(d));
+        
+            legend.selectAll("text")
+                .data(vars)
+                .enter()
+                .append("text")
+                .attr("x", 15) // Align text to the right of the rectangles
+                .attr("y", (_, i) => i * 25 + 9) // Adjust vertical spacing to match rectangles
+                .text(d => d)
+                .style("font-size", "16px")
+                .attr("alignment-baseline", "middle");
+        }
+        
+
+        function openOverlay(country) {
+            const overlay = document.getElementById("chartOverlay");
+            overlay.style.display = "flex";
+            createLineChart(country);
+        
+            // Add event listener to close the overlay when clicking outside the content
+            overlay.addEventListener("click", function closeOnOutsideClick(event) {
+                if (event.target === overlay) { // Ensure it's the background, not the content
+                    overlay.style.display = "none";
+                    overlay.removeEventListener("click", closeOnOutsideClick); // Remove listener to avoid multiple bindings
+                }
+            });
+        }
+        
+        // Close the overlay when clicking the cross button
+        document.getElementById("closeOverlay").addEventListener("click", () => {
+            document.getElementById("chartOverlay").style.display = "none";
+        });
+    </script>
+</body>
+</html>

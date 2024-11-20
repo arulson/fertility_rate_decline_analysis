@@ -38,7 +38,7 @@
         .content-section {
             position: absolute;
             font-size: 15px;
-            line-height: 1;
+            line-height: 1.05;
             top: 105px; /* Adjust spacing as needed */
             margin-right: 1px;
         }
@@ -273,6 +273,11 @@
 
             createMap(world);
             default_setting(world, modelData, filteredYearlyData);
+
+
+            const uniqueCountries = [...new Set(modelData.map(d => d.Country))].sort();
+            animateSlider(world, modelData, filteredYearlyData, uniqueCountries);
+
         });
 
         function createMap(world) {
@@ -392,43 +397,52 @@
                     const country = d.properties.name;
                     const rate = fertilityRates[selectedYear]?.[country];
                     const data = dataMap[country];
-                    console.log(data);
+                
                     if (rate !== 0 && rate != null && data) {
-                        
                         let tableHTML = "<table>";
-                        tableHTML += "<tr><th>Feature</th><th>Percentage Effect</th></tr>";  //<th>Coefficient</th>
+                        tableHTML += "<tr><th>Feature</th><th>Percentage Effect</th></tr>";
                         data.forEach(row => {
                             tableHTML += `<tr>
                                             <td>${row.Feature.trim()}</td>
                                             <td>${d3.format(".2f")(row.Percentage_Effect)}</td>
                                         </tr>`;
                         });
-                        tableHTML += "</table>";    //<td>${d3.format(".4f")(row.Coefficient)}</td>
-
-                        other_metrics = data.slice(0, 1)
-                        console.log(other_metrics[0].Train_Adj_R2);
-                        
+                        tableHTML += "</table>";
+                
+                        other_metrics = data.slice(0, 1);
+                
                         // Tooltip content
+
                         tooltip.style("opacity", 1)
                             .html(`
                                 <strong>${country} (${selectedYear} Fertility Rate: ${rate.toFixed(2)})</strong><br>
-                                <ol> 
-                                    ${tableHTML}
-                                </ol>
-                                <strong>Adjusted R² value on Training data:</strong> ${d3.format(".5f")(other_metrics[0].Train_Adj_R2)}<br>
-                                <strong>MSE on Test data:</strong> ${d3.format(".5f")(other_metrics[0].Test_MSE)}<br>
-                            `)
-                            .style("left", `${event.pageX - 500}px`) // Adjust tooltip position
-                            .style("top", `${event.pageY + 10}px`);
+                                ${tableHTML}
+                                <strong>Adjusted R²:</strong> ${d3.format(".5f")(other_metrics[0].Train_Adj_R2)}<br>
+                                <strong>MSE:</strong> ${d3.format(".5f")(other_metrics[0].Test_MSE)}<br>
+                            `);
+                        
+                        // Get mouse position and tooltip dimensions
+                        const [mouseX, mouseY] = d3.pointer(event);
+                        const tooltipWidth = tooltip.node().offsetWidth;
+                        const tooltipHeight = tooltip.node().offsetHeight;
+                        const windowWidth = window.innerWidth;
+                        const windowHeight = window.innerHeight;
+                
+                        // Adjust tooltip position to avoid overflow
+                        const left = mouseX + 400 + tooltipWidth > windowWidth
+                            ? mouseX - tooltipWidth - 20
+                            : mouseX + 15;
+                        const top = mouseY + 100 + tooltipHeight > windowHeight
+                            ? mouseY - tooltipHeight - 15
+                            : mouseY + 15;
+
+                        tooltip.style("left", `${left}px`).style("top", `${top}px`);
+                    } else {
+                        tooltip.style("opacity", 1)
+                            .html(`<strong>${country}: No Data Available</strong>`)
+                            .style("left", `${event.pageX - 355}px`)
+                            .style("top", `${event.pageY + 0}px`);
                     }
-                else {
-                    tooltip.style("opacity", 1)
-                            .html(`
-                                <strong>${country}: No Data Available</strong><br>
-                            `)
-                            .style("left", `${event.pageX - 500}px`)
-                            .style("top", `${event.pageY + 10}px`);
-                }
                 })
                 .on("mouseout", function () {
                     // Hide tooltip on mouseout
@@ -660,6 +674,42 @@
         document.getElementById("closeOverlay").addEventListener("click", () => {
             document.getElementById("chartOverlay").style.display = "none";
         });
+        
+        function animateSlider(world, modelData, yearlyData, uniqueCountries) {
+            const startYear = 1990;
+            const endYear = 2023;
+            const duration = 2000; // Total animation duration in milliseconds
+            const stepDuration = duration / (endYear - startYear + 1); // Duration for each step
+            let currentYear = startYear;
+        
+            const interval = d3.interval(() => {
+                if (currentYear > endYear) {
+                    interval.stop(); // Stop the animation when the end year is reached
+                    resetSlider(world, modelData, yearlyData, uniqueCountries, startYear); // Reset to 1990
+                    return;
+                }
+        
+                // Update slider position and year text
+                const xPos = sliderScale(currentYear);
+                handle.attr("cx", xPos);
+                yearText.text(`Year: ${currentYear}`);
+        
+                // Trigger map update for the current year
+                selectTrigger(world, modelData, yearlyData, uniqueCountries[0], currentYear);
+        
+                currentYear++;
+            }, stepDuration);
+        }
+        
+        function resetSlider(world, modelData, yearlyData, uniqueCountries, resetYear) {
+            const xPos = sliderScale(resetYear);
+            handle.attr("cx", xPos);
+            yearText.text(`Year: ${resetYear}`);
+            selectTrigger(world, modelData, yearlyData, uniqueCountries[0], resetYear);
+        }
+        
+
+
     </script>
 </body>
 </html>

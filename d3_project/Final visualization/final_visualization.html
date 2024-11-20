@@ -35,11 +35,20 @@
             overflow-y: auto; /* Scroll within the panel if necessary */
         }
 
+        .content-section {
+            position: absolute;
+            font-size: 15px;
+            line-height: 1.05;
+            top: 105px; /* Adjust spacing as needed */
+            margin-right: 1px;
+        }
+
         .contribution-section {
             position: absolute;
-            bottom: 20px; /* Adjust spacing as needed */
+            font-size: 15px;
+            line-height: 0.2;
+            bottom: 8px; /* Adjust spacing as needed */
         }
-        
 
         .header {
             display: flex;
@@ -52,18 +61,18 @@
             margin-right: 10px;
         }
         .header span {
-            font-size: 24px;
+            font-size: 20px;
             color: #E29000;
             font-family: Inder;
         }
         .LeftPanel h2 {
-            font-size: 24px;
+            font-size: 20px;
             margin-bottom: 10px;
         }
         .dropdown-container {
             display: flex;
             align-items: center;
-            margin-bottom: 20px;
+            margin-bottom: 40px;
         }
         .dropdown-container label {
             font-size: 20px; /* 4 units smaller than Overview */
@@ -142,12 +151,12 @@
         <!-- Left-Hand Functional Area -->
         <div class="LeftPanel">
             <div class="header">
-                <img src="gatech_buzz.png" alt="Icon">
-                <span>Team 012</span>
+                <img src="gatech_buzz.svg" alt="Icon">
+                <span>Fertility Rate trends</span>
             </div>
-            <div class="content-section">
+            <!-- <div class="content-section">
                 <h2>Fertility Rate trends</h2>
-            </div>
+            </div> -->
             <div class="dropdown-container">
                 <label for="ctyDropdown">Country</label>
                 <select id="ctyDropdown">
@@ -156,16 +165,18 @@
             </div>
             <div class="content-section">
                 <h2>Overview</h2>
-                <p>Through this project, we have identified the key factors affecting fertility rates across the globe.<br><br> 
-                    Hovering over different countries shows the results obtained from a Lasso regression model trained using that country's data.<br><br> 
-                    Clicking on the country produces a stacked line chart showing the contribution of the top 5 factors affecting fertility rates over the last 30 years. The black line on top depicts the fertility rate trend for that country.</p>
+                <p>Through this project, we have identified the key factors affecting fertility rates across the globe. Using 30 years of data from Gapminder and various other sources, we trained a <strong>Lasso regression</strong> model for every country. The given visualization depicts the results obtained from our anlaysis. The features of this visualization are as follows: <br><br> 
+                    1. The color scheme of the chloropleth is based on the fertility rates of different countries. Shades of green correspond to countries with higher fertility rates - darker the shade, higher the fertility rate. Similarly, shades of red correspond to countries with lower fertility rates - darker the shade, lower the fertility rate. The countries in gray had no data available. <br>
+                    2. The slider at the bottom of the page allows you to select the year for which you would like to see the chloropleth map. <br>
+                    3. Hovering over different countries shows the results obtained from that country's model. It includes the predicted fertility rate for the selected year, top 5 predictors obtained from the model, their percentage contribution to predicting the fertility rates, adjusted R² for the trained model and mean squared error obtained on test data. Please note that only the predicted fertility rate changes with change in selected year. <br>
+                    4. Clicking on the country or selecting the country from the drop down list on the left panel produces a stacked time series plot showing how much of the fertility rate is explained by the top 5 factors. The black line on top depicts the fertility rate trend for that country.</p>
             </div>
             <!-- <div class="content-section">
                 <h2>Tutorial</h2>
                 <p>Content</p>
             </div> -->
             <div class="contribution-section">
-                <h2>Contributors</h2>
+                <h2>Team 012 Contributors</h2>
                 <p>Anika Halder</p>
                 <p>Jebby Arulson</p>
                 <p>Po-Lin Lin</p>
@@ -246,7 +257,7 @@
             .attr("x", width / 2)
             .attr("y", height - 80)
             .attr("text-anchor", "middle")
-            .text("Year: 2000");
+            .text("Year: 1990");
 
         // Load the dataset and map
         Promise.all([
@@ -385,36 +396,17 @@
                     if (rate !== 0 && rate != null && data) {
                         
                         let tableHTML = "<table>";
-                        tableHTML += "<tr><th>Feature</th><th>Coefficient</th><th>Percentage Effect</th></tr>";
+                        tableHTML += "<tr><th>Feature</th><th>Percentage Effect</th></tr>";  //<th>Coefficient</th>
                         data.forEach(row => {
                             tableHTML += `<tr>
-                                            <td>${row.Feature.trim()}</td> 
-                                            <td>${d3.format(".4f")(row.Coefficient)}</td>
+                                            <td>${row.Feature.trim()}</td>
                                             <td>${d3.format(".2f")(row.Percentage_Effect)}</td>
                                         </tr>`;
                         });
-                        tableHTML += "</table>";
+                        tableHTML += "</table>";    //<td>${d3.format(".4f")(row.Coefficient)}</td>
 
                         other_metrics = data.slice(0, 1)
                         console.log(other_metrics[0].Train_Adj_R2);
-
-                        // // Parse the Top_5_Indicators correctly
-                        // const indicatorsArray = data.Top_5_Indicators
-                        //     .replace(/^\['|'\]$/g, "") // Remove enclosing [' and ']
-                        //     .split(/',\s*'/) // Split by ', ' while handling potential spaces
-                
-                        // // Move the Top Indicator to the top of the list and mark it in red
-                        // const topIndicator = `<strong style="color: red;">${data.Top_Indicator}</strong>`;
-                        // const numberedIndicators = indicatorsArray
-                        //     .map((indicator, index) => {
-                        //         // Check if this indicator is the Top Indicator
-                        //         if (indicator.trim() === data.Top_Indicator.trim()) {
-                        //             return `<li>${topIndicator}</li>`; // Highlight top indicator
-                        //         }
-                        //         return `<li>${indicator.trim()}</li>`; // Regular indicator
-                        //     })
-                        //     .join("");
-
                         
                         // Tooltip content
                         tooltip.style("opacity", 1)
@@ -432,7 +424,7 @@
                 else {
                     tooltip.style("opacity", 1)
                             .html(`
-                                <strong>No Data Available</strong><br>
+                                <strong>${country}: No Data Available</strong><br>
                             `)
                             .style("left", `${event.pageX - 500}px`)
                             .style("top", `${event.pageY + 10}px`);
@@ -508,7 +500,7 @@
                 .range([0, chartWidth]); 
 
             const y = d3.scaleLinear()
-                .domain([0, d3.max(series, d => d3.max(d, d => d[1] + Math.sqrt(d[1])+ 0.1*d[1] ))])  // .domain([0, 10])               //
+                .domain([0, d3.max(series, d => d3.max(d, d => d[1] + Math.sqrt(d[1])+ 0.3*d[1] ))])  // .domain([0, 10])               //
                 .range([chartHeight, 0]);
 
             // Area generator
@@ -566,6 +558,22 @@
                 .attr("fill", "none") 
                 .attr("stroke", "black") 
                 .attr("stroke-width", 2);
+
+            svg.append("text")
+                .attr("x", x(avgFertilityRates[avgFertilityRates.length-1].year)-80) // Position near the last data point
+                .attr("y", y(avgFertilityRates[avgFertilityRates.length - 1].Predicted_Fertility_Rate)-30) // Align with the line's y-coordinate
+                .attr("text-anchor", "start")
+                .attr("font-size", "15px")
+                .attr("font-weight", "bold")
+                .attr("fill", "black")
+                .append("tspan")
+                .attr("x", x(avgFertilityRates[avgFertilityRates.length - 1].year) -80) // Same x for both lines
+                .attr("dy", "0em") // Position the first line
+                .text("Total Fertility Rate")
+                .append("tspan")
+                .attr("x", x(avgFertilityRates[avgFertilityRates.length - 1].year) -80) // Same x for both lines
+                .attr("dy", "1.2em") // Move the second line below the first
+                .text("Trend Line");
             
             // Add X-axis
             svg.append("g")

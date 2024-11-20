@@ -1,0 +1,665 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project_Team12</title>
+    
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script type="text/javascript" src="../lib/d3-geo-projection.v2.min.js"></script>
+    <script type="text/javascript" src="../lib/d3-legend.min.js"></script>
+    <script type="text/javascript" src="../lib/topojson.v2.min.js"></script>
+    <script type="text/javascript" src="../lib/d3-tip.min.js"></script>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            overflow: auto; /* Make the page scrollable */
+        }
+        .Index {
+            display: flex;
+            position: relative;
+        }
+        .LeftPanel {
+            width: 367px;
+            height: 100vh; /* Full height */
+            position: fixed; /* Fixed position */
+            top: 0;
+            left: 0;
+            background: white;
+            box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+            padding: 15px;
+            box-sizing: border-box;
+            overflow-y: auto; /* Scroll within the panel if necessary */
+        }
+
+        .content-section {
+            position: absolute;
+            font-size: 15px;
+            line-height: 1.05;
+            top: 105px; /* Adjust spacing as needed */
+            margin-right: 1px;
+        }
+
+        .contribution-section {
+            position: absolute;
+            font-size: 15px;
+            line-height: 0.2;
+            bottom: 8px; /* Adjust spacing as needed */
+        }
+
+        .header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .header img {
+            width: 40px;
+            height: 40px;
+            margin-right: 10px;
+        }
+        .header span {
+            font-size: 20px;
+            color: #E29000;
+            font-family: Inder;
+        }
+        .LeftPanel h2 {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+        .dropdown-container {
+            display: flex;
+            align-items: center;
+            margin-bottom: 40px;
+        }
+        .dropdown-container label {
+            font-size: 20px; /* 4 units smaller than Overview */
+            font-weight: bold;
+            font-family: Arial, sans-serif;
+            margin-right: 10px; /* Add spacing between label and dropdown */
+        }
+        .dropdown-container select {
+            flex-grow: 1; /* Allow the dropdown to adjust size */
+            max-width: 250px; /* Adjust dropdown width */
+            padding: 8px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .WorldMap {
+            margin-left: 367px; /* Add space for the fixed panel */
+            width: calc(100% - 400px); /* Adjust width to avoid overlap */
+            position: relative;
+        }
+        #choropleth {
+            width: 100%; /* Use all available width */
+            height: 100vh; /* Full viewport height */
+        }
+        #tooltip {
+            position: absolute;
+            padding: 8px;
+            background: white;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            pointer-events: none;
+            opacity: 0;
+        }
+
+        .overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+        .overlay-content {
+            background: white;
+            width: 80%;
+            height: 80%;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            position: relative;
+            text-align: center;
+        }
+        .close-button {
+            position: absolute;
+            top: 10px;
+            right: 20px;
+            font-size: 24px;
+            background: none;
+            border: none;
+            cursor: pointer;
+        }
+        #lineChart {
+            width: 100%;
+            height: 100%;
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="Index">
+        <!-- Left-Hand Functional Area -->
+        <div class="LeftPanel">
+            <div class="header">
+                <img src="gatech_buzz.svg" alt="Icon">
+                <span>Fertility Rate trends</span>
+            </div>
+            <!-- <div class="content-section">
+                <h2>Fertility Rate trends</h2>
+            </div> -->
+            <div class="dropdown-container">
+                <label for="ctyDropdown">Country</label>
+                <select id="ctyDropdown">
+                    <!-- Options populated by D3.js -->
+                </select>
+            </div>
+            <div class="content-section">
+                <h2>Overview</h2>
+                <p>Through this project, we have identified the key factors affecting fertility rates across the globe. Using 30 years of data from Gapminder and various other sources, we trained a <strong>Lasso regression</strong> model for every country. The given visualization depicts the results obtained from our anlaysis. The features of this visualization are as follows: <br><br> 
+                    1. The color scheme of the chloropleth is based on the fertility rates of different countries. Shades of green correspond to countries with higher fertility rates - darker the shade, higher the fertility rate. Similarly, shades of red correspond to countries with lower fertility rates - darker the shade, lower the fertility rate. The countries in gray had no data available. <br>
+                    2. The slider at the bottom of the page allows you to select the year for which you would like to see the chloropleth map. <br>
+                    3. Hovering over different countries shows the results obtained from that country's model. It includes the predicted fertility rate for the selected year, top 5 predictors obtained from the model, their percentage contribution to predicting the fertility rates, adjusted R² for the trained model and mean squared error obtained on test data. Please note that only the predicted fertility rate changes with change in selected year. <br>
+                    4. Clicking on the country or selecting the country from the drop down list on the left panel produces a stacked time series plot showing how much of the fertility rate is explained by the top 5 factors. The black line on top depicts the fertility rate trend for that country.</p>
+            </div>
+            <!-- <div class="content-section">
+                <h2>Tutorial</h2>
+                <p>Content</p>
+            </div> -->
+            <div class="contribution-section">
+                <h2>Team 012 Contributors</h2>
+                <p>Anika Halder</p>
+                <p>Jebby Arulson</p>
+                <p>Po-Lin Lin</p>
+                <p>Saranya Kavileswarapu</p>
+                <p>Subham Subhasis</p>
+                <p>Yukti Bishambu</p>
+            </div>
+        </div>
+
+        <!-- Map Area -->
+        <div class="WorldMap">
+            <svg id="choropleth">
+                <g id="countries"></g> 
+                <g id="legend"></g> 
+            </svg>
+            <div id="tooltip"></div>
+        </div>
+    </div>
+
+    <div id="chartOverlay" class="overlay">
+        <div class="overlay-content">
+            <button id="closeOverlay" class="close-button">&times;</button>
+            <h2 id="overlayTitle"></h2>
+            <svg id="lineChart"></svg>
+        </div>
+    </div>
+
+    <script>
+        // Define width and height for the choropleth map
+        const width = document.documentElement.clientWidth - 367; // Account for LeftPanel width
+        const height = document.documentElement.clientHeight;
+        const margin = { top: 20, right: 60, bottom: 50, left: 50 };
+
+        // Define the SVG canvas
+        const svg = d3.select("#choropleth")
+            .attr("width", width)
+            .attr("height", height);
+
+        // Define the projection and path generator
+        const projection = d3.geoNaturalEarth1()
+            .scale((width / 2 / Math.PI) * 1.30)
+            .translate([width / 2 -70, height / 1.90]);
+
+        const path = d3.geoPath().projection(projection);
+
+        // Tooltip element
+        const tooltip = d3.select("#tooltip");
+
+        // Slider element
+        const sliderScale = d3.scaleLinear()
+            .domain([1990, 2023])  // Adjust based on your data range
+            .range([margin.left, width-margin.right])
+            .clamp(true);
+
+        // Append a group element for the slider
+        const slider = svg.append("g")
+            .attr("class", "slider")
+            .attr("transform", `translate(0, ${height - 70})`);
+
+        // Add a line for the slider track
+        slider.append("line")
+            .attr("class", "track")
+            .attr("x1", sliderScale.range()[0])
+            .attr("x2", sliderScale.range()[1])
+            .attr("stroke", "#000")
+            .attr("stroke-width", 6)
+            .attr("stroke-opacity", 0.5);
+
+        // Add a circle for the slider handle
+        const handle = slider.append("circle")
+            .attr("class", "handle")
+            .attr("r", 10)
+            .attr("cx", sliderScale(1990))  // Initial position
+            .attr("fill", "#FFA500");
+
+        // Add text to display the selected year
+        const yearText = svg.append("text")
+            .attr("x", width / 2)
+            .attr("y", height - 80)
+            .attr("text-anchor", "middle")
+            .text("Year: 1990");
+
+        // Load the dataset and map
+        Promise.all([
+            d3.json('world_countries.json'),
+            d3.csv('feature_importance_all_countries.csv'),
+            d3.csv('fertility_rates_per_country.csv')
+        ]).then(([world, modelData, yearlyData]) => {
+
+            const filteredYearlyData = yearlyData.filter(d => +d.Predicted_Fertility_Rate !== 0);
+            
+            console.log(modelData);
+            console.log(filteredYearlyData);
+
+            createMap(world);
+            default_setting(world, modelData, filteredYearlyData);
+        });
+
+        function createMap(world) {
+            d3.select("#countries")
+                .selectAll("path")
+                .data(world.features)
+                .join("path")
+                .attr("d", path)
+                .attr("fill", "#ccc")
+                .attr("stroke", "#fff");
+        }
+
+        function default_setting(world, modelData, yearlyData) {
+            const initialYear = 1990; 
+            const dropdown = d3.select("#ctyDropdown");
+            const uniqueCountries = [...new Set(modelData.map(d => d.Country))].sort();
+
+            uniqueCountries.forEach(country => {
+                dropdown.append("option").text(country).attr("value", country);
+            });
+
+            dropdown.on("change", function () {
+                const selectedCountry = this.value;
+                rateMap = selectTrigger(world, modelData, yearlyData, selectedCountry, initialYear);
+                openOverlay(selectedCountry, rateMap);
+            });
+            
+            // Add drag behavior to the slider handle
+            const dragBehavior = d3.drag()
+                .on("drag", function(event) {
+                    const xPos = Math.max(sliderScale.range()[0], Math.min(sliderScale.range()[1], event.x));
+                    handle.attr("cx", xPos);
+                    const year = Math.round(sliderScale.invert(xPos));
+                    yearText.text(`Year: ${year}`);
+                    selectTrigger(world, modelData, yearlyData, uniqueCountries[0], year);
+                });
+
+            // Apply drag behavior to the handle
+            handle.call(dragBehavior); 
+            
+            selectTrigger(world, modelData, yearlyData, uniqueCountries[0], initialYear);
+        }
+
+        function selectTrigger(world, modelData, yearlyData, selectedCountry, selectedYear) {
+            const features = world.features;
+
+            const dataMap = {};
+            modelData.forEach(d => {
+                if (!dataMap[d.Country]) {
+                    dataMap[d.Country] = [];   // Check if the country is already in the map
+                }
+                dataMap[d.Country].push(d);  // Add the current row to the respective country's array
+                });
+
+                Object.keys(dataMap).forEach(country => {
+                dataMap[country] = dataMap[country].slice(0, 5); // Keep the first 5 rows
+                });
+            console.log(dataMap);
+            console.log(dataMap["Afghanistan"][0].Feature);
+
+            const rateMap = {};
+            yearlyData.forEach(d => {
+                const country = d.Country;
+                const year = +d.Year;
+                const fertilityRate = +d.Predicted_Fertility_Rate;
+
+                if (!rateMap[country]) {
+                    rateMap[country] = {};
+                }
+                if (!rateMap[country][year]) {
+                    rateMap[country][year] = { Predicted_Fertility_Rate: fertilityRate };
+                }
+
+                // Iterate over each predictor for this country 
+                const predictors = dataMap[country];
+                predictors.forEach(predictor => {
+                    const predictorName = predictor.Feature.trim();
+                    const percentageEffect = +predictor.Percentage_Effect;
+
+                    // Calculate the absolute contribution
+                    const absoluteContribution = (fertilityRate * percentageEffect) / 100;
+
+                    // Store the contribution in the processed data
+                    if (!rateMap[country][year][predictorName]) {
+                        rateMap[country][year][predictorName] = 0;
+                    }
+                    rateMap[country][year][predictorName] += absoluteContribution;
+                    });
+                });
+            console.log(rateMap);
+            console.log(Object.keys(rateMap["Afghanistan"][1990]));
+
+            const fertilityRates = {}; 
+            yearlyData.forEach(d => { 
+                const year = +d.Year;
+                if (!fertilityRates[year]) {
+                    fertilityRates[year] = {};
+                }
+                fertilityRates[year][d.Country] = +d.Predicted_Fertility_Rate; 
+            })
+            console.log(fertilityRates);
+
+            // Define a color scale for the fertility rates 
+            const colorScale = d3.scaleSequential(d3.interpolateRdYlGn).domain([0, d3.max(yearlyData, d => +d.Predicted_Fertility_Rate)])
+
+            d3.select("#countries")
+                .selectAll("path")
+                .data(features)
+                .join("path")
+                .attr("d", path)
+                .attr("fill", d => { const country = d.properties.name; 
+                                    const rate = fertilityRates[selectedYear][country]; 
+                                    return rate != null ? colorScale(rate) : "#ccc";
+                })
+                //("fill", d => dataMap[d.properties.name] ? "orange" : "#ccc")
+                .on("mouseover", function(event, d) {
+                    const country = d.properties.name;
+                    const rate = fertilityRates[selectedYear]?.[country];
+                    const data = dataMap[country];
+                    console.log(data);
+                    if (rate !== 0 && rate != null && data) {
+                        
+                        let tableHTML = "<table>";
+                        tableHTML += "<tr><th>Feature</th><th>Percentage Effect</th></tr>";  //<th>Coefficient</th>
+                        data.forEach(row => {
+                            tableHTML += `<tr>
+                                            <td>${row.Feature.trim()}</td>
+                                            <td>${d3.format(".2f")(row.Percentage_Effect)}</td>
+                                        </tr>`;
+                        });
+                        tableHTML += "</table>";    //<td>${d3.format(".4f")(row.Coefficient)}</td>
+
+                        other_metrics = data.slice(0, 1)
+                        console.log(other_metrics[0].Train_Adj_R2);
+                        
+                        // Tooltip content
+                        tooltip.style("opacity", 1)
+                            .html(`
+                                <strong>${country} (${selectedYear} Fertility Rate: ${rate.toFixed(2)})</strong><br>
+                                <ol> 
+                                    ${tableHTML}
+                                </ol>
+                                <strong>Adjusted R² value on Training data:</strong> ${d3.format(".5f")(other_metrics[0].Train_Adj_R2)}<br>
+                                <strong>MSE on Test data:</strong> ${d3.format(".5f")(other_metrics[0].Test_MSE)}<br>
+                            `)
+                            .style("left", `${event.pageX - 500}px`) // Adjust tooltip position
+                            .style("top", `${event.pageY + 10}px`);
+                    }
+                else {
+                    tooltip.style("opacity", 1)
+                            .html(`
+                                <strong>${country}: No Data Available</strong><br>
+                            `)
+                            .style("left", `${event.pageX - 500}px`)
+                            .style("top", `${event.pageY + 10}px`);
+                }
+                })
+                .on("mouseout", function () {
+                    // Hide tooltip on mouseout
+                    tooltip.style("opacity", 0)
+                        .html(""); // Clear the content to prevent lingering info
+                })
+                .on("click", function (event, d) {
+                    const country = d.properties.name;
+                    if (rateMap[country]) {
+                        openOverlay(country, rateMap);
+                    }   
+                });
+        return rateMap        
+        }
+
+        function createLineChart(country, rateMap) {
+            // Get the dimensions of the overlay container
+            const overlay = document.getElementById("chartOverlay");
+            const overlayWidth = overlay.clientWidth;
+            const overlayHeight = overlay.clientHeight;
+        
+            // Define margins and calculate chart dimensions
+            const margin = { top: -50, right: 30, bottom: 50, left: 50 };
+            const chartWidth = overlayWidth - margin.left - margin.right - 400;
+            const chartHeight = overlayHeight - margin.top - margin.bottom - 300;
+        
+            // Data Processing
+            const years = Object.keys(rateMap[country]).sort();
+            console.log(years);
+
+            const stackedData = years.map(year => {
+                const entry = { year: +year };
+                const predictors = rateMap[country][year];
+                Object.entries(predictors).forEach(([predictorKey, predictorValue]) => {
+                    if (predictorKey !== "Predicted_Fertility_Rate") {
+                        entry[predictorKey] = predictorValue || 0; 
+                    }  
+                });
+                return entry;
+            });
+            console.log(stackedData)
+
+            const vars = Object.keys(rateMap[country][years[0]])
+            vars.shift();
+            console.log(vars)
+
+            // Step 3: Set up D3 stack generator
+            const stack = d3.stack().keys(vars);
+            console.log(stack);
+            const series = stack(stackedData);
+            console.log(series);
+            
+            const customColors = ["#FFA500", "#008000", "#FF4500", "#1E90FF", "#800080"].reverse();
+            const color = d3.scaleOrdinal().domain(vars).range(customColors);
+        
+            // Clear the previous chart
+            d3.select("#lineChart").selectAll("*").remove();
+        
+            // Create SVG
+            const svg = d3.select("#lineChart")
+                .attr("width", overlayWidth)
+                .attr("height", overlayHeight)
+                .append("g")
+                .attr("transform", `translate(${margin.left},${margin.top+100})`);
+            
+            // Define scales
+            const x = d3.scaleLinear()
+                .domain(d3.extent(years, d => +d))  //.domain([1990, 2023]).range([0, chartWidth]);
+                .range([0, chartWidth]); 
+
+            const y = d3.scaleLinear()
+                .domain([0, d3.max(series, d => d3.max(d, d => d[1] + Math.sqrt(d[1])+ 0.3*d[1] ))])  // .domain([0, 10])               //
+                .range([chartHeight, 0]);
+
+            // Area generator
+            const area = d3.area()
+                .x(d => x(d.data.year))
+                .y0(d => y(d[0]))
+                .y1(d => y(d[1]));
+
+            // Draw stacked areas
+            svg.selectAll(".area")
+                .data(series)
+                .enter()
+                .append("path")
+                .attr("class", "area")
+                .attr("d", area)
+                .attr("fill", d => color(d.key))
+                .style("opacity", 0.3);
+            
+            // Draw Line
+            const line = d3.line()
+            .x(d => x(d.data.year))
+            .y(d => y(d[1]));
+
+            svg.selectAll(".line")
+                .data(series)
+                .enter()
+                .append("path")
+                .attr("class", "line")
+                .attr("d", line)
+                .attr("fill", "none")
+                .attr("stroke", d => color(d.key))
+                .attr("stroke-width", 1); // Set thickness for solid lines
+            
+            // Adding another line for fertility rate
+            const avgFertilityRates = years.map(year => {
+                const entry = { year: +year }; 
+                const predictors = rateMap[country][year];
+                Object.entries(predictors).forEach(([predictorKey, predictorValue]) => {
+                    if (predictorKey === "Predicted_Fertility_Rate") {
+                        entry[predictorKey] = predictorValue || 0; 
+                    }  
+                });
+                return entry;
+            });
+            console.log(avgFertilityRates)
+            
+            const line2 = d3.line() 
+            .x(d => x(d.year)) 
+            .y(d => y(d.Predicted_Fertility_Rate)); 
+            
+            svg.append("path") 
+                .datum(avgFertilityRates) 
+                .attr("class", "line") 
+                .attr("d", line2) 
+                .attr("fill", "none") 
+                .attr("stroke", "black") 
+                .attr("stroke-width", 2);
+
+            svg.append("text")
+                .attr("x", x(avgFertilityRates[avgFertilityRates.length-1].year)-80) // Position near the last data point
+                .attr("y", y(avgFertilityRates[avgFertilityRates.length - 1].Predicted_Fertility_Rate)-30) // Align with the line's y-coordinate
+                .attr("text-anchor", "start")
+                .attr("font-size", "15px")
+                .attr("font-weight", "bold")
+                .attr("fill", "black")
+                .append("tspan")
+                .attr("x", x(avgFertilityRates[avgFertilityRates.length - 1].year) -80) // Same x for both lines
+                .attr("dy", "0em") // Position the first line
+                .text("Total Fertility Rate")
+                .append("tspan")
+                .attr("x", x(avgFertilityRates[avgFertilityRates.length - 1].year) -80) // Same x for both lines
+                .attr("dy", "1.2em") // Move the second line below the first
+                .text("Trend Line");
+            
+            // Add X-axis
+            svg.append("g")
+                .call(d3.axisBottom(x).tickFormat(d3.format("d")).ticks(10))
+                .attr("transform", `translate(0,${chartHeight})`);
+            
+            svg.append("text")
+                .attr("text-anchor", "middle")
+                .attr("x", chartWidth / 2) // Position in the middle of the chart width
+                .attr("y", chartHeight + 30) // Position slightly below the X-axis
+                .text("Year");
+        
+            // Add Y-axis
+            svg.append("g").call(d3.axisLeft(y));
+
+            svg.append("text")
+                .attr("text-anchor", "middle")
+                .attr("transform", "rotate(-90)") // Rotate the text to be vertical
+                .attr("x", -chartHeight / 2) // Position in the middle of the chart height
+                .attr("y", -35) // Position slightly left of the Y-axis
+                .text("Fertility Rate");
+
+            // Add chart title
+            svg.append("text")
+                .attr("x", chartWidth / 2)
+                .attr("y", -30)
+                .attr("text-anchor", "middle")
+                .style("font-size", "26px")
+                .style("font-weight", "bold")
+                .text(`Fertility Rate by Factors in ${country}`);
+
+            // Add legend
+            const legend = svg.append("g")
+                //.attr("transform", `translate(0,${-40})`);
+                .attr("transform", `translate(${margin.left - 200}, ${-margin.top - 50})`); // Adjust legend position
+
+            legend.selectAll("rect")
+                .data(vars)
+                .enter()
+                .append("rect")
+                .attr("x", 1000) // Align rectangles horizontally
+                .attr("y", (_, i) => i * 20) // Adjust vertical spacing
+                .attr("width", 10)
+                .attr("height", 10)
+                .attr("fill", d => color(d));
+        
+            legend.selectAll("text")
+                .data(vars)
+                .enter()
+                .append("text")
+                .attr("x", 1015) // Align text to the right of the rectangles
+                .attr("y", (_, i) => i * 20 + 5) // Adjust vertical spacing to match rectangles
+                .text(d => d)
+                .style("font-size", "16px")
+                .attr("alignment-baseline", "middle");
+        }
+        
+        function openOverlay(country, rateMap) {
+            const overlay = document.getElementById("chartOverlay");
+            overlay.style.display = "flex";
+            createLineChart(country, rateMap);
+        
+            // Add event listener to close the overlay when clicking outside the content
+            overlay.addEventListener("click", function closeOnOutsideClick(event) {
+                if (event.target === overlay) { // Ensure it's the background, not the content
+                    overlay.style.display = "none";
+                    overlay.removeEventListener("click", closeOnOutsideClick); // Remove listener to avoid multiple bindings
+                }
+            });
+
+            function closeOnEsc(event) {
+                if (event.key === "Escape") { // Check if the pressed key is Esc
+                    overlay.style.display = "none";
+                    overlay.removeEventListener("click", closeOnOutsideClick); // Remove outside click listener
+                    document.removeEventListener("keydown", closeOnEsc); // Remove Esc key listener
+                }
+            }
+        
+            document.addEventListener("keydown", closeOnEsc);
+
+        }
+        
+        // Close the overlay when clicking the cross button
+        document.getElementById("closeOverlay").addEventListener("click", () => {
+            document.getElementById("chartOverlay").style.display = "none";
+        });
+    </script>
+</body>
+</html>

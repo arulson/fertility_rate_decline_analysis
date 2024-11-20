@@ -34,6 +34,13 @@
             box-sizing: border-box;
             overflow-y: auto; /* Scroll within the panel if necessary */
         }
+
+        .contribution-section {
+            position: absolute;
+            bottom: 20px; /* Adjust spacing as needed */
+        }
+        
+
         .header {
             display: flex;
             align-items: center;
@@ -247,11 +254,14 @@
             d3.csv('feature_importance_all_countries.csv'),
             d3.csv('fertility_rates_per_country.csv')
         ]).then(([world, modelData, yearlyData]) => {
+
+            const filteredYearlyData = yearlyData.filter(d => +d.Predicted_Fertility_Rate !== 0);
+            
             console.log(modelData);
-            console.log(yearlyData);
+            console.log(filteredYearlyData);
 
             createMap(world);
-            default_setting(world, modelData, yearlyData);
+            default_setting(world, modelData, filteredYearlyData);
         });
 
         function createMap(world) {
@@ -368,19 +378,19 @@
                 })
                 //("fill", d => dataMap[d.properties.name] ? "orange" : "#ccc")
                 .on("mouseover", function(event, d) {
-                    
                     const country = d.properties.name;
+                    const rate = fertilityRates[selectedYear]?.[country];
                     const data = dataMap[country];
                     console.log(data);
-                    if (data) {
+                    if (rate !== 0 && rate != null && data) {
                         
                         let tableHTML = "<table>";
                         tableHTML += "<tr><th>Feature</th><th>Coefficient</th><th>Percentage Effect</th></tr>";
                         data.forEach(row => {
                             tableHTML += `<tr>
                                             <td>${row.Feature.trim()}</td> 
-                                            <td>${d3.format(".5f")(row.Coefficient)}</td>
-                                            <td>${d3.format(".5f")(row.Percentage_Effect)}</td>
+                                            <td>${d3.format(".4f")(row.Coefficient)}</td>
+                                            <td>${d3.format(".2f")(row.Percentage_Effect)}</td>
                                         </tr>`;
                         });
                         tableHTML += "</table>";
@@ -405,11 +415,11 @@
                         //     })
                         //     .join("");
 
-                
+                        
                         // Tooltip content
                         tooltip.style("opacity", 1)
                             .html(`
-                                <strong>${country}</strong><br>
+                                <strong>${country} (${selectedYear} Fertility Rate: ${rate.toFixed(2)})</strong><br>
                                 <ol> 
                                     ${tableHTML}
                                 </ol>
@@ -428,8 +438,10 @@
                             .style("top", `${event.pageY + 10}px`);
                 }
                 })
-                .on("mouseout", function() {
-                    tooltip.style("opacity", 0);
+                .on("mouseout", function () {
+                    // Hide tooltip on mouseout
+                    tooltip.style("opacity", 0)
+                        .html(""); // Clear the content to prevent lingering info
                 })
                 .on("click", function (event, d) {
                     const country = d.properties.name;
@@ -449,7 +461,7 @@
             // Define margins and calculate chart dimensions
             const margin = { top: -50, right: 30, bottom: 50, left: 50 };
             const chartWidth = overlayWidth - margin.left - margin.right - 400;
-            const chartHeight = overlayHeight - margin.top - margin.bottom - 250;
+            const chartHeight = overlayHeight - margin.top - margin.bottom - 300;
         
             // Data Processing
             const years = Object.keys(rateMap[country]).sort();
@@ -496,7 +508,7 @@
                 .range([0, chartWidth]); 
 
             const y = d3.scaleLinear()
-                .domain([0, d3.max(series, d => d3.max(d, d => d[1]))+5])  // .domain([0, 10])               //
+                .domain([0, d3.max(series, d => d3.max(d, d => d[1] + Math.sqrt(d[1])+ 0.1*d[1] ))])  // .domain([0, 10])               //
                 .range([chartHeight, 0]);
 
             // Area generator
@@ -623,6 +635,17 @@
                     overlay.removeEventListener("click", closeOnOutsideClick); // Remove listener to avoid multiple bindings
                 }
             });
+
+            function closeOnEsc(event) {
+                if (event.key === "Escape") { // Check if the pressed key is Esc
+                    overlay.style.display = "none";
+                    overlay.removeEventListener("click", closeOnOutsideClick); // Remove outside click listener
+                    document.removeEventListener("keydown", closeOnEsc); // Remove Esc key listener
+                }
+            }
+        
+            document.addEventListener("keydown", closeOnEsc);
+
         }
         
         // Close the overlay when clicking the cross button

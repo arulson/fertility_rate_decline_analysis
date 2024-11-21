@@ -305,7 +305,7 @@
             playButton.on("click", function () {
                 if (isPlaying) {
                     // Stop the animation
-                    if (interval) interval.stop();
+                    interval.stop();
                     isPlaying = false;
                     playButton.select("text").text("Play");
                 } else {

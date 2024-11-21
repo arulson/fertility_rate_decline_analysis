@@ -259,6 +259,32 @@
             .attr("text-anchor", "middle")
             .text("Year: 1990");
 
+        // Add a play button next to the slider
+        const playButton = svg.append("g")
+            .attr("class", "play-button")
+            .attr("transform", `translate(${20}, ${height - 120})`);
+
+        // Add a rectangle for the button background
+        playButton.append("rect")
+            .attr("width", 50)
+            .attr("height", 30)
+            .attr("fill", "#1E90FF")
+            .attr("rx", 5)
+            .attr("ry", 5);
+
+        // Add text to the play button
+        playButton.append("text")
+            .attr("x", 25) // Center of the button
+            .attr("y", 20) // Center of the button
+            .attr("text-anchor", "middle")
+            .attr("fill", "#fff")
+            .attr("font-size", "12px")
+            .text("Play");
+
+        // State variables
+        let isPlaying = false;
+        let interval;
+
         // Load the dataset and map
         Promise.all([
             d3.json('world_countries.json'),
@@ -274,10 +300,23 @@
             createMap(world);
             default_setting(world, modelData, filteredYearlyData);
 
-
             const uniqueCountries = [...new Set(modelData.map(d => d.Country))].sort();
-            animateSlider(world, modelData, filteredYearlyData, uniqueCountries);
+            // Add functionality to the play button
+            playButton.on("click", function () {
+                if (isPlaying) {
+                    // Stop the animation
+                    interval.stop();
+                    isPlaying = false;
+                    playButton.select("text").text("Play");
+                } else {
+                    // Start the animation
+                    isPlaying = true;
+                    playButton.select("text").text("Pause");
 
+                    // Trigger the animation
+                    animateSlider(world, modelData, filteredYearlyData, uniqueCountries);
+                }
+            });
         });
 
         function createMap(world) {

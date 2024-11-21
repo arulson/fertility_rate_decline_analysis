@@ -165,11 +165,11 @@
             </div>
             <div class="content-section">
                 <h2>Overview</h2>
-                <p>Through this project, we have identified the key factors affecting fertility rates across the globe. Using 30 years of data from Gapminder and various other sources, we trained a <strong>Lasso regression</strong> model for every country. The given visualization depicts the results obtained from our anlaysis. The features of this visualization are as follows: <br><br> 
-                    1. The color scheme of the chloropleth is based on the fertility rates of different countries. Shades of green correspond to countries with higher fertility rates - darker the shade, higher the fertility rate. Similarly, shades of red correspond to countries with lower fertility rates - darker the shade, lower the fertility rate. The countries in gray had no data available. <br>
-                    2. The slider at the bottom of the page allows you to select the year for which you would like to see the chloropleth map. <br>
-                    3. Hovering over different countries shows the results obtained from that country's model. It includes the predicted fertility rate for the selected year, top 5 predictors obtained from the model, their percentage contribution to predicting the fertility rates, adjusted R² for the trained model and mean squared error obtained on test data. Please note that only the predicted fertility rate changes with change in selected year. <br>
-                    4. Clicking on the country or selecting the country from the drop down list on the left panel produces a stacked time series plot showing how much of the fertility rate is explained by the top 5 factors. The black line on top depicts the fertility rate trend for that country.</p>
+                <p>Through this project, we have identified the key factors affecting fertility rates across the globe. Using 30 years of data from Gapminder and various other sources, we trained a <strong>Lasso regression</strong> model for every country. The given visualization depicts the results obtained from our analysis. The features of this visualization are as follows: <br><br> 
+                    1. The color scheme of the chloropleth is based on the fertility rates of different countries. The countries in gray had no data available. <br><br>
+                    2. The slider at the bottom of the page allows you to select the year for which you would like to see the chloropleth map. <br><br>
+                    3. Hovering over different countries shows the results obtained from that country's model including the predicted fertility rate for the selected year, top 5 predictors obtained from the model, and their percentage contribution to predicting the fertility rates. Please note that only the predicted fertility rate changes with change in the selected year. <br><br>
+                    4. Clicking on the country or selecting the country from the drop-down list on the left panel produces a stacked time series plot showing how much of the fertility rate is explained by the top 5 factors. </p>
             </div>
             <!-- <div class="content-section">
                 <h2>Tutorial</h2>
@@ -305,7 +305,7 @@
             playButton.on("click", function () {
                 if (isPlaying) {
                     // Stop the animation
-                    interval.stop();
+                    if (interval) interval.stop();
                     isPlaying = false;
                     playButton.select("text").text("Play");
                 } else {
@@ -499,21 +499,15 @@
             const legendHeight = 15; 
             const legendMargin = 20;
 
-            const legendGroup = svg.append("g")
-                .attr("class", "legend")
-                .attr("transform", `translate(${width - legendWidth - 50}, ${legendMargin - 10})`);
+            // Remove existing legend group if it exists 
+            svg.selectAll(".maplegend").remove(); 
+            svg.selectAll("defs #color-gradient").remove();
 
-            legendGroup.append("text")
-                .attr("class", "legend-title")
-                .attr("x", legendWidth / 2) // Center the text
-                .attr("y", legendMargin + 25) // Place above the gradient
-                .attr("text-anchor", "middle")
-                .style("font-size", "12px")
-                .style("font-weight", "bold")
-                .text("Predicted Fertility Rate");
+            const legendGroup = svg.append("g")
+                .attr("class", "maplegend")
+                .attr("transform", `translate(${width - legendWidth - 50}, ${legendMargin - 10})`);
             
             // Create a gradient in defs
-            svg.select("defs #color-gradient").remove();
             const defs = svg.append("defs");
             const gradient = defs.append("linearGradient")
                 .attr("id", "color-gradient")
@@ -524,12 +518,14 @@
 
             // Define gradient stops based on the color scale
             const colorDomain = [0, d3.max(Object.values(fertilityRates[selectedYear] || {}))] //d3.extent(yearlyData, d => +d.Predicted_Fertility_Rate);
-            
-            gradient.selectAll("stop").remove(); // Clear existing stops
+
             const gradientStops = d3.range(0, 1.1, 0.1).map(d => ({
                 offset: `${d * 100}%`,
                 color: d3.interpolateRdYlGn(d)
             }));
+
+            // Clear existing stops and add new stops 
+            gradient.selectAll("stop").remove();
             gradientStops.forEach(stop => {
                 gradient.append("stop")
                     .attr("offset", stop.offset)
@@ -557,7 +553,16 @@
                 .attr("class", "legend-axis")
                 .attr("transform", `translate(0, ${legendHeight})`)
                 .call(legendAxis)
-                .select(".domain").remove();
+                .select(".domain").remove(); 
+            
+            legendGroup.append("text")
+                .attr("class", "legend-title")
+                .attr("x", legendWidth / 2) // Center the text
+                .attr("y", legendMargin + 25) 
+                .attr("text-anchor", "middle")
+                .style("font-size", "12px")
+                .style("font-weight", "bold")
+                .text("Predicted Fertility Rate");
             
         return rateMap        
         }

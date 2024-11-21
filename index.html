@@ -494,6 +494,71 @@
                         openOverlay(country, rateMap);
                     }   
                 });
+            // Define the dimensions for the legend
+            const legendWidth = 300; 
+            const legendHeight = 15; 
+            const legendMargin = 20;
+
+            const legendGroup = svg.append("g")
+                .attr("class", "legend")
+                .attr("transform", `translate(${width - legendWidth - 50}, ${legendMargin - 10})`);
+
+            legendGroup.append("text")
+                .attr("class", "legend-title")
+                .attr("x", legendWidth / 2) // Center the text
+                .attr("y", legendMargin + 25) // Place above the gradient
+                .attr("text-anchor", "middle")
+                .style("font-size", "12px")
+                .style("font-weight", "bold")
+                .text("Predicted Fertility Rate");
+            
+            // Create a gradient in defs
+            svg.select("defs #color-gradient").remove();
+            const defs = svg.append("defs");
+            const gradient = defs.append("linearGradient")
+                .attr("id", "color-gradient")
+                .attr("x1", "0%")
+                .attr("x2", "100%")
+                .attr("y1", "0%")
+                .attr("y2", "0%");
+
+            // Define gradient stops based on the color scale
+            const colorDomain = [0, d3.max(Object.values(fertilityRates[selectedYear] || {}))] //d3.extent(yearlyData, d => +d.Predicted_Fertility_Rate);
+            
+            gradient.selectAll("stop").remove(); // Clear existing stops
+            const gradientStops = d3.range(0, 1.1, 0.1).map(d => ({
+                offset: `${d * 100}%`,
+                color: d3.interpolateRdYlGn(d)
+            }));
+            gradientStops.forEach(stop => {
+                gradient.append("stop")
+                    .attr("offset", stop.offset)
+                    .attr("stop-color", stop.color);
+            });
+
+            // Add a rectangle for the gradient legend
+            legendGroup.append("rect")
+                .attr("x", 0)
+                .attr("y", 0)
+                .attr("width", legendWidth)
+                .attr("height", legendHeight)
+                .style("fill", "url(#color-gradient)");
+
+            // Add an axis for the gradient scale
+            const legendScale = d3.scaleLinear()
+                .domain(colorDomain) // Fertility rate domain
+                .range([0, legendWidth]); // Match the width of the gradient
+
+            const legendAxis = d3.axisBottom(legendScale)
+                .ticks(5)
+                .tickSize(5); // Add spacing below the legend
+
+            legendGroup.append("g")
+                .attr("class", "legend-axis")
+                .attr("transform", `translate(0, ${legendHeight})`)
+                .call(legendAxis)
+                .select(".domain").remove();
+            
         return rateMap        
         }
 
@@ -744,6 +809,8 @@
             const xPos = sliderScale(resetYear);
             handle.attr("cx", xPos);
             yearText.text(`Year: ${resetYear}`);
+            isPlaying = false;
+            playButton.select("text").text("Play");
             selectTrigger(world, modelData, yearlyData, uniqueCountries[0], resetYear);
         }
         
